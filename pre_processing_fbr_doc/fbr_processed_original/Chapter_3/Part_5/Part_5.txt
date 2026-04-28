@@ -1,0 +1,267 @@
+PART V
+HEAD OF INCOME: CAPITAL GAINS
+37. Capital gains.— (1) Subject to this Ordinance, a gain arising on the
+disposal of a capital asset by a person in a tax year, other than a gain that is
+exempt from tax under this Ordinance, shall be chargeable to tax in that year under
+the head “Capital Gains”.
+1[ ]
+2[(1A) Notwithstanding anything contained in sub-section (1), gain arising on
+disposal of immovable property situated in Pakistan, to a person in a tax year shall
+be chargeable to tax under the head capital gains at the rates specified in Division
+VIII of Part I of the First Schedule.]
+(2) Subject to 3[sub-section (4)], the gain arising on the disposal of a
+capital asset by a person shall be computed in accordance with the following
+formula, namely:–
+A – B
+where —
+A is the consideration received by the person on disposal of the asset; and
+B is the cost of the asset.
+4[ ]
+Inserted by the Finance Act, 2012.
+Sub-section (1A) substituted by the Finance Act, 2022. Substituted sub-section (1A) reads as
+follows:
+“(1A) Notwithstanding anything contained in sub-sections (1) and (3) gain 2[under sub-section
+(3A) 2[ ] ] 2[ ] by a person in a tax year, shall be chargeable to tax in that year under the head Capital
+Gains at the rates specified in Division VIII of Part I of the First Schedule.”
+The expression “sub-sections (3) and” omitted by the Finance Act, 2022.
+Sub-section (3) omitted by the Finance Act, 2022. Omitted sub-section (3) reads as follows:
+“ (3) Where a capital asset has been held by a person for more than one year,4[other than shares of
+public companies including the vouchers of Pakistan Telecommunication Corporation,
+modaraba certificates or any instrument of redeemable capital as defined in the 4[Companies
+Act, 2017 (XIX of 2017)], ] the amount of any gain arising on disposal of the asset shall be
+computed in accordance with the following formula, namely: —
+A x ¾
+where A is the amount of the gain determined under sub-section (2).”
+1[ ]
+2[ ]
+3[ ]
+1 The sub-section (3A) substituted through Finance Act, 2020 dated 30th June, 2020 the substituted
+sub-section read as follows:
+(3A) Notwithstanding anything contained in sub-section (3), the amount of any gain arising on
+disposal of immovable property being an open plot shall be computed in accordance with the formula
+specified in the Table below, namely:-
+TABLE
+S.No. Holding Period Gain
+(1) (2) (3)
+1. Where the holding period of open plot does not exceed one year A
+2. Where the holding period of open plot exceeds one year but does not A x 3/4
+exceed eight years
+3. Where the holding period of open plot exceeds eight years 0
+where A is the amount of the gain determined under sub-section (2).
+Sub-sections (3A) omitted by the Finance Act, 2022. Omitted sub-section reads as follows:
+(3A) Notwithstanding anything contained in sub-section (3), the amount of any gain arising
+on disposal of an immovable property shall be computed in accordance with the formula specified
+in the Table below, namely:-
+TABLE
+S.No. Holding period Gain
+(1) (2) (3)
+1. Where the holding period of an immovable property A
+does not exceed one year
+2. Where the holding period of an immovable property A x 3/4
+exceeds one year but does not exceed two years
+3. Where the holding period of an immovable property A x 1/2
+exceeds two years but does not exceed three
+years
+4. Where the holding period of an immovable property A x 1/4
+exceeds three years but does not exceed four
+years
+5. Where the holding period of an immovable property 0
+exceeds four years
+where A is the amount of gain determined under sub-section (2).]
+Sub-section(3B) omitted through Finance Act, 2020 dated 30th June, 2020. The omitted clause read
+as follows: (3B) Notwithstanding anything contained in sub-section (3), the amount of any gain arising
+on disposal of immovable property being a constructed property shall be computed in accordance with
+the formula specified in the Table below, namely:-
+TABLE
+S.No. Holding Period Gain
+(1) (2) (3)
+1. Where the holding period of constructed property does not exceed one year A
+2. Where the holding period of constructed property exceeds one year but A x 3/4
+does not exceed four years
+3. Where the holding period of constructed property exceeds four years 0
+where A is the amount of the gain determined under sub-section (2).]
+(4) For the purposes of determining component B of the formula in sub-
+section (2), no amount shall be included in the cost of a capital asset for any
+expenditure incurred by a person –
+(a) that is or may be deducted under another provision of this
+Chapter; or
+(b) that is referred to in section 21.
+1[ ]
+2[ ]
+(5) In this section, “capital asset” means property of any kind held by a
+person, whether or not connected with a business, but does not include —
+3[(a) any stock-in-trade 4[ ], consumable stores or raw materials held
+for the purpose of business;]
+(b) any property with respect to which the person is entitled to a
+depreciation deduction under section 22 or amortisation
+deduction under section 24; 5[or]
+6[ ]
+(d) any movable property 7[excluding capital assets specified in
+sub-section (5) of section 38] held for personal use by the
+Inserted by the Finance Act, 2003.
+Sub-section (4A) omitted through Finance Act, 2022. Omitted sub-section read as follows:
+“(4A) Where the capital asset becomes the property of the person —
+(a) under a gift 2[from a relative as defined in sub section (5) of section 85], bequest or will;
+(b) by succession, inheritance or devolution;
+(c) a distribution of assets on dissolution of an association of persons; or
+(d) on distribution of assets on liquidation of a company,
+the fair market value of the asset, on the date of its transfer or acquisition by the person shall be
+treated to be the cost of the asset 2[:
+Provided that, if the capital asset acquired through gift is disposed of within two years of
+acquisition and the Commissioner is satisfied that such gift arrangement is a part of tax avoidance
+scheme, then the provisions of sub-section (3) of section 79 shall apply for the purpose of
+determining the cost of asset in the hands of recipient of the gift.]
+The brackets and words “(a) any stock-in-trade;” substituted by the Finance Act, 2002
+The brackets and words “(not being stocks and shares)” omitted by the Finance Act, 2010.
+Inserted by the Finance Act, 2012.
+Clause (c) omitted by the Finance Act, 2012. Omitted clause (c) read as follows:-
+“(c) any immovable property; or”
+The brackets, commas and words “(including wearing apparel, jewellery, or furniture)” substituted
+by the Finance Act, 2003.
+person or any member of the person’s family dependent on the
+person1[.]
+2[ ]
+3[(6) The person acquiring a capital asset, being shares of a company, shall
+deduct advance adjustable tax from the gross amount paid 4[or payable] as
+consideration for the shares 5[at the time of payment or at the time of registration
+of shares by the Securities and Exchange Commission of Pakistan or by the State
+Bank of Pakistan, whichever is earlier] at the rate of ten percent of the fair market
+value of the shares which shall be paid to the Commissioner by way of credit to
+the Federal Government, within fifteen days of the payment.
+(7) Notwithstanding the provisions of section 68, the value of shares, for the
+purpose of sub-section (6), shall be the fair market value, as prescribed for sub-
+section (4) of section 101A, without reduction of liabilities.
+(8) The Commissioner may, on application made by the person acquiring of
+the shares, and after making such inquiry as the Commissioner thinks fit, allow to
+make the payment, without deduction of tax or deduction of tax at a reduced rate.
+(9) The provisions of sections 161, 162, entry No. 15 of the Table in section
+182, clause (c) of sub-section (1) of section 191 and section 205 shall mutatis
+mutandis apply to the tax deductible and payable under this section.
+(10) The person disposing of the capital asset, being shares of a company,
+shall furnish to the Commissioner within thirty days of the transaction of disposal,
+the prescribed information or documents, in a statement as may be prescribed:
+Provided that the Commissioner may, by notice in writing, require the
+said person, to furnish information, documents and statement within a period of
+less than thirty days as specified in the notice.]
+The comma and word “; or” substituted by the Finance Act, 2002
+Clause (e) omitted by the Finance Act, 2001. The omitted clause (e) read as follows:
+“(e) any modaraba certificate or any instrument of redeemable capital listed on any stock exchange
+or shares of a public company.”
+3 Sub-sections (6) to (10) added by the Finance (Supplementary) Act, 2023 (X of 2023) dated
+23.02.2023.
+Words inserted by the Finance Act, 2024.
+Expression inserted by the Finance Act, 2024.
+1[37A. Capital gain on disposal of securities. — (1) The capital gain arising
+on or after the first day of July 2010, from disposal of securities2[ ]3[, other than a
+gain that is exempt from tax under this Ordinance], shall be chargeable to tax at
+the rates specified in Division VII of Part I of the First Schedule:
+4[ ]
+Provided 5[ ] that this section shall not apply to a banking
+company and an insurance company 6[:
+7[Provided further that this section shall not apply to the disposal
+of shares –
+(i) of a listed company made otherwise than through registered
+stock exchange and which are not settled through NCCPL;
+(ii) through initial public offer during listing process except
+where the detail of such disposal is furnished to NCCPL for
+computation of capital gains and tax thereon under this
+section,
+and the provisions of section 37 shall apply on such disposal of
+shares of a listed company or disposal of shares through initial public
+offer, accordingly.]]
+8[(1A) The gain arising on the disposal of a security by a person shall be
+computed in accordance with the following formula, namely: —
+A – B
+Where —
+(i) ‘A’ is the consideration received by the person on disposal of
+the security; and
+Added by the Finance Act, 2010.
+Omitted by Finance Act, 2015. The omitted words read as follows:-
+“ held for a period of less than a year,”
+Inserted by the Finance Act, 2012.
+The First proviso omitted by Finance Act, 2014. The omitted proviso read as follows:
+“Provided that this section shall not apply if the securities are held for a period of more than a
+year.”
+The word “further” omitted by Finance Act, 2014
+6 Full stop substituted with colon and new proviso added by the by the Finance (Supplementary) Act,
+2023 (X of 2023) dated 23.02.2023.
+7 Second proviso substituted by the by the Finance Act, 2023. The substituted second proviso read as
+follows:
+“Provided further that this section shall not apply to the disposal of shares of a listed company made
+otherwise than through registered stock exchange and which are not settled through NCCPL and
+the provisions of section 37 shall apply on such disposal of shares of a listed company, accordingly.”
+Inserted by the Finance Act,2012.
+(ii) ‘B’ is the cost of acquisition of the security.]
+(2) The holding period of a security, for the purposes of this section, shall
+be reckoned from the date of acquisition (whether before, on or after the thirtieth
+day of June, 2010) to the date of disposal of such security falling after the thirtieth
+day of June, 2010.
+(3) For the purposes of this section “security” means share of a public
+company, voucher of Pakistan Telecommunication Corporation, Modaraba
+Certificate, an instrument of redeemable capital1[,debt Securities] 2[, unit of
+exchange traded fund] and derivative products.
+3[(3A) For the purpose of this section, “debt securities” means -
+(a) Corporate Debt Securities such as Term Finance Certificates
+(TFCs), Sukuk Certificates (Sharia Compliant Bonds),
+Registered Bonds, Commercial Papers, Participation Term
+Certificates (PTCs) and all kinds of debt instruments issued by
+any Pakistani or foreign company or corporation registered in
+Pakistan; and
+(b) Government Debt Securities such as Treasury Bills (T-bills),
+Federal Investment Bonds (FIBs), Pakistan Investment Bonds
+(PIBs), Foreign Currency Bonds, Government Papers,
+Municipal Bonds, Infrastructure Bonds and all kinds of debt
+instruments issued by Federal Government, Provincial
+Governments, Local Authorities and other statutory bodies.]
+4[“Explanation: For removal of doubt it is clarified that derivative
+products include future commodity contracts entered into by the
+members of Pakistan Mercantile Exchange whether or not
+settled by physical delivery.”]
+5[(3B) For the purpose of this section, “shares of a public company”
+shall be considered as security if such company is a public company at the time of
+disposal of such shares.]
+(4) Gain under this section shall be treated as a separate block of income.
+(5) Notwithstanding anything contained in this Ordinance, where a person
+sustains a loss on disposal of securities in a tax year, the loss shall be set off only
+Inserted by the Finance Act, 2014.
+Inserted by the Finance Act, 2021.
+The sub-section (3A) inserted by the Finance Act, 2014.
+Inserted by the Finance Act, 2016.
+5 New sub-section (3B) inserted through Finance Act, 2020 dated 30th June, 2020
+against the gain of the person from any other securities chargeable to tax under
+this section and no loss shall be carried forward to the subsequent tax year 1[:]
+2[Provided that so much of the loss sustained on disposal of securities in tax
+year 20l9 and onwards that has not been set off against the gain of the person
+from disposal of securities chargeable to tax under this section shall be carried
+forward to the following tax year and set off only against the gain of the person
+from disposal of securities chargeable to tax under this section, but no such loss
+shall be carried forward to more than three tax years immediately succeeding the
+tax year for which the loss was first computed.]
+3[(6) To carry out purpose of this section, the Board may prescribe rules.]
+38. Deduction of losses in computing the amount chargeable under the
+head “Capital Gains”.— (1) Subject to this Ordinance, in computing the amount
+of a person chargeable to tax under the head “Capital Gains” for a tax year, a
+deduction shall be allowed for any loss on the disposal of a capital asset by the
+person in the year.
+(2) No loss shall be deducted under this section on the disposal of a
+capital asset where a gain on the disposal of such asset would not be chargeable
+to tax.
+(3) The loss arising on the disposal of a capital asset by a person shall
+be computed in accordance with the following formula, namely: —
+A – B
+where —
+A is the cost of the asset; and
+B is the consideration received by the person on disposal of the asset.
+(4) The provisions of sub-section (4) of section 37 shall apply in
+determining component A of the formula in sub-section (3).
+(5) No loss shall be recognized under this Ordinance on the disposal of
+the following capital assets, namely:—
+(a) A painting, sculpture, drawing or other work of art;
+(b) jewellery;
+(c) a rare manuscript, folio or book;
+(d) a postage stamp or first day cover;
+(e) a coin or medallion; or
+(f) an antique.
+Full stop substituted by colon through Finance Supplementary (Second Amendment) Act, 2019
+New Proviso added through Finance Supplementary (Second Amendment) Act, 2019
+Added by the Finance Act, 2021.

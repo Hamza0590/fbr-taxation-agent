@@ -1,0 +1,330 @@
+CHAPTER VIII
+ANTI-AVOIDANCE
+108. Transactions between associates. — (1) The Commissioner may, in
+respect of any transaction between persons who are associates, distribute,
+apportion or allocate income, deductions or tax credits between the persons as is
+necessary to reflect the income that the persons would have realised in an arm’s
+length transaction.
+(2) In making any adjustment under sub-section (1), the Commissioner
+may determine the source of income and the nature of any payment or loss as
+revenue, capital or otherwise.
+1[(3) Every taxpayer who has entered into a transaction with its associate
+shall:
+(a) maintain a master file and a local file containing documents and
+information as may be prescribed;
+(b) keep 2[, maintain and furnish to the Board] prescribed country-by-
+country report, where applicable;
+(c) keep and maintain any other information and document in respect of
+transaction with its associate as may be prescribed; and
+(d) keep the files, documents, information and reports specified in clauses
+(a) to (c) for the period as may be prescribed.
+(4) A taxpayer who has entered into a transaction with its associate shall
+furnish, within thirty days the documents and information to be kept and maintained
+under 3[clause (a), (c) or (d) of] sub-section (3) if required by the Commissioner in
+the course of any proceedings under this Ordinance.;
+(5) The Commissioner may, by an order in writing, grant the taxpayer an
+extension of time for furnishing the documents and information under sub-section
+(4), if the taxpayer applies in writing to the Commissioner for an extension of time
+to furnish the said documents or information:
+Provided that the Commissioner shall not grant an extension of more than
+forty-five days, when such information or documents were required to be furnished
+under sub-section (4), unless there are exceptional circumstances justifying a
+longer extension of time.]
+Added by the Finance Act, 2016.
+The words “and maintain” substituted by the Finance Act, 2018
+Insertedby the Finance Act, 2018
+1[(6) Notwithstanding the provisions of sub-section (1), for the tax year 2024
+and onwards, where any amount is claimed as deduction for the tax year or for any
+of the two preceding tax years on account of royalty paid or payable to an associate
+directly or indirectly in respect of use of any brand name, logo, patent, invention,
+design or model, secret formula or process, copyright, trademark, scientific or
+technical knowledge, franchise, license, intellectual property or other like property
+or right or contractual right and on a notice issued by the Commissioner, the
+taxpayer fails to furnish any explanation or evidence that no benefit has been
+conferred on the associate, twenty five percent of the total expenditure for the tax
+year in respect of sales promotion, advertisement and publicity shall be disallowed
+and allocated to the said associate.]
+2[108A. Report from independent chartered accountant or cost and
+management accountant. – (1) Where the Commissioner is of the opinion that a
+transaction has not been declared at arm’s length, the Commissioner may obtain
+report from an independent chartered accountant or cost and management
+accountant to determine the fair market value of asset, product, expenditure or
+service at the time of transaction.
+(2) The scope, terms and conditions of the report shall be as may be
+prescribed.
+(3) Where the Commissioner is satisfied with the report of the
+independent chartered accountant or cost and management accountant, the fair
+market value of asset, product, expenditure or service determined in the report
+shall be treated as definite information for the purpose of sub-section (8) of section
+122.
+(4) Where the Commissioner is not stratified with the report of the
+independent chartered accountant or cost and management accountant, the
+Commissioner may record reasons for being not satisfied with the report and seek
+report from another independent chartered accountant or cost and management
+accountant, to determine the fair market value of asset, product, expenditure or
+service at the time of transaction.
+(5) The Commissioner shall seek report under sub-section (1) or sub-
+section (3), as the case may be, with prior approval of the Board.
+108B. Transactions under dealership arrangements.- (1) Where a person
+supplies products listed in the Third Schedule to the Sales Tax Act, 1990 or any
+other products as prescribed by the Board, under a dealership arrangement with
+the dealers who are not registered under Sales Tax Act, 1990 and are not
+appearing in the active taxpayers’ list under this Ordinance, an amount equal to
+Sub-section (6) added by the Finance Act, 2024.
+New sections (108A) & (108B) inserted through Finance Act, 2019
+seventy-five percent of the dealer’s margin shall be added to the income of the
+person making such supplies.
+(2) For the purposes of operation of this section, ten percent of the sale
+price of the manufacturer shall be treated as dealers margin.]
+109. Recharacterisation of income and deductions. — (1) For the purposes
+of determining liability to tax under this Ordinance, the Commissioner may –
+(a) recharacterise a transaction or an element of a transaction that was
+entered into as part of a tax avoidance scheme;
+(b) disregard a transaction that does not have substantial economic effect;
+1[ ]
+(c) recharacterise a transaction where the form of the transaction does not
+reflect the substance2[;]
+3[(d) from tax year 2018 and onwards, disregard an entity or a
+corporate structure that does not have an economic or commercial
+substance or was created as part of the tax avoidance scheme] 4[;
+or
+(e) from tax year 2018 and onwards, treat a place of business in Pakistan
+as a permanent establishment, if the said place fulfills the conditions as
+specified in sub-clause (g) of clause (41) of section 2.]
+(2) In this section, “tax avoidance scheme” means any transaction where
+one of the main purposes of a person in entering into the transaction is the
+avoidance or reduction of any person’s liability to tax under this Ordinance.
+5[(3) Reduction in a person's liability to tax as referred to in sub-section (2)
+means a reduction, avoidance or deferral of tax or increase in a refund of tax and
+includes a reduction, avoidance or deferral of tax that would have been payable
+under this Ordinance, but are not payable due to a tax treaty for the avoidance of
+double taxation as referred to in section 107.]
+The word “or” omitted by the finance Act 2022.
+Full stop substituted with a semicolon by the finance Act 2022.
+Inserted by the finance Act 2018
+Full stop substituted and a new clause (e) added by the Finance Act 2022.
+Added by the finance Act 2018
+1[109A. Controlled foreign company.— (1) There shall be included in the taxable
+income of a resident person for a tax year an income attributable to controlled
+foreign company as defined in sub- section (2).
+(2) For the purpose of this section, controlled foreign company means a
+non-resident company, if ─
+(a) more than fifty percent of the capital or voting rights of the non-
+resident company are held, directly or indirectly, by one or more
+persons resident in Pakistan o more than forty percent of the capital
+of the or voting rights of the non-resident company are held, directly
+or indirectly, by a single resident person in Pakistan;
+(b) tax paid, after taking into account any foreign tax credits available to
+the non-resident company, on the income derived or accrued, during
+a foreign tax year, by the non-resident company to any tax authority
+outside Pakistan is less than sixty percent of the tax payable on the
+said income under this Ordinance;
+(c) the non-resident company does not derive active business income
+as defined under sub-section (3); and
+(d) the shares of the company are not traded on any stock exchange
+recognized by law of the country or jurisdiction of which the non-
+resident company is resident for tax purposes.
+(3) A company shall be treated to have derived active income if─
+(a) more than eighty percent of income of the company does not include
+income from dividend, interest, property, capital gains, royalty,
+annuity payment, supply of goods or services to an associate, sale
+or licensing of intangibles and management, holding or investment
+in securities and financial assets; and
+(b) principally derives income under the head “income from business”
+in the country or jurisdiction of which it is a resident.
+(4) Income of a controlled foreign company is an amount equal to the taxable
+income of that company determined in accordance with the provisions of this
+Ordinance as if that controlled foreign company is a resident taxpayer and
+shall be taxed at the rate specified in Division III of Part I of the First Schedule.
+(5) The amount of attributable income under sub-section (1) for a tax year
+shall be computed according to the following formula, namely:—
+Inserted by the finance Act 2018
+A x (B/100)
+Where -
+A is the amount of income of a controlled foreign company under sub-
+section (2); and
+B is the percentage of capital or voting rights, whichever is higher,
+held by the person, directly or indirectly, in the controlled foreign
+company.
+(6) The amount of attributable income shall be treated as zero, if the
+capital or voting rights of the resident person is less than ten percent.
+(7) Income of a controlled foreign company shall be treated as zero, if it
+is less than ten million Rupees.
+(8) The income of a controlled foreign company in respect of a foreign tax
+year, as defined in sub-section (9), shall be determined in the currency of that
+controlled foreign company and shall, for purposes of determining the amount to
+be included in the income of any resident person during any tax year under
+the provisions of this section, be converted into Rupees at the State Bank of
+Pakistan rate applying between that foreign currency and the Rupee on the last
+day of the tax year.
+(9) Foreign tax year, in relation to a non-resident company, means any
+year or period of reporting for income tax purposes by that non-resident company
+in the country or jurisdiction of residence or, if that company is not subject to
+income tax, any annual period of financial reporting by that company.
+(10) The income attributable to controlled foreign company under sub-
+section (1) and taxed in Pakistan under this section shall not be taxed again when
+the same income is received in Pakistan by the resident taxpayer.
+(11) Where tax has been paid by the resident person on the income
+attributable to controlled foreign company and in a subsequent tax year the
+resident person receives dividend distributed by the controlled foreign company,
+after deduction of tax on dividend, the resident person shall be allowed a tax credit
+equal to the lesser of, —
+(i) foreign tax paid, as defined in sub-section (8) of section 103, on
+dividends; and
+(ii) Pakistan tax payable, as defined in section 103, for the tax year
+in which the dividend is received by the resident taxpayer.]
+110. Salary paid by private companies. — Where, in any tax year, salary is
+paid by a private company to an employee of the company for services rendered
+by the employee in an earlier tax year and the salary has not been included in the
+employee’s salary chargeable to tax in that earlier year, the Commissioner may, if
+there are reasonable grounds to believe that payment of the salary was deferred,
+include the amount in the employee’s income under the head “Salary” in that earlier
+year.
+111. Unexplained income or assets. — (1) Where —
+(a) any amount is credited in a person’s books of account;
+(b) a person has made any investment or is the owner of any money
+or valuable article; 1[ ]
+(c) a person has incurred any expenditure2[; or]
+3[(d) any person has concealed income or furnished inaccurate
+particulars of income including —
+(i) the suppression of any production, sales or any amount
+chargeable to tax; or
+(ii) the suppression of any item of receipt liable to tax in
+whole or in part,]
+and the person offers no explanation about the nature and source of the amount
+credited or the investment, money, valuable article, or funds from which the
+expenditure was made 4[suppression of any production, sales, any amount
+chargeable to tax and of any item of receipt liable to tax] or the explanation offered
+by the person is not, 5[in the Commissioner’s opinion, satisfactory-
+(a) the amount credited, value of the investment, money, value of the
+article, or amount of expenditure shall be included in the person’s
+income chargeable to tax under the head “Income from Other
+Sources” to the extent it is not adequately explained; and
+The word “or” omitted by the Finance Act, 2011.
+Comma substituted by the Finance Act, 2011.
+Added by the Finance Act, 2011
+Inserted by the Finance Act, 2011.
+5 The expressions “in the Commissioner’s opinion, satisfactory, the amount credited, value of the
+investment, money, value of the article, or amount of expenditure 5[suppressed amount of production,
+sales or any amount chargeable to tax or of any item of receipt liable to tax] shall be included in the
+person’s income chargeable to tax under head “Income from 5[Other Sources”] to the extent it is not
+adequately explained” substituted through Finance Act, 2020 dated 30th June, 2020
+(b) the suppressed amount of production, sales or any amount
+chargeable to tax or of any item of receipt liable to tax shall be included
+in the person’s income chargeable to tax under the head “Income from
+Business” to the extent it is not adequately explained”] 1[:]
+2[Provided that where a taxpayer explains the nature and
+source of the amount credited or the investment made, money or
+valuable article owned or funds from which the expenditure was made,
+by way of agricultural income, such explanation shall be accepted to
+the extent of agricultural income worked back on the basis of
+agricultural income tax paid under the relevant provincial law.]
+3[(2) The amount referred to in sub-section (1) shall be included in the
+person’s income chargeable to tax:
+(i) in the tax year to which such amount relates if the amount
+representing investment, money, valuable article or expenditure
+is situated or incurred in Pakistan or concealed income is
+Pakistan-source; and
+(ii) in the tax year immediately preceding the tax year in which the
+investment, money, valuable article or expenditure is discovered
+by the Commissioner and is situated or incurred outside Pakistan
+4[or] concealed income is foreign-source.
+Explanation.—For the removal of doubt, it is clarified that where
+the investment, money, valuable article or expenditure is acquired
+or incurred outside Pakistan in a prior tax year and is liable to be
+included in the income of tax year 2018 and onwards on the basis
+of discovery made by the Commissioner during tax year 2019 and
+onwards and the person explains the acquisition of such asset
+or expenditure from sources relating to tax year in which such
+asset was acquired or expenditure was incurred, such explanation
+shall not be rejected on the basis that the source does not relate
+to the tax year in which the amount chargeable to tax is to be
+included.]
+Full stop substituted by the Finance Act, 2013.
+Added by the Finance Act, 2013.
+Sub-section (2) substituted by the Finance Act, 2018. The substituted sub-section (2) read as follows:
+“(2) The amount referred to in sub-section (1) shall be included in the person’s income chargeable to tax in the
+tax year 3[to which such amount relates.”
+The word “and” substituted by the Finance Act, 2021.
+1[(2A) For the purposes of clause (ii) of sub-section (2) of this section, the
+“year of discovery of foreign assets or expenditure or concealed income”, shall
+mean the year in which the Commissioner has issued a notice requiring the person
+to explain the nature and source of such foreign assets, expenditure or concealed
+income.]
+2[(3) Where the declared cost of any investment or valuable article or the
+declared amount of expenditure of a person is less than reasonable cost of the
+investment or the valuable article, or the reasonable amount of the expenditure,
+the Commissioner may, having regard to all the circumstances, include the
+difference in the person’s income chargeable to tax under the head “Income from
+Other Sources” in the tax year 3[to which the investment, valuable article or the
+expenditure relates].]
+4[ ]
+5[(4) Sub-section (1) does not apply to any amount of foreign exchange
+remitted from outside Pakistan through normal banking channels not exceeding
+five million Rupees in a tax year that is en-cashed into rupees by a scheduled bank
+and a certificate from such bank is produced to that effect.]
+6[Explanation.— For removal of doubt, it is clarified that the remittance through
+money service bureaus, exchange companies or money transfer operators shall
+be deemed to constitute foreign exchange remitted from outside Pakistan through
+normal banking channels as provided under this sub-section.
+Sub-section (2A) inserted by the Finance Act, 2024.
+Sub-section (3) substituted by the Finance Act, 2003. The substituted sub-section (3) read as
+follows:
+“(3) Where the declared value of any investment, valuable article or expenditure of a person
+is less than the cost of the investment or valuable article, or the amount of the expenditure, the
+Commissioner may, having regard to all the circumstances, include the difference in the person’s
+income chargeable to tax under the head “Income from Other Sources” in the tax year in which the
+difference is discovered.”
+The words “immediately preceding the financial year in which the difference is discovered” substituted
+by the Finance Act, 2010.
+Sub-section (4) substituted by the Finance Act, 2004. The substituted sub-section (4) read as follows:
+“(4) Sub-section (1) does not apply to any amount of foreign exchange remitted from outside
+Pakistan through normal banking channels that is encashed into rupees by a scheduled bank and a
+certificate from such bank is produced to that effect.”
+Sub-section (4) substituted by the Finance Act, 2021. The substituted sub-section read as follows:
+(4) Sub-section (1) does not apply,—
+(a) to any amount of foreign exchange remitted from outside Pakistan through normal
+banking channels 5[not exceeding 5[five] million Rupees in a tax year] that is
+encashed into rupees by a scheduled bank and a certificate from such bank is
+produced to that effect5[.]
+5[ ]
+5[ ]
+The explanation and sub-section (4A) inserted by the Finance Act, 2022.
+(4A) Where a taxpayer, while explaining the nature and source of any
+amount referred to in sub-section (1), takes into account any source of income
+which is subject to final tax under any provision of the Ordinance, the taxpayer
+shall not be entitled to take credit of any sum as is in excess of imputable income,
+unless the excess amount is reasonably attributed to the business activities subject
+to final tax and the taxpayer furnishes financial statements and accounts duly
+audited by a chartered accountant.]
+(5) The 1[Board] may make rules under section 2[237] for the purposes of
+this section.
+3[ ]
+4[Explanation.— For the removal of doubt, it is clarified that a separate notice
+under this section is not required to be issued if the explanation regarding
+nature and sources of;
+(i) any amount credited in a person’s books of account; or
+(ii) any investment made or ownership of money or valuable article; or
+(iii) funds from which expenditure was made; or
+(iv) suppression of any production, sales, or any amount chargeable to
+tax; or
+(v) suppression of any item of receipt liable to tax in whole or in part has
+been confronted to the taxpayer through a notice under sub-section
+(9) of section 122 of the Ordinance.]
+112. Liability in respect of certain security transactions.— (1) Where the
+owner of any security disposes of the security and thereafter re-acquires the
+security and the result of the transaction is that any income payable in respect of
+the security is receivable by any person other than the owner, the income shall be
+treated, for all purposes of the Ordinance, as the income of the owner and not of
+the other person.
+(2) In this section, “security” includes 5[bonds, certificates, debentures,]
+stocks and shares.
+The words “Central Board of Revenue” substituted by the Finance Act, 2007.
+The figure “232” substituted by the Finance Act, 2002.
+3 Added by the Finance Act, 2021.
+The explanation substituted by the Finance Act, 2022. The substituted Explanation read as follows:
+“Explanation.—For the removal of doubt, a separate notice under this section is not required to be
+issued if the explanation regarding nature and sources of amount credited or the investment of money,
+valuable article, or the funds from which expenditure was made has been confronted to the taxpayer
+through a notice under sub-section (9) of section 122 of this Ordinance.”
+Inserted by the Finance Act, 2003.

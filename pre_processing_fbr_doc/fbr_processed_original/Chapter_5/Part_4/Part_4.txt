@@ -1,0 +1,259 @@
+PART IV
+COMPANIES
+94. Principles of taxation of companies.- (1) A company shall be liable to tax
+separately from its shareholders.
+(2) A dividend paid by a 3[ ] company shall be taxable in accordance with
+Section 5.
+4[ ]
+“(4)An association of persons referred to in sub-section (3) shall furnish a return of total income for
+each tax year.
+Sub-section (5) omitted by the Finance Act, 2007. The omitted sub-section (5) read as follows:
+“(5) Sections 114, 118 and 119 shall apply to a return of total income required to be furnished under
+sub-section (4).”
+Section 93 omitted by the Finance Act, 2007. The omitted section read as follows:
+“93. Taxation of members of an association of persons.- (1) Where sub-section (3) of section
+92 applies, the income of a member of an association of persons chargeable under the head “Income
+from Business” for a tax year shall include –
+(a) in the case of a resident member, the member’s share in the total income of the
+association; or
+(b) in the case of a non-resident member, the member’s share in so much of the total income
+of the association as is attributable to Pakistani-source income.
+(2) Where an association of persons to which sub-section (3) of section 92 applies sustains
+a loss that cannot be set off against any other income of the association in accordance with section 56,
+the amount of the loss shall be apportioned among the members of the association according to their
+interest in the association and the members shall be entitled to have their share of the loss set off and
+carried forward for set off under Part VIII of Chapter III in computing their taxable income under this
+Ordinance.
+(3) The share of a loss referred to in sub-section (2) of a non-resident member shall be
+limited to the extent that the loss relates to the derivation of Pakistan-source income.
+(4) The total income of an association of persons for the purposes of sub-section (1) and
+the loss of an association for the purposes of sub-section (2) shall be computed as if the association
+were a resident person.
+(5) Income, expenditures and losses of an association of persons to which this section
+applies shall retain their character as to geographic source and type of income, expenditure or loss in
+the hands of the members of the association, and shall be treated as having passed through the
+association on a pro rata basis, unless the Commissioner permits otherwise by order in writing to the
+association.
+(6) The share of a member in the total income of an association of persons shall be
+determined according to the member’s interest in the association and shall include any profit on debt,
+brokerage, commission, salary or other remuneration received or due from the association.”
+The word “resident” omitted by the Finance Act, 2015
+Sub-section (3) omitted by the Finance Act 2017. Omitted sub-section reads as follows:
+“A dividend paid by a non-resident company to a resident person shall be chargeable to tax under
+the head “Income from Business” or “Income from Other Sources”, as the case may be, unless the
+dividend is exempt from tax.”
+95. Disposal of business by individual to wholly-owned company.- (1)
+Where a resident individual (hereinafter referred to as the “transferor”) disposes of
+all the assets of a business of the transferor to a resident company, no gain or loss
+shall be taken to arise on the disposal if the following conditions are satisfied,
+namely:—
+(a) The consideration received by the transferor for the disposal is
+a share or shares in the company (other than redeemable
+shares);
+(b) the transferor must beneficially own all the issued shares in the
+company immediately after the disposal;
+(c) the company must undertake to discharge any liability in respect
+of the assets disposed of to the company;
+(d) any liability in respect of the assets disposed of to the company
+must not exceed the transferor’s cost of the assets at the time
+of the disposal;
+(e) the fair market value of the share or shares received by the
+transferor for the disposal must be substantially the same as the
+fair market value of the assets disposed of to the company, less
+any liability that the company has undertaken to discharge in
+respect of the assets; and
+(f) the company must not be exempt from tax for the tax year in
+which the disposal takes place.
+(2) Where sub-section (1) applies —
+(a) each of the assets acquired by the company shall be treated as
+having the same character as it had in the hands of the
+transferor;
+(b) the company’s cost in respect of the acquisition of the assets
+shall be —
+(i) in the case of a depreciable asset or amortised intangible,
+the written down value of the asset or intangible
+immediately before the disposal;
+(ii) in the case of stock-in-trade valued for tax purposes under
+sub-section (4) of section 35 1[ ], that value; or
+The words “at fair market value” omitted by the Finance Act, 2007.
+(iii) in any other case, the transferor’s cost at the time of the
+disposal;
+(c) if, immediately before the disposal, the transferor has
+deductions allowed under sections 22, 23 and 24 in respect of
+the assets transferred which have not been set off against the
+transferor’s income, the amount not set off shall be added to the
+deductions allowed under those sections to the company in the
+tax year in which the transfer is made; and
+(d) the transferor’s cost in respect of the share or shares received
+as consideration for the disposal shall be —
+(i) in the case of a consideration of one share, the
+transferor’s cost of the assets transferred as determined
+under clause (b), less the amount of any liability that the
+company has undertaken to discharge in respect of the
+assets; or
+(ii) in the case of a consideration of more than one share, the
+amount determined under sub-clause (i) divided by the
+number of shares received.
+(3) In determining whether the transferor’s deductions under sections 22,
+23 or 24 have been set off against income for the purposes of clause (c) of sub-
+section (2), those deductions shall be taken into account last.
+96. Disposal of business by association of persons to wholly-owned
+company.— (1) Where a resident association of persons disposes of all the assets
+of a business of the association to a resident company, no gain or loss shall be taken
+to arise on the disposal if the following conditions are satisfied, namely: —
+(a) The consideration received by the association for the disposal is a
+share or shares in the company (other than redeemable shares);
+(b) the association must own all the issued shares in the company
+immediately after the disposal;
+(c) each member of the association must have an interest in the
+shares in the same proportion to the member’s interest in the
+business assets immediately before the disposal;
+(d) the company must undertake to discharge any liability in respect
+of the assets disposed of to the company;
+(e) any liability in respect of the assets disposed of to the company
+must not exceed the association’s cost of the asset at the time
+of the disposal;
+(f) the fair market value of the share or shares received by the
+association for the disposal must be substantially the same as
+the fair market value of the assets disposed of to the company,
+as reduced by any liability that the company has undertaken to
+discharge in respect of the assets; and
+(g) the company must not be exempt from tax for the tax year in
+which the disposal takes place.
+(2) Where sub-section (1) applies —
+(a) each of the assets acquired by the company shall be treated as
+having the same character as it had in the hands of the
+association;
+(b) the company’s cost in respect of the acquisition of the assets
+shall be —
+(i) in the case of a depreciable asset or amortised intangible,
+the written down value of the asset or intangible
+immediately before the disposal;
+(ii) in the case of stock-in-trade valued for tax purposes
+under sub-section (4) of section 351[ ], that value; or
+(iii) in any other case, the association’s cost at the time of the
+disposal;
+(c) if, immediately before the disposal, the association is subject to tax
+in accordance with sub-section (1) of section 92 and the
+association has deductions allowed under sections 22, 23 and 24
+in respect of the assets transferred which have not been set off
+against the association’s income, the amount not set off shall be
+added to the deductions allowed under those sections to the
+company in the tax year in which the transfer is made; and
+(d) the association’s cost in respect of the share or shares received
+as consideration for the disposal shall be —
+(i) in the case of a consideration of one share, the
+association’s cost of the assets transferred as determined
+under clause (b), as reduced by the amount of any liability
+that the company has undertaken to discharge in respect
+of the assets; or
+The words “at fair market value” omitted by the Finance Act, 2007.
+(ii) in the case of a consideration of more than one share, the
+amount determined under sub-clause (i) divided by the
+number of shares received.
+(3) In determining whether the association’s deductions under Sections
+22, 23 or 24 have been set off against income for the purposes of clause (c) of
+sub-section (2), those deductions are taken into account last.
+97. Disposal of asset between wholly-owned companies.— (1) Where a resident
+company (hereinafter referred to as the “transferor”) disposes of an asset to another
+resident company (hereinafter referred to as the “transferee”), no gain or loss shall
+be taken to arise on the disposal if the following conditions are satisfied, namely:-
+(a) Both companies belong to a wholly-owned group of 1[resident]
+companies at the time of the disposal;
+(b) the transferee must undertake to discharge any liability in
+respect of the asset acquired;
+(c) any liability in respect of the asset must not exceed the
+transferor’s cost of the asset at the time of the disposal; and
+(d) the transferee must not be exempt from tax for the tax year in
+which the disposal takes place.
+(2) Where sub-section (1) applies —
+(a) the asset acquired by the transferee shall be treated as having
+the same character as it had in the hands of the transferor;
+(b) the transferee’s cost in respect of the acquisition of the asset
+shall be —
+(i) in the case of a depreciable asset or amortized intangible,
+the written down value of the asset or intangible
+immediately before the disposal;
+(ii) in the case of stock-in-trade valued for tax purposes under
+sub-section (4) of section 35 2[ ], that value; or
+(iii) in any other case, the transferor’s cost at the time of the
+disposal;
+(c) if, immediately before the disposal, the transferor has
+deductions allowed under sections 22, 23 and 24 in respect of
+the asset transferred which have not been set off against the
+transferor’s income, the amount not set off shall be added to the
+Inserted by the Finance Act, 2003.
+The words “at fair market value” omitted by the Finance Act, 2007.
+deductions allowed under those sections to the transferee in the
+tax year in which the transfer is made; and
+(d) the transferor’s cost in respect of any consideration in kind
+received for the asset shall be the transferor’s cost of the asset
+transferred as determined under clause (b), as reduced by the
+amount of any liability that the transferee has undertaken to
+discharge in respect of the asset.
+(3) In determining whether the transferor’s deductions under sections 22,
+23 or 24 in respect of the asset transferred have been set off against income for
+the purposes of clause (c) of sub-section (2), those deductions shall be taken into
+account last.
+(4) The transferor and transferee companies belong to a wholly-owned
+group if —
+(a) one company beneficially holds all the issued shares of the
+other company; or
+(b) a third company beneficially holds all the issued shares in both
+companies.
+1[97A. Disposal of asset under a scheme of arrangement and
+reconstruction.—(1) No gain or loss shall be taken to arise on disposal of asset
+from one company (hereinafter referred to as the “transferor”) to another company
+(hereinafter referred to as the “transferee”) by virtue of operation of a Scheme of
+Arrangement and Reconstruction under sections 282L and 284 to 287 of the
+2[Companies Act, 2017 (XIX of 2017)] or section 48 of the Banking Companies
+Ordinance, 1962 (LVII of 1962), if the following conditions are satisfied, namely:—
+(a) the transferee must undertake to discharge any liability in
+respect of the asset acquired;
+(b) any liability in respect of the asset must not exceed the
+transferor’s cost of the asset at the time of the disposal;
+(c) the transferee must not be exempt from tax for the tax year in
+which the disposal takes place; and
+(d) scheme is approved by the High Court, State Bank of Pakistan
+or Securities and Exchange Commission of Pakistan, as the
+case may be, on or after first day of July, 2007.
+(2) No gain or loss shall be taken to arise on issue, cancellation,
+exchange or receipt of shares as a result of Scheme of Arrangement and
+Reconstruction under sections 282L and 284 to 287 of the Companies Act, 2017
+Inserted by the Finance Act, 2007.
+The expression “Companies Ordinance, 1984 (XLVII of 1984)” wherever occurring substituted by
+“Companies Act, 2017 (XIX of 2017)” through Finance Act, 2020 dated 30th June, 2020
+(XIX of 2017) or section 48 of the Banking Companies Ordinance, 1962 (LVII of
+1962) and approved by:—
+(a) the High Court;
+(b) State Bank of Pakistan; or
+(c) Securities and Exchange Commission of Pakistan, as the case
+may be, on or after first day of July, 2007.
+(3) Where sub-section (1) applies—
+(a) the asset acquired by the transferee shall be treated as having
+the same character as it had in the hands of the transferor;
+(b) the transferee’s cost in respect of acquisition of the asset shall be—
+(i) in the case of a depreciable asset or amortised intangible,
+the written down value of the asset or intangible
+immediately before the disposal;
+(ii) in the case of stock-in-trade valued for tax purposes
+under sub-section (4) of section 35, that value; or
+(iii) in any other case, the transferor’s cost at the time of the
+disposal;
+(c) if, immediately before the disposal, the transferor has
+deductions allowed under sections 22, 23 and 24 in respect of
+the asset transferred which have not been set off against the
+transferor’s income, the amount not set off shall be added to the
+deduction allowed under those sections to the transferee in the
+tax year in which the transfer is made.
+(4) In determining whether the transferor’s deductions under sections 22,
+23 or 24 in respect of the asset transferred have been set off against income for
+the purposes of clause (c) of sub-section (2), those deductions shall be taken into
+account last.
+(5) Where sub-section (2) applies and the shares issued vested by virtue
+of the Scheme of Arrangement and Reconstruction under sections 282L and 284
+to 287 of the Companies Act, 2017 (XIX of 2017) or section 48 of the Banking
+Companies Ordinance, 1962 (LVII of 1962) and approved by the Court or State
+Bank of Pakistan or Securities and Exchange Commission of Pakistan as the case
+may be, are disposed of, the cost of shares shall be the cost prior to the operation
+of the said scheme.]

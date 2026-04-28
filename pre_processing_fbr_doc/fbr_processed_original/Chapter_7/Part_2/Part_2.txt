@@ -1,0 +1,67 @@
+PART II
+TAXATION OF FOREIGN-SOURCE INCOME OF RESIDENTS
+102. Foreign source salary of resident individuals.— (1) Any foreign-source
+salary received by a resident individual shall be exempt from tax if the individual
+has paid foreign income tax in respect of the salary.
+(2) A resident individual shall be treated as having paid foreign income
+tax in respect of foreign-source salary if tax has been withheld from the salary by
+the individual’s employer and paid to the revenue authority of the foreign country
+in which the employment was exercised.
+103. Foreign tax credit.— (1) Where a resident taxpayer derives foreign source
+income chargeable to tax under this Ordinance in respect of which the taxpayer
+has paid foreign income tax, the taxpayer shall be allowed a tax credit of an amount
+equal to the lesser of –
+(a) the foreign income tax paid; or
+(b) the Pakistan tax payable in respect of the income.
+(2) For the purposes of clause (b) of sub-section (1), the Pakistan tax
+payable in respect of foreign source income derived by a taxpayer in a tax year
+shall be computed by applying the average rate of Pakistan income tax applicable
+to the taxpayer for the year against the taxpayer’s net foreign-source income for
+the year.
+(3) Where, in a tax year, a taxpayer has foreign income under more than
+one head of income, this section shall apply separately to each head of income.
+(4) For the purposes of sub-section (3), income derived by a taxpayer
+from carrying on a speculation business shall be treated as a separate head of
+income.
+(5) The tax credit allowed under this section shall be applied in
+accordance with sub-section (3) of section 4.
+(6) Any tax credit or part of a tax credit allowed under this section for a
+tax year that is not credited under sub-section (3) of section 4 shall not be refunded,
+carried back to the preceding tax year, or carried forward to the following tax year.
+(7) A credit shall be allowed under this section only if the foreign income
+tax is paid within two years after the end of the tax year in which the foreign income
+to which the tax relates was derived by the resident taxpayer.
+(8) In this section,—
+“average rate of Pakistan income tax” in relation to a taxpayer for a
+tax year, means the percentage that the Pakistani income tax (before
+allowance of the tax credit under this section) is of the taxable income
+of the taxpayer for the year;
+“foreign income tax” includes a foreign withholding tax; and
+“net foreign-source income” in relation to a taxpayer for a tax year,
+means the total foreign-source income of the taxpayer charged to tax
+in the year, as reduced by any deductions allowed to the taxpayer
+under this Ordinance for the year that –
+(a) relate exclusively to the derivation of the foreign-source income;
+and
+(b) are reasonably related to the derivation of foreign-source
+income in accordance with sub-section (1) of section 67 and any
+rules made for the purposes of that section.
+104. Foreign losses.— (1) Deductible expenditures incurred by a person in
+deriving foreign-source income chargeable to tax under a head of income shall be
+deductible only against that income.
+(2) If the total deductible expenditures referred to in sub-section (1)
+exceed the total foreign source income for a tax year chargeable to tax under a
+head of income (hereinafter referred to as a “foreign loss”), the foreign loss shall
+be carried forward to the following tax year and set off against the foreign source
+income chargeable to tax under that head in that year, and so on, but no foreign
+loss shall be carried forward to more than six tax years immediately succeeding
+the tax year for which the loss was computed.
+(3) Where a taxpayer has a foreign loss carried forward for more than one
+tax year, the loss for the earliest year shall be set off first.
+(4) Section 67 shall apply for the purposes of this section on the basis
+that —
+(a) income from carrying on a speculation business is a separate
+head of income; and
+(b) foreign source income chargeable under a head of income
+(including the head specified in clause (a)) shall be a separate
+head of income.

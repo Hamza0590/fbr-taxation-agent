@@ -1,0 +1,287 @@
+PART II
+HEAD OF INCOME: SALARY
+12. Salary.— (1) Any salary received by an employee in a tax year, other than
+salary that is exempt from tax under this Ordinance, shall be chargeable to tax in
+that year under the head “Salary”.
+(2) Salary means any amount received by an employee from any
+employment, whether of a revenue or capital nature, including —
+(a) any pay, wages or other remuneration provided to an employee,
+including leave pay, payment in lieu of leave, overtime payment,
+bonus, commission, fees, gratuity or work condition
+supplements (such as for unpleasant or dangerous working
+conditions)1[;]
+2[ ]
+(b) any perquisite, whether convertible to money or not;
+(c) the amount of any allowance provided by an employer to an
+employee including a cost of living, subsistence, rent, utilities,
+education, entertainment or travel allowance, but shall not
+include any allowance solely expended in the performance of
+the employee’s duties of employment.
+3[Explanation.– For removal of doubt, it is clarified that the
+allowance solely expended in the performance of employee’s
+duty does not include –
+(i) allowance which is paid in monthly salary on fixed basis or
+percentage of salary; or
+(ii) allowance which is not wholly, exclusively, necessarily or
+actually spent on behalf of the employer;]
+(d) the amount of any expenditure incurred by an employee that is
+paid or reimbursed by the employer, other than expenditure
+incurred on behalf of the employer in the performance of the
+employee’s duties of employment;
+Semi-colon substituted by the Finance Act, 2015.
+Omitted by the Finance Act, 2015. The omitted proviso read as follows:-
+Provided that any bonus paid or payable to corporate employees receiving salary income of
+one million rupees or more (excluding bonus) in tax year 2010, shall be chargeable to tax at the rate
+provided in paragraph (2) of Division I of Part I of the First Schedule;
+3 Explanation added by the Finance Act, 2021.
+(e) the amount of any profits in lieu of, or in addition to, salary or
+wages, including any amount received —
+(i) as consideration for a person’s agreement to enter into an
+employment relationship;
+(ii) as consideration for an employee’s agreement to any
+conditions of employment or any changes to the
+employee’s conditions of employment;
+(iii) on termination of employment, whether paid voluntarily or
+under an agreement, including any compensation for
+redundancy or loss of employment and golden handshake
+payments;
+(iv) from a provident or other fund, to the extent to which the
+amount is not a repayment of contributions made by the
+employee to the fund in respect of which the employee
+was not entitled to a deduction; and
+(v) as consideration for an employee’s agreement to a
+restrictive covenant in respect of any past, present or
+prospective employment;
+(f) any pension or annuity, or any supplement to a pension or
+annuity; and
+(g) any amount chargeable to tax as “Salary” under section 14.
+1[(2A) In case of pension under clause (f) of sub-section (2),—
+(i) the pension shall be charged to tax as a final tax at the rates
+specified in the proviso to clause (2) of Division I of Part I of the
+First Schedule where the amount received by an individual from
+a former employer for a tax year exceeds ten million rupees and
+the individual who has attained the age of seventy years shall
+not be charged to tax on pension income; and
+(ii) the pension of an individual who continues to work for former
+employer or its associate shall be charged to tax at the rates
+specified under clause (1) or (2) of Division I of Part I to First
+Schedule as the case may be.]
+(3) Where an employer agrees to pay the tax chargeable on an
+employee’s salary, the amount of the employee’s income chargeable under the
+head “Salary” shall be grossed up by the amount of tax payable by the employer.
+(4) No deduction shall be allowed for any expenditure incurred by an
+employee in deriving amounts chargeable to tax under the head “Salary”.
+Sub-section (2A) inserted by the Finance Act, 2025.
+(5) For the purposes of this Ordinance, an amount or perquisite shall be
+treated as received by an employee from any employment regardless of whether
+the amount or perquisite is paid or provided —
+(a) by the employee’s employer, an associate of the employer, or
+by a third party under an arrangement with the employer or an
+associate of the employer;
+(b) by a past employer or a prospective employer; or
+(c) to the employee or to an associate of the employee 1[or to a third
+party under an agreement with the employee or an associate of
+the employee.]
+(6) An employee who has received an amount referred to in sub-clause
+(iii) of clause (e) of sub-section (2) in a tax year may, by notice in writing to the
+Commissioner, elect for the amount to be taxed at the rate computed in
+accordance with the following formula, namely: —
+A/B%
+where —
+A is the total tax paid or payable by the employee on the employee’s total
+taxable income for the three preceding tax years; and
+B is the employee’s total taxable income for the three preceding tax years.
+(7) Where —
+(a) any amount chargeable under the head “Salary” is paid to an
+employee in arrears; and
+(b) as a result the employee is chargeable at higher rates of tax than
+would have been applicable if the amount had been paid to the
+employee in the tax year in which the services were rendered,
+the employee may, by notice in writing to the Commissioner, elect for the
+amount to be taxed at the rates of tax that would have been applicable if the salary
+had been paid to the employee in the tax year in which the services were rendered.
+(8) An election under sub-section (6) or (7) shall be made by the due
+date for furnishing the employee’s return of income or employer certificate, as the
+case may be, for the tax year in which the amount was received or by such later
+date as the Commissioner may allow.
+13. Value of perquisites.— (1) For the purposes of computing the income of
+an employee for a tax year chargeable to tax under the head “Salary”, the value of
+Inserted by the Finance Act, 2002
+any perquisite provided by an employer to the employee in that year that is
+included in the employee’s salary under section 12 shall be determined in
+accordance with this section.
+(2) This section shall not apply to any amount referred to in clause (c) or
+(d) of sub-section (2) of section 12.
+1(3) Where, in a tax year, a motor vehicle is provided by an employer to
+an employee wholly or partly for the private use of the employee, the amount
+chargeable to tax to the employee under the head “Salary” for that year shall
+include an amount computed as may be prescribed.]
+2[ ]
+(5) Where, in a tax year, the services of a housekeeper, driver, gardener or
+other domestic assistant is provided by an employer to an employee, the amount
+chargeable to tax to the employee under the head “Salary” for that year shall include
+the total salary paid to the domestic assistant 3[such house keeper, driver, gardener
+or other domestic assistant] in that year for services rendered to the employee, as
+reduced by any payment made 4[to the employer]for such services.
+(6) Where, in a tax year, utilities are provided by an employer to an
+employee, the amount chargeable to tax to the employee under the head “Salary”
+for that year shall include the fair market value of the utilities provided, as reduced
+by any payment made by the employee for the utilities.
+Substituted by the Finance Ordinance, 2002. The substituted sub-section (3) read as follows:-
+“ (3) Subject to sub-section (4), where, in a tax year, a motor vehicle is provided by an employer to
+an employee wholly or partly for the private use of the employee, the amount chargeable to tax to
+the employee under the head “Salary” for that year shall include the amount computed in accordance
+with the following formula, namely:-
+(A*B)-C
+Where,
+A is the cost to the employer of acquiring the motor vehicle or, if the vehicle is leased by the
+employer, the fair market value of the vehicle at the commencement of the lease;
+B is-
+(a) where the vehicle is wholly for private use, fifteen per cent;
+(b) where the vehicle is only partly for private use, seven and a half per cent; and
+C is any payment made by the employee for the use of the motor vehicle or for its running costs.”
+Sub-section (4) omitted by the Finance Act, 2002. The omitted sub-section (4) read as follows:
+“(4) Where a motor vehicle referred to in sub-section (3) is available to more than one
+employee for a tax year, the amount chargeable to tax under the head “Salary” for each such
+employee for that year shall be the amount determined under sub-section (3) divided by the number
+of employees permitted to use the vehicle.”
+The words “domestic assistant” substituted by the Finance Act, 2002
+The words “by the employee” substituted by the Finance Act, 2002
+1[(7) Where a loan is made, on or after the 1st day of July, 2002, by an
+employer to an employee and either no profit on loan is payable by the employee
+or the rate of profit on loan is less than the benchmark rate, the amount chargeable
+to tax to the employee under the head “Salary” for a tax year shall include an
+amount equal to—
+(a) the profit on loan computed at the benchmark rate, where no profit
+on loan is payable by the employee, or
+(d) the difference between the amount of profit on loan paid by the
+employee in that tax year and the amount of profit on loan
+computed at the benchmark rate, as the case may be2[:] ]
+3[Provided that this sub-section shall not apply to such benefit
+arising to an employee due to waiver of interest by such employee on
+his account with the employer4[:] ]
+5[Provided further that this sub-section shall not apply to loans
+not exceeding 6[one million]rupees.]
+(8) For the purposes of this Ordinance not including sub-section (7),
+where the employee uses a loan referred to in sub-section (7) wholly or partly for
+the acquisition of 7[any asset or property]producing income chargeable to tax
+under any head of income, the employee shall be treated as having paid an amount
+as profit equal to the benchmark rate on the loan or that part of the loan used to
+acquire 8[ ][asset or property.]
+(9) Where, in a tax year, an obligation of an employee to pay or repay an
+amount owing by the employee to the employer is waived by the employer, the
+amount chargeable to tax to the employee under the head “Salary” for that year
+shall include the amount so waived.
+Sub-section (7) substituted by the Finance Act, 2002. The substituted sub-section (7) read as
+follows:
+“(7) Where, in a tax year, a loan is made by an employer to an employee, the amount
+chargeable to tax to the employee under the head “Salary” for that year shall include the difference
+between the profit paid by the employee on the loan in the tax year, if any, and the profit which would
+have been paid by the employee on the loan for the year if the loan had been made at the benchmark
+rate for that year.”
+Full stop substituted by the Finance Act, 2010.
+Added by the Finance Act, 2010.
+Full stop substituted by the Finance Act, 2012.
+Added by the Finance Act, 2012.
+The word “five hundred thousand” substituted by Finance Act, 2017
+The word “property” substituted by the Finance Act, 2002
+The word “the” omitted by the Finance Act, 2014
+(10) Where, in a tax year, an obligation of an employee to pay or repay an
+amount 1[owing]by the employee to another person is paid by the employer, the
+amount chargeable to tax to the employee under the head “Salary” for that year
+shall include the amount so paid.
+(11) Where, in a tax year, property is transferred or services are provided
+by an employer to an employee, the amount chargeable to tax to the employee
+under the head “Salary” for that year shall include the fair market value of the
+property or services determined at the time the property is transferred or the
+services are provided, as reduced by any payment made by the employee for the
+property or services.
+2[(12) Where, in the tax year, accommodation or housing is provided by an
+employer to an employee, the amount chargeable to tax to the employee under
+the head “Salary" for that year shall include an amount computed as may be
+prescribed.]
+(13) Where, in a tax year, an employer has provided an employee with a
+perquisite which is not covered by sub-sections (3) through (12), the amount
+chargeable to tax to the employee under the head “Salary” for that year shall
+include the fair market value of the perquisite, 3[except where the rules, if any,
+provide otherwise,] determined at the time it is provided, as reduced by any
+payment made by the employee for the perquisite.
+4[(14) In this section,—
+(a) “benchmark rate” means —-
+The word “owed” substituted by the Finance Act, 2002
+Sub-section (12) substituted by the Finance Act, 2002. The substituted sub-section (12) read as
+follows:
+“(12) Where, in a tax year, accommodation or housing is provided by an employer to an
+employee, the amount chargeable to tax to the employee under the head “Salary” for that year shall
+include –
+(a) where the employer or an associate owns the accommodation or housing, the
+fair market rent of the accommodation or housing; or
+(b) in any other case, the rent paid by the employer for the accommodation or
+housing, as reduced by any payment made by the employee for the
+accommodation or housing.”
+Inserted by the Finance Act, 2002
+Sub-section (14) substituted by the Finance Act, 2002. The substituted sub-section (14) read as
+follows:
+“(14) In this section, -
+“benchmark rate” means the State Bank of Pakistan discount rate at the
+commencement of the tax year;
+“services” includes the making available of any facility; and
+“utilities” includes electricity, gas, water and telephone.”
+(i) for the tax year commencing on the first day of July, 2002,
+a rate of five per cent per annum; and
+(ii) for the tax years next following the tax year referred to in
+sub-clause (i), the rate for each successive year taken at
+one per cent above the rate applicable for the immediately
+preceding tax year, but not exceeding 1[ten per cent per
+annum] in respect of any tax year;
+(b) “services” includes the provision of any facility; and
+(c) “utilities” includes electricity, gas, water and telephone.]
+14. Employee share schemes.— (1) The value of a right or option to acquire
+shares under an employee share scheme granted to an employee shall not be
+chargeable to tax.
+(2) Subject to sub-section (3), where, in a tax year, an employee is issued
+with shares under an employee share scheme including as a result of the exercise
+of an option or right to acquire the shares, the amount chargeable to tax to the
+employee under the head “Salary” for that year shall include the fair market value
+of the shares determined at the date of issue, as reduced by any consideration
+given by the employee for the shares including any amount given as consideration
+for the grant of a right or option to acquire the shares.
+(3) Where shares issued to an employee under an employee share
+scheme are subject to a restriction on the transfer of the shares —
+(a) no amount shall be chargeable to tax to the employee under the
+head “Salary” until the earlier of —
+(i) the time the employee has a free right to transfer the
+shares; or
+(ii) the time the employee disposes of the shares; and
+(b) the amount chargeable to tax to the employee shall be the fair
+market value of the shares at the time the employee has a free
+right to transfer the shares or disposes of the shares, as the
+case may be, as reduced by any consideration given by the
+employee for the shares including any amount given as
+consideration for the grant of a right or option to acquire the
+shares.
+The words “such rate, if any, as the Federal. Government may, by notification, specify” substituted
+by the Finance Act, 2012
+(4) For purposes of this Ordinance, where sub-section (2) or (3) applies,
+the cost of the shares to the employee shall be the sum of —
+(a) the consideration, if any, given by the employee for the shares;
+(b) the consideration, if any, given by the employee for the grant of
+any right or option to acquire the shares; and
+(c) the amount chargeable to tax under the head “Salary” under
+those sub-sections.
+(5) Where, in a tax year, an employee disposes of a right or option to
+acquire shares under an employee share scheme, the amount chargeable to tax
+to the employee under the head “Salary” for that year shall include the amount of
+any gain made on the disposal computed in accordance with the following formula,
+namely:—
+A—B
+where —
+A is the consideration received for the disposal of the right or option; and
+B is the employee’s cost in respect of the right or option.
+(6) In this sub-section, “employee share scheme” means any agreement
+or arrangement under which a company may issue shares in the company to —
+(a) an employee of the company or an employee of an associated
+company; or
+(b) the trustee of a trust and under the trust deed the trustee may
+transfer the shares to an employee of the company or an
+employee of an associated company.

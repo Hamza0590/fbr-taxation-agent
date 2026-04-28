@@ -1,0 +1,884 @@
+GOVERNMENT OF PAKISTAN
+FEDERAL BOARD OF REVENUE
+(REVENUE DIVISION)
+….
+INCOME TAX MANUAL
+PART I
+AMENDED UPTO 20TH FEBRUARY, 2026
+TABLE OF CONTENTS
+CHAPTER 1
+SECTIONS PAGE NO.
+PRELIMINARY
+1. Short title, extent and commencement 1
+2. Definitions 1
+3. Ordinance to override other laws 31
+CHAPTER II
+CHARGE OF TAX
+4. Tax on taxable income 32
+4A. Omitted by Finance Act 2014 33
+4AB. Subject to this Ordinance, a surcharge payable 33
+4B. Super tax for rehabilitation of temporary displaced persons. 33
+4C. Super tax on high earning persons. 34
+5. Tax on dividends 35
+5A. Tax on undistributed Profits. 36
+5AA. Tan on return on investments in Sukuks. 36
+6. Tax on certain payments to non-residents 37
+6A. Tax on payments for digital transactions in e-commerce platforms 38
+7. Tax on shipping and air transport income of a non-resident 38
+person
+7A. Tax on shipping of a resident person. 39
+7B. Tax on profit on debt 39
+7C. Tax on builders 40
+7D. Tax on developers 41
+7E. Tax on deemed income. 41
+7F. Tax on Builders and Developers 43
+8. General provisions relating to taxes imposed under sections 5, 6 44
+and 7
+CHAPTER III
+TAX ON TAXABLE INCOME
+PART I
+COMPUTATION OF TAXABLE INCOME
+9. Taxable income 46
+10. Total income 46
+11. Heads of income 46
+PART II
+HEAD OF INCOME
+SALARY
+12. Salary 48
+13. Value of perquisites 50
+14. Employee share schemes 54
+PART III
+HEAD OF INCOME
+INCOME FROM PROPERTY
+15. Income from property 56
+15A. Deductions in computing income chargeable under the head 57
+“Income from Property”
+16. Non-adjustable amounts received in relation to buildings. 60
+17. Omitted by the Finance Act, 2006. 60
+PART IV
+HEAD OF INCOME
+INCOME FROM BUSINESS
+Division I
+Income from Business
+18. Income from business 61
+19. Speculation business 63
+Division II
+Deductions
+General Principles
+20. Deductions in computing income chargeable under the head 64
+“Income from Business”
+21. Deductions not allowed 64
+Division III
+Deductions
+Special Provisions
+22. Depreciation 69
+23. Initial allowance 73
+23A. Omitted by the Finance Act, 2021. 74
+23B. Accelerated depreciation to alternate energy projects. 75
+24. Intangibles 75
+25. Pre-commencement expenditure 77
+26. Scientific research expenditure 78
+27. Employee training and facilities 78
+28. Profit on debt, financial costs and lease payments 79
+29. Bad debts 81
+29A Provision regarding consumer loans 82
+30. Profit on non-performing debts of a banking company or 82
+development finance institution
+31. Transfer to participatory reserve 83
+Division IV
+Tax Accounting
+32. Method of accounting 84
+33. Cash-basis accounting 84
+34. Accrual-basis accounting 84
+35. Stock-in-trade 85
+36. Long-term contracts 87
+PART V
+HEAD OF INCOME
+CAPITAL GAINS
+37. Capital gains 88
+37A. Capital gain on disposal of securities 92
+38. Deduction of losses in computing the amount chargeable under 94
+the head “Capital Gains”
+PART VI
+HEAD OF INCOME
+INCOME FROM OTHER SOURCES
+39. Income from other sources 95
+40. Deductions in computing income chargeable under the head 97
+“Income from Other Sources”
+PART VII
+EXEMPTIONS AND TAX CONCESSIONS
+41. Agricultural income 99
+42. Diplomatic and United Nations exemptions 100
+43. Foreign government officials 100
+44. Exemptions under international agreements 100
+44A. Exemption under Foreign Investment (Promotion and Protection) 101
+Act, 2022 (XXXV of 2022).
+45. President’s honours 102
+46. Profit on debt 102
+47. Scholarships 103
+48. Support payments under an agreement to live apart 103
+49. Federal Governments, Provincial Government and Local 103
+Government
+50. Foreign-source income of short-term resident individuals 104
+51. Foreign-source income of returning expatriates 104
+52. Omitted by Finance Ordinance, 2002 104
+53. Exemptions and tax concessions in the Second Schedule 105
+54. Exemptions and tax provisions in other laws 106
+55. Limitation of exemption 107
+PART VIII
+LOSSES
+56. Set off of losses 108
+56A. Set off of losses of companies operating hotels. 108
+57. Carry forward of business losses 108
+57A. Set off of business loss consequent to amalgamation 110
+58. Carry forward of speculation business losses 111
+59. Carry forward of capital losses 111
+59A. Limitations on set off and carry forward of losses 112
+59AA. Group Taxation. 113
+59B. Group relief 114
+59C. Omitted by Finance Act, 2022 116
+PART IX
+DEDUCTIBLE ALLOWANCES
+60. Zakat 117
+60A. Workers’ Welfare Fund 117
+60B. Workers’ Participation Fund 118
+60C. Omitted by the Finance Act, 2022. 118
+60D. Deductible allowance for education expenses 118
+PART X
+TAX CREDITS
+61. Charitable donations 119
+62. Omitted by the Finance Act, 2022. 121
+62A. Omitted by the Finance Act, 2022. 122
+63. Contribution to an Approved Pension Fund. 122
+63A. Tax credit for interest paid on low-cost housing loan. 124
+64. Omitted by Finance Act, 2015. 125
+64A Section re-numbered as 60C 126
+64AB Section re-numbered as 60D 126
+64B. Tax credit for employment generation by manufacturers 126
+64C. Omitted by Finance Act, 2021 127
+64D. Tax credit for point of sale machine 127
+65. Miscellaneous provisions relating to tax credits 128
+65A. Omitted by the Finance Act, 2017 129
+65B. Tax credit for investment 129
+65C. Omitted by the Finance Act, 2021 131
+65D. Omitted by the Finance Act, 2021 131
+65E. Tax credit for industrial undertakings established before the first 132
+day of July, 2011
+65F. Tax credit for certain persons 134
+65G. Tax credit for specified industrial undertakings 135
+65H. Omitted by the Finance Act, 2022. 136
+CHAPTER-IV
+COMMON RULES
+PART I
+GENERAL
+66. Income of joint owners 137
+67. Apportionment of deductions 137
+68. Fair market value 137
+69. Receipt of income 139
+70. Recouped expenditure 139
+71. Currency conversion 139
+72. Cessation of source of income 139
+73. Rules to prevent double derivation and double deductions 139
+PART II
+TAX YEAR
+74. Tax year 140
+PART III
+ASSETS
+75. Disposal and acquisition of assets 142
+75A. Purchase of assets through banking channel 143
+76. Cost 143
+77. Consideration received 145
+78. Non-arm's length transactions 146
+79. Non-recognition rules 146
+CHAPTER V
+PROVISIONS GOVERNING PERSONS
+PART I
+CENTRAL CONCEPTS
+Division I
+Persons
+80. Person 148
+Division II
+Resident and Non-resident Persons
+81. Resident and non-resident persons 150
+82. Resident individual 150
+83. Resident company 151
+84. Resident association of persons 151
+Division III
+Associates
+85. Associates 151
+PART II
+INDIVIDUALS
+Division I
+Taxation of Individuals
+86. Principle of taxation of individuals 154
+87. Deceased individuals 154
+Division II
+Provisions Relating to Averaging
+88. An individual as a member of an association of persons 155
+88A. Omitted by Finance Act, 2014 155
+89. Authors 155
+Division III
+Income Splitting
+90. Transfers of assets 156
+91. Income of a minor child 157
+PART III
+ASSOCIATIONS OF PERSONS
+92. Principles of taxation of associations of persons 158
+93. Omitted by the Finance Act, 2007. 159
+PART IV
+COMPANIES
+94. Principles of taxation of companies 159
+95. Disposal of business by individual to wholly-owned company 160
+96. Disposal of business by association of persons to wholly-owned 161
+company
+97. Disposal of asset between wholly-owned companies 163
+97A. Disposal of asset under a scheme of arrangement and 164
+reconstruction.
+PART V
+COMMON PROVISIONS APPLICABLE TO ASSOCIATIONS
+OF PERSONS AND COMPANIES
+98. Change in control of an entity 166
+PART VA
+TAX LIABILITY IN CERTAIN CASES
+98A. Change in the constitution of an association of persons 167
+98B. Discontinuance of business or dissolution of an association of 167
+persons
+98C. Succession to business, otherwise than on death 167
+CHAPTER-VI
+SPECIAL INDUSTRIES
+PART I
+INSURANCE BUSINESS
+99. Special provisions relating to insurance business 169
+99A. Special provisions relating to payment of tax through electricity 169
+connections
+99B. Special procedure for small traders and shopkeepers 171
+99C. Special procedure for certain persons 171
+99D. Additional tax on certain income, profits and gains. 171
+PART II
+OIL, NATURAL GAS AND OTHER MINERAL DEPOSITS
+100. Special provisions relating to the production of oil and natural 173
+gas, and exploration and extraction of other mineral deposits
+100A. Special provisions relating to banking business. 173
+100B. Special provision relating to capital gain tax. 174
+100BA. Special provisions relating to persons not appearing in active 174
+taxpayers’ list.
+100C. Tax credit for certain persons 175
+100D. Special provisions relating to builders and developers 179
+100E. Special provisions relating to small and medium enterprises 186
+100F Omitted by the Finance Act, 2022 186
+CHAPTER VII
+INTERNATIONAL
+PART I
+GEOGRAPHICAL SOURCE OF INCOME
+101. Geographical source of income 188
+101A Gain on disposal of assets outside Pakistan 192
+PART II
+TAXATION OF FOREIGN-SOURCE INCOME OF RESIDENTS
+102. Foreign source salary of resident individuals 195
+103. Foreign tax credit 195
+104. Foreign losses 196
+PART III
+TAXATION OF NON-RESIDENTS
+105. Taxation of a permanent establishment in Pakistan of a non- 197
+resident person
+106. Thin capitalization 198
+106A. Restriction on deduction of profit on debt payable to associated 200
+enterprise
+PART IV
+AGREEMENTS FOR THE AVOIDANCE OF
+DOUBLE TAXATION AND
+PREVENTION OF FISCAL EVASION
+107. Agreements for the avoidance of double taxation and prevention 203
+of fiscal evasion
+CHAPTER VIII
+ANTI-AVOIDANCE
+108. Transactions between associates 208
+108A. Report from independent chartered accountant or cost and 209
+management accountant
+108B. Transactions under dealership arrangements 209
+109. Recharacterisation of income and deductions 210
+109A Controlled foreign company. 210
+110. Salary paid by private companies 210
+111. Unexplained income or assets 210
+112. Liability in respect of certain security transactions 213
+CHAPTER IX
+MINIMUM TAX
+113. Minimum tax on the income of certain persons. 214
+113A. Omitted by the Finance Act, 2016 217
+113B. Omitted by the Finance Act, 2016 217
+113C. Alternative Corporate Tax 218
+CHAPTER X
+PROCEDURE
+PART I
+RETURNS
+114. Return of income 221
+114A. Business bank account 228
+114B. Powers to enforce filing of returns. 229
+114C. Restriction on economic transactions by certain persons. 229
+115. Persons not required to furnish a return of income 231
+116. Wealth statement 233
+116A Foreign income and assets statement 235
+117. Notice of discontinued business 235
+118. Method of furnishing returns and other documents 236
+119. Extension of time for furnishing returns and other documents 238
+PART II
+ASSESSMENTS
+120. Assessments 240
+120A. Omitted by Finance Act, 2013 243
+120B. Restriction of proceedings 243
+121. Best judgment assessment 243
+122. Amendment of assessments 245
+122A. Revision by the Commissioner 249
+122B. Revision by the Chief Commissioner 250
+122C. Omitted by the Finance Act, 2017 250
+122D. Agreed assessment in certain cases 251
+123. Provisional assessment in certain cases 252
+124. Assessment giving effect to an order 252
+124A. Powers of tax authorities to modify orders, etc. 255
+125. Assessment in relation to disputed property 255
+126. Evidence of assessment 255
+PART III
+APPEALS
+126A. Omitted by the Finance Act, 2025 257
+127. Appeal to the Commissioner (Appeals) 257
+128. Procedure in appeal 259
+129. Decision in appeal 260
+130. Appellate Tribunal 263
+131. Appeal to the Appellate Tribunal 265
+132. Disposal of appeals by the Appellate Tribunal 267
+133. Reference to High Court 270
+134. Omitted by Finance Act, 2005 273
+134A. Alternative Dispute Resolution 275
+135. Omitted by the Finance Ordinance, 2002 282
+136. Burden of proof 282
+PART IV
+COLLECTION AND RECOVERY OF TAX
+137. Due date for payment of tax 283
+138. Recovery of tax out of property and through arrest of taxpayer 284
+138A. Recovery of tax by District Officer (Revenue) 286
+138B. Estate in bankruptcy 286
+139. Collection of tax in the case of private companies and 286
+associations of persons
+140. Recovery of tax from persons holding money on behalf of a 287
+taxpayer
+141. Liquidators 289
+142. Recovery of tax due by non-resident member of an association 290
+of persons
+143. Non-resident ship owner or charterer 290
+144. Non-resident aircraft owner or charterer 291
+145. Assessment of persons about to leave Pakistan 292
+146. Recovery of tax from persons assessed in Azad Jammu and 293
+Kashmir
+146A. Initiation, validity, etc., of recovery proceedings. 293
+146B. Tax arrears settlement incentives scheme 294
+146C. Assistance in the recovery and collection of taxes 294
+146D. Recovery of liability outstanding under other laws. 294
+PART V
+ADVANCE TAX AND DEDUCTION OF TAX AT SOURCE
+Division I
+Advance Tax Paid by the Taxpayer
+147. Advance tax paid by the taxpayer 296
+147A. Advance tax from provincial sales tax registered person 303
+Division II
+Advance Tax Paid to a Collection Agent
+148. Imports 304
+148A. omitted through Finance Act, 2020 dated 30th June, 2020 308
+Division III
+Deduction of Tax at Source
+149. Salary 308
+150. Dividends 310
+150A omitted by the Finance Act, 2021 310
+151. Profit on debt 310
+151A. Gain arising on disposal of certain debt securities. 311
+152. Payments to non-residents 312
+152A. Omitted by the Finance Act, 2021 319
+153. Payments for goods, services and contracts 320
+153A. Omitted by Finance Act, 2013 328
+153B. Omitted by Finance Act, 2021 328
+154. Exports 328
+154A. Export of Services 330
+155. Rent of immoveable property 331
+156. Prizes and winnings 332
+156A. Petroleum products 333
+156B. Omitted by Finance Act, 2020 333
+157. Omitted by the Finance Ordinance, 2002 334
+158. Time of deduction of tax 334
+Division IV
+General Provisions Relating to the Advance Payment of Tax
+or the Deduction of Tax at Source
+159. Exemption or lower rate certificate 335
+160. Payment of tax collected or deducted 337
+161. Failure to pay tax collected or deducted 337
+162. Recovery of tax from the person from whom tax was not 338
+collected or deducted
+163. Recovery of amounts payable under this Division 339
+164. Certificate of collection or deduction of tax 339
+164A. Settlement of transactions liable to Withholding Tax by SWAPS 339
+agents
+165. Statements 340
+165A. Furnishing of information by banks 344
+165B. Furnishing of information by financial institutions 345
+including banks
+165C. Furnishing of information by online marketplace, payment 346
+intermediary and courier service.
+166. Priority of tax collected or deducted 346
+167. Indemnity 347
+168. Credit for tax collected or deducted 347
+169. Tax collected or deducted as a final tax 350
+PART VI
+REFUNDS
+170. Refunds 354
+170A. Electronic processing and electronic issuance of Refunds by the 355
+Board
+171. Additional payment for delayed refunds 355
+171A. Payment of refund through income tax refund bonds.- 356
+PART VII
+REPRESENTATIVES
+172. Representatives 358
+173. Liability and obligations of representatives 360
+PART VIII
+RECORDS, INFORMATION COLLECTION AND AUDIT
+174. Records 361
+175. Power to enter and search premises 362
+175A. Real-time access to information and databases 363
+175AA. Exchange of banking and tax information related to high-risk 364
+persons.
+175B. National Database and Registration Authority (NADRA) 365
+175C. Posting of officer of Inland Revenue. 366
+176. Notice to obtain information or evidence 366
+177. Audit 369
+178. Assistance to Commissioner 374
+179. Accounts, documents, records and computer-stored information 374
+not in Urdu or English language
+180. Power to collect information regarding exempt income 374
+PART IX
+TAXPAYER’S REGISTRATION
+181. Taxpayer’s Registration 375
+181A. Active taxpayers’ list 376
+181AA. Compulsory registration in certain cases 376
+181B. Taxpayer card 376
+181C. Displaying of National Tax Number 376
+181D. Business licence scheme 376
+181E. Record of beneficial owners. 377
+PART X
+PENALTY
+182. Offences and penalties 378
+182A Return not filed within due date. 395
+183. Exemption from penalty and default surcharge 396
+184. Omitted by the Finance Act, 2010. 397
+185. Omitted by the Finance Act, 2010. 397
+186. Omitted by the Finance Act, 2010. 397
+187. Omitted by the Finance Act, 2010. 397
+188. Omitted by the Finance Act, 2010. 398
+189. Omitted by the Finance Act, 2010. 398
+190. Omitted by the Finance Act, 2010. 398
+PART XI
+OFFENCES AND PROSECUTIONS
+191. Prosecution for non-compliance with certain statutory obligations 398
+191A. Prosecution for failure to furnish information in return of income. 400
+191B. Prosecution for non-registration 400
+192. Prosecution for false statement in verification 400
+192A. Prosecution for concealment of income. 400
+192B Prosecution for concealment of and offshore assets 401
+193. Prosecution for failure to maintain records 401
+194. Prosecution for improper use of National Tax Number Certificate 401
+195. Prosecution for making false or misleading statements 401
+195A. Prosecution for non-compliance with notice under section 402
+116A.—
+195B. Prosecution for enabling offshore tax evasion 402
+196. Prosecution for obstructing an income tax authority 402
+197. Prosecution for disposal of property to prevent attachment 402
+198. Prosecution for unauthorised disclosure of information by a 403
+public servant
+199. Prosecution for abetment 403
+200. Offences by companies and associations of persons 403
+201. Institution of prosecution proceedings without prejudice to other 403
+action
+202. Power to compound offences 404
+203. Trial by Special Judge 404
+203A. Appeal against the order of a Special Judge 405
+203B. Power to arrest and prosecute 405
+203C. Procedure to be followed on arrest of a person 406
+203D. Special Judges 408
+203E. Cognizance of offences by Special Judges 408
+203F. Special Judge, etc. to have exclusive jurisdiction 409
+203G. Provisions of Code of Criminal Procedure, 1898, to apply 410
+203H. Transfer of cases 410
+203I. Place of sittings 410
+204. Power to tender immunity from prosecution 410
+PART XII
+DEFAULT SURCHARGE
+205. Default surcharge 411
+205A. Reduction in default surcharge, consequential to reduction in tax 414
+or penalty
+PART XIII
+CIRCULARS
+206. Circulars 415
+206A. Advance ruling 415
+CHAPTER XI
+ADMINISTRATION
+PART I
+GENERAL
+207. Income tax authorities 417
+208. Appointment of income tax authorities 419
+209. Jurisdiction of income tax authorities 420
+209A. Uniform 422
+210. Delegation 423
+211. Power or function exercised 424
+212. Authority of approval 424
+213. Guidance to income tax authorities 425
+214. Income tax authorities to follow orders of the Board 425
+214A. Condonation of time limit 425
+214B. Power of the Board to call for records 426
+214C. Selection for audit by the Board 426
+214D. Omitted by the Finance Act, 2018 427
+214E. Inserted by the Finance Supplementary (Amendment) Act, 2018 427
+215. Furnishing of returns, documents etc. 428
+216. Disclosure of information by a public servant 429
+216A. Omitted by the Finance Act, 2022 434
+217. Forms and notices; authentication of documents 435
+218. Service of notices and other documents 435
+219. Tax or refund to be computed to the nearest Rupee 436
+220. Receipts for amounts paid 436
+221. Rectification of mistakes 437
+222. Appointment of expert 437
+222A. Fee and service charges 438
+223. Appearance by authorized representative 438
+224. Proceedings under the Ordinance to be judicial proceedings 440
+225. Proceedings against companies under liquidation 441
+226. Computation of limitation period 441
+227. Bar of suits in Civil Courts 441
+227A. Reward to officers and officials of Inland Revenue 442
+227B. Reward of whistleblowers 442
+227BA. Reward and benefits for certain persons 443
+227C omitted through Finance Act 2019 443
+227D Automated impersonal tax regime 444
+227E E-hearing 444
+PART II
+DIRECTORATES-GENERAL
+228. The Directorate-General of Internal Audit 444
+229. Directorate General of Training and Research 445
+230. Directorate General (Intelligence and Investigation), Inland 445
+Revenue
+PART III
+DIRECTORATES-GENERAL
+230A. Directorate-General of Withholding Taxes 446
+230B. Directorate-General of Law 446
+230C. Directorate-General of Research and Development 446
+230D. Directorate-General of Broadening of Tax Base 446
+230E. Directorate-General of Transfer Pricing 447
+230F. Directorate-General of Immovable Property. 448
+230G. Directorate General of Special Initiative 451
+230H. Directorate General of Valuation 452
+230I. Directorate General of Compliance Risk Management 452
+230J. International Centre of Tax Excellence 452
+230K. Tax Fraud Investigation Wing Inland Revenue 454
+231. Omitted by Finance Act, 2005 455
+CHAPTER XII
+TRANSITIONAL ADVANCE TAX PROVISIONS
+231A. Omitted by the Finance Act, 2021 456
+231AA. Omitted by the Finance Act, 2021 456
+231AB. Advance tax on cash withdrawal 456
+231B. Advance tax on private motor vehicles 457
+231C. Advance tax on foreign domestic workers 459
+232. Omitted by the Finance Ordinance, 2002 459
+233. Brokerage and Commission 460
+233A. Omitted by the Finance Act, 2021 461
+233AA. Omitted by the Finance Act, 2021 461
+234. Tax on motor vehicles 462
+234A. omitted by the Finance Act, 2021 462
+235. Electricity Consumption 463
+235A. omitted by the Finance Act, 2021 464
+235B. omitted through Finance Act, 2020 dated 30th June, 2020 464
+236. Telephone and internet users 465
+236A. Advance tax at the time of sale by auction 466
+236B. Omitted by the Finance Act, 2021 467
+236C. Advance Tax on sale or transfer of immovable Property 467
+236CA. Advance Tax on TV plays and advertisements 469
+236CB. Advance tax on functions and gatherings 470
+236D. Omitted by the Finance Act, 2020 470
+236E Omitted by the Finance Act, 2016 470
+236F. Omitted through Finance Act, 2020 470
+236G. Advance tax on sales to distributors, dealers and wholesalers 471
+236H. Advance tax on sales to retailers 471
+236HA Omitted by the Finance Act, 2021 471
+236I. Omitted by the Finance Act, 2022 472
+236J. Omitted through Finance Act, 2020 472
+236K. Advance tax on purchase or transfer of immovable property 472
+236L. Omitted by the Finance Act, 2021 474
+236M. Omitted by the Finance Act, 2018 474
+236N. Omitted by the Finance Act, 2018 474
+236O. Advance tax under this chapter 475
+236P. omitted by the Finance Act, 2021 475
+236Q. Omitted by the Finance Act, 2022 475
+236R. Omitted through Finance Act, 2020 476
+236S. omitted by the Finance Act, 2021 476
+236T. Omitted by the Finance Act, 2016 476
+236U. omitted through Finance Act, 2020 dated 30th June, 2020 476
+236V. Omitted by the Finance Act, 2021 477
+236W. Omitted through Finance Act, 2019 477
+236X. omitted through Finance Act, 2020 dated 30th June, 2020 477
+236Y Omitted by the Finance Act, 2021 477
+236Y. Advance tax on persons remitting amounts abroad through 478
+credit or debit or prepaid cards
+236Z. Bonus shares issued by companies. 478
+CHAPTER XIII
+MISCELLANEOUS
+237. Power to make rules 480
+237A. Electronic record 481
+237B. Prize schemes to promote tax culture 481
+238. Repeal 481
+239. Savings 482
+239A. Transition to Federal Board of Revenue. 485
+239B. Reference to authorities 485
+240. Removal of difficulties 486
+241. Validation 486
+242. Benefits of repealed provisions 486
+FIRST SCHEDULE
+PART I
+RATES OF TAX
+Division I
+Rates of Tax for Individuals
+Rates of Tax for Association of Persons
+Division IA
+(Omitted by the Finance Act, 2013)
+Division IB
+(Omitted by the Finance Act, 2012)
+Division II
+Rates of Tax for Companies
+Division IIA
+Rates of Super Tax
+Division IIB
+Super Tax on high earning persons
+Division III
+Rate of Dividend Tax
+Division IIIA
+Rate for Profit on Debt
+Division IIIB
+Rate of Tax on Return on investment in
+Sukuks received from a special
+purpose vehicle
+Division IV
+Rate of Tax on Certain Payments to Non-residents
+Division IVA
+Rate of Tax on Payments for Digital Transactions in
+E-commerce Platforms
+Division V
+Rate of Tax on Shipping or Air Transport Income of a Non-
+resident Person
+Division VI
+(Omitted by the Finance Act, 2013)
+Division VIA
+Income from Property
+(Omitted by the Finance Act, 2021)
+Division VII
+Capital Gains on disposal of Securities
+Division VIII
+Capital Gains on Disposal of Immovable Property
+Division VIIIA
+Tax on Builders
+Division VIIIB
+Tax on Developers
+Division VIIIC
+Tax on deemed income
+Division IX
+Minimum tax under section 113
+PART II
+Rates of Advance Tax
+PART IIA
+Collection of Tax from Distributors, Dealers, And
+Wholesalers
+Omitted by the Finance Act, 2014
+Part IIB 518
+Rates of Advance Tax
+PART III
+DEDUCTION OF TAX AT SOURCE
+Division I
+Advance Tax on Dividend
+Division IA
+Profit on Debt
+Division IB
+Return on Investment in Sukuks
+Division II
+Payments to non-residents
+Division III
+Payments for Goods or Services
+Division III A
+(Omitted by the Finance Act, 2012)
+Division IIIAA
+Gain arising on disposal of certain debt securities
+Division III B
+(Omitted by the Finance Act, 2012)
+Division IV
+Exports
+Division IVA
+Exports of Services
+Division V
+Income from Property
+Division VI
+Prizes and Winnings
+Division VIA
+Petroleum Products
+Division VIB
+Omitted by the Finance Act, 2021
+Division VII
+Omitted by the Finance Act, 2002
+PART IV
+DEDUCTION OR COLLECTION OF
+ADVANCE TAX
+Division I 533
+Omitted by the Finance Act, 2002
+Division II 533
+Brokerage and Commission
+Division IIA 533
+Omitted by the Finance Act, 2021
+Division IIB 534
+Omitted by the Finance Act, 2021
+Division III 534
+Tax on motor vehicles
+Division IV 536
+Electricity Consumption
+Division V 538
+Telephone users
+Division VI 540
+omitted by the Finance Act, 2021
+Division VIA
+omitted by the Finance Act, 2021
+Division VII
+Advance tax on Purchase, Registration and Transfer Motor
+Vehicles
+Division VIII
+Advance tax at the time of sale by auction
+Division IX
+omitted by the Finance Act, 2021
+Division X
+Advance tax on sale or transfer of
+Immovable property
+Division XA
+Advance tax on TV plays and advertisements
+Division XI
+Omitted through Finance Act, 2020 dated 30th June, 2020
+Division XII
+Omitted by the Finance Act, 2016
+Division XIII
+Omitted through Finance Act, 2020 dated 30th June, 2020
+Division XIV
+Advance tax on sale to distributors, dealers or wholesalers
+Division XV
+Advance tax on sale to retailers
+Division XVA
+Omitted by the Finance Act, 2021
+Division XVI
+Omitted by the Finance Act, 2022
+Division XVII
+Omitted through Finance Act, 2020 dated 30th June, 2020
+Division XVIII
+Advance Tax on purchase of immoveable property
+Division XIX
+Omitted by the Finance Act, 2021
+Division XX
+Omitted by the Finance Act, 2021
+Division XXI
+Omitted by the Finance Act, 2021
+Division XXII
+Omitted by the Finance Act, 2016
+Division XXIII
+Omitted by the Finance Act, 2022
+Division XXIV
+omitted through Finance Act, 2020 dated 30th June, 2020
+Division XXV
+Omitted through Finance Act, 2020 dated 30th June, 2020
+Division XXVI
+Omitted by the Finance Act, 2021
+Division XXVII
+Advance tax on amount remitted abroad through credit,
+debit or prepaid cards
+Division XXVII
+Omitted by the Finance Act, 2021
+Division XXVII
+Advance tax on amount remitted abroad through credit,
+debit or prepaid cards
+THE SECOND SCHEDULE
+EXEMPTIONS AND TAX CONCESSIONS
+PART I
+EXEMPTIONS FROM TOTAL INCOME
+PART II
+REDUCTION IN TAX RATES
+PART III
+REDUCTION IN TAX LIABILITY
+PART IV
+EXEMPTION FROM SPECIFIC PROVISIONS
+THE THIRD SCHEDULE
+PART I
+DEPRECIATION
+PART II
+INITIAL ALLOWANCE AND FIRST YEAR ALLOWANCE
+PART III
+PRE-COMMENCEMENT EXPENDITURE
+THE FOURTH SCHEDULE
+RULES FOR THE COMPUTATION OF THE PROFITS AND
+GAINS OF INSURANCE BUSINESS
+THE FIFTH SCHEDULE 706
+PART I
+RULES FOR THE COMPUTATION OF THE PROFITS AND
+GAINS FROM THE EXPLORATION AND PRODUCTION OF
+PETROLEUM
+PART II
+RULES FOR THE COMPUTATION OF THE PROFITS AND
+GAINS FROM THE EXPLORATION AND EXTRACTION OF
+MINERALS DEPOSITS (OTHER THAN PETROLEUM)
+THE SIXTH SCHEDULE 715
+PART I
+RECOGNIZED PROVIDENT FUNDS
+PART II
+APPROVED SUPERANNUATION FUNDS
+PART III
+APPROVED GRATUITY FUNDS
+THE SEVENTH SCHEDULE 731
+RULES FOR THE
+COMPUTATION OF THE PROFITS AND GAINS OF A
+BANKING COMPANY AND TAX PAYABLE THEREON
+THE EIGHTH SCHEDULE 751
+RULES FOR THE COMPUTATION OF CAPITAL GAINS ON
+LISTED SECURITIES
+THE NINTH SCHEDULE 755
+PART I
+RULES FOR THE COMPUTATION OF THE PAYABLE ON
+PROFITS AND GAINS OF A TRADER FALLING UNDER SUB-
+SECTION (1) OF SECTION 99A
+PART II
+RULES FOR THE COMPUTATION OF THE PAYABLE ON
+PROFITS AND GAINS OF A TRADER FALLING UNDER SUB-
+SECTION (2) OF SECTION 99A
+PART III
+GENERAL PROVISIONS FOR THE TRADERS UNDER PART I
+AND PART II
+THE TENTH SCHEDULE
+RULES FOR PERSONS NOT APPEARING IN THE ACTIVE
+TAXPAYERS’ LIST
+ELEVENTH SCHEDULE
+RULES FOR COMPUTATION OF PROFITS AND GAINS OF
+BUILDERS AND DEVELOPERS AND TAX PAYABLE
+THEREON
+THE TWELFTH SCHEDULE
+THE THIRTEENTH SCHEDULE
+FOURTEENTH SCHEDULE
+RULES FOR COMPUTATION OF PROFIT AND GAINS FOR
+SMALL AND MEDIUM ENTERPRISES
+FIFTEENTH SCHEDULE
+THRESHOLD FOR ECONOMIC TRANSACTIONS
+F.No.2(1)/2001—Pub.— The following Ordinance promulgated by the President is
+hereby published for general information:—
+AN
+ORDINANCE
+To consolidate and amend the law relating to income tax
+WHEREAS it is expedient to consolidate and amend the law relating to
+income tax and to provide for matters ancillary thereto or connected therewith;
+WHEREAS the President is satisfied that circumstances exist which render
+it necessary to take immediate action;
+NOW, THEREFORE, in pursuance of the Proclamation of Emergency of the
+fourteenth day of October, 1999, and the Provisional Constitution Order No. 1 of
+1999, read with Provisional Constitutional Amendment Order No. 9 of 1999, and
+in exercise of all powers enabling him in that behalf, the President of the Islamic
+Republic of Pakistan is pleased to make and promulgate the following
+Ordinance:—

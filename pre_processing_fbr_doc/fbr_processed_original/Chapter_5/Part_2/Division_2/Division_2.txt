@@ -1,0 +1,35 @@
+Division II
+Provisions Relating to Averaging
+88. An individual as a member of an association of persons.— If, for a tax
+year, an individual has taxable income and derives an amount or amounts exempt
+from tax under sub-section (1) of section 92, the amount of tax payable on the
+taxable income of the individual shall be computed in accordance with the following
+formula, namely: —
+(A/B) x C
+where —
+A is the amount of tax that would be assessed to the individual for the year if
+the amount or amounts exempt from tax under sub-section (1) of section 92
+were chargeable to tax;
+B is the taxable income of the individual for the year if the amount or amounts
+exempt from tax under sub-section (1) of section 92 were chargeable to tax;
+and
+C is the individual’s actual taxable income for the year.
+1[ ]
+89. Authors. — Where the time taken by an author of a literary or artistic work
+to complete the work exceeds twenty-four months, the author may elect to treat
+any lump sum amount received by the author in a tax year on account of royalties
+in respect of the work as having been received in that tax year and the preceding
+two tax years in equal proportions.
+1Section 88A omitted by Finance Act, 2014. The omitted section read as follows:
+“88A. Share profits of company to be added to taxable income.—(1) Notwithstanding the
+provisions of sub-section (1) of section 92, the share of profits derived by a company from an
+association of persons shall be added to the taxable income of the company.
+(2) The company shall be allowed a tax credit in accordance with the following formula,
+namely: —
+(A/B) x C
+Where —
+A is the amount of share of profits received by the company from the association;
+B is the taxable income of the association; and
+C is the amount of tax assessed on the association.
+(3) The tax credit allowed under this section shall be applied in accordance with sub-section
+(3) of section 4.”

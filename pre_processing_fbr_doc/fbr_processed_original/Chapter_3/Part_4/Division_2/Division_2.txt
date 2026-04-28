@@ -1,0 +1,196 @@
+Division II
+Deductions: General Principles
+20. Deductions in computing income chargeable under the head “Income
+from Business”.— (1) Subject to this Ordinance, in computing the income of a
+person chargeable to tax under the head “Income from Business” for a tax year, a
+deduction shall be allowed for any expenditure incurred by the person in the year
+1[wholly and exclusively for the purposes of business].
+2[(1A) Subject to this Ordinance, where animals which have been used for
+the purposes of the business or profession otherwise than as stock-in-trade and
+have died or become permanently useless for such purposes, 3[a deduction shall
+be allowed equal to] the difference between the actual cost to the taxpayer of the
+animals and the amount, if any, realized in respect of the carcasses or animals.]
+(2) Subject to this Ordinance, where the expenditure referred to in sub-
+section (1) is incurred in acquiring a depreciable asset or an intangible with a useful
+life of more than one year or is pre-commencement expenditure, the person must
+depreciate or amortise the expenditure in accordance with sections 22, 23, 24 and
+25.
+4[(3) Subject to this Ordinance, where any expenditure is incurred by an
+amalgamated company on legal and financial advisory services and other
+administrative cost relating to planning and implementation of amalgamation, a
+deduction shall be allowed for such expenditure.]
+21. Deductions not allowed.— Except as otherwise provided in this
+Ordinance, no deduction shall be allowed in computing the income of a person
+under the head “Income from Business” for —
+(a) any cess, rate or tax paid or payable by the person in Pakistan or a
+foreign country that is levied on the profits or gains of the business or
+assessed as a percentage or otherwise on the basis of such profits or
+gains;
+(b) any amount of tax deducted under Division III of Part V of Chapter X
+from an amount derived by the person;
+The words “to the extent the expenditure is incurred in deriving income from business chargeable to
+tax” substituted by the Finance Act, 2004.
+Inserted by the Finance Act, 2009.
+3 Inserted by the Finance Act, 2021.
+Added by the Finance Act, 2002
+1[(c) any expenditure from which the person is required to deduct or collect
+tax under Part V of Chapter X or Chapter XII, unless the person has
+paid or deducted and paid the tax as required by Division IV of Part V
+of Chapter X:
+Provided that disallowance in respect of purchases of raw
+materials and finished goods under this clause shall not exceed twenty
+per cent of purchases of raw materials and finished goods:
+Provided further that recovery of any amount of tax under
+sections 161 or 162 shall be considered as tax paid.]
+2[(ca) any amount of commission paid or payable in respect of supply of
+products listed in the Third Schedule of the Sales Tax Act, 1990,
+where the amount of commission paid or payable exceeds 0.2 percent
+of gross amount of supplies thereof unless the person to whom
+commission is paid or payable, as the case may be, is appearing in
+the active taxpayer list under this Ordinance;]
+(d) any entertainment expenditure in excess of such limits 3[or in violation
+of such conditions] as may be prescribed;
+(e) any contribution made by the person to a fund that is not a recognized
+provident fund4[,]5[approved pension fund], approved superannuation
+fund or approved gratuity fund;
+6[(ea) an amount in excess of fifty percent of contribution made by a person
+to an approved gratuity fund, an approved pension fund or an
+approved superannuation fund.]
+(f) any contribution made by the person to any provident or other fund
+established for the benefit of employees of the person, unless the
+person has made effective arrangements to secure that tax is
+deducted under section 149 from any payments made by the fund in
+respect of which the recipient is chargeable to tax under the head
+"Salary";
+Clause (c) substituted by the Finance Act, 2016. The substituted clause (c) read as follows:
+“(c) any salary, rent, brokerage or commission, profit on debt, payment to non-resident, payment
+for services or fee paid by the person from which the person is required to deduct tax under
+Division III of Part V of Chapter X or section 233 of chapter XII, 1[unless] the person has 1[paid
+or] deducted and paid the tax as required by Division IV of Part V of Chapter X”
+New clause (ca) inserted by Finance Act, 2019.
+Inserted by the Finance Act, 2003.
+Inserted by Finance Act, 2014.
+Inserted by the Finance Act, 2005.
+Clause (ea) inserted by the Finance Act, 2022.
+(g) any fine or penalty paid or payable by the person for the violation of
+any law, rule or regulation;
+(h) any personal expenditures incurred by the person;
+(i) any amount carried to a reserve fund or capitalised in any way;
+(j) any profit on debt, brokerage, commission, salary or other
+remuneration paid by an association of persons to a member of the
+association;
+1[ ]
+2[(l) any expenditure for a transaction, paid or payable under a single account
+head which, in aggregate, exceeds 3[two hundred and fifty] thousand
+rupees, made other than by a crossed cheque drawn on a bank or by
+crossed bank draft or crossed pay order or any other crossed banking
+instrument showing transfer of amount from the business bank account
+of the taxpayer:
+Provided that online transfer of payment from the business
+account of the payer to the business account of payee as well as
+payments through credit card shall be treated as transactions through
+the banking channel, subject to the condition that such transactions
+are verifiable from the bank statements of the respective payer and
+the payee:
+Provided further that this clause shall not apply in the case of —
+(a) expenditures not exceeding 4[twenty-five] thousand
+rupees;
+(b) expenditures on account of —
+(i) utility bills;
+(ii) freight charges;
+Clause (k) omitted by the Finance Act, 2006. The omitted clause (k) read as follows:
+“(k) any expenditure paid or payable by an employer on the provision of perquisites and allowances
+to an employee where the sum of the value of the perquisites computed under section 13 and
+the amount of the allowances exceeds fifty per cent of the employee’s salary for a tax year
+(excluding the value of the perquisites or amount of the allowances);”
+Clause (l) substituted by the Finance Act, 2006. The substituted clause (l) read as follows:
+“(l) any expenditure paid or payable under a single account head which, in aggregate, exceeds fifty
+thousand rupees made other than by a crossed bank cheque or crossed bank draft, except
+expenditures not exceeding ten thousand rupees or on account of freight charges, travel fare,
+postage, utilities or payment of taxes, duties, fee, fines or any other statutory obligation;”
+3 Expression substituted through Finance Act, 2020 dated 30th June, 2020
+4 Expression substituted through Finance Act, 2020 dated 30th June, 2020
+(iii) travel fare;
+(iv) postage; and
+(v) payment of taxes, duties, fee, fines or any other
+statutory obligation 1[:]]
+2[Provided further also that this clause shall not
+apply to a company from the date clause (la) has been
+made effective through the notification issued by the
+Board.
+(la) any expenditure by a taxpayer being a company for a transaction, paid
+or payable under a single account head which, in aggregate, exceeds
+rupees two hundred and fifty thousand, made other than by digital
+means from business bank account of the taxpayer notified to the
+Commissioner under section 114A:
+Provided that this clause shall not apply in the case of-
+(a) expenditures not exceeding Rupees twenty-five thousand; and
+(b) expenditures on account of —
+(i) utility bills;
+(ii) freight charges;
+(iii) travel fare;
+(iv) postage; and
+(v) payment of taxes, duties, fee, fines or any other statutory
+obligation:
+Provided further that this clause shall be effective from such date
+as the Board may notify.]
+(m) any salary paid or payable exceeding 3[ ] 4[thirty-two thousand rupees
+per month to an individual] other than by a crossed cheque or direct
+transfer of funds to the employee’s bank account 5[or through digital
+means]; 6[ ]
+Semi colon substituted by the Finance Act, 2022.
+Inserted by the Finance Act, 2022.
+3 The word “fifteen” substituted by the Finance Act, 2020 dated 30th June, 2020.
+4 The expression “twenty-five thousand rupees per month” substituted by the Finance Act,
+2023.
+Inserted by the Finance Act, 2022.
+The word “and” omitted by the Finance Act, 2016.
+(n) except as provided in Division III of this Part, any expenditure paid or
+payable of a capital nature; 1[ ]
+2[(o) any expenditure in respect of sales promotion, advertisement and
+publicity in excess of 3[ten] per cent of turnover incurred by
+pharmaceutical manufacturers 4[;] ]
+5[(p) any expenditure on account of utility bill in excess of such limits and in
+violation of such conditions as may be prescribed; 6[ ]
+7[(q) ten percent of the claimed expenditure made attributable to purchases
+made from persons who are not National Tax Number holders:
+Provided that in case of purchase of agricultural produce this
+clause shall only apply to the purchase made from middle man:
+Provided further that the Board may, by notification in the official
+Gazette, exempt persons or classes of persons from this clause
+subject to such conditions and limitations as may be specified therein;]
+8[(r) any expenditure attributable to sales claimed by any person who is
+required to integrate but fails to integrate his business with the Board
+through approved fiscal electronic device and software:
+1 The word “and” omitted by the Finance Act, 2020 dated 30th June, 2020.
+Inserted by the Finance Act, 2016
+The word “five” substituted by the Finance Act, 2017
+4 Full stop substituted by semi colon through Finance Act, 2020 dated 30th June, 2020
+5 New clauses (p) and (q) added through Finance Act, 2020 dated 30th June, 2020
+The word “and” omitted by the Finance Act, 2025.
+Clause (q) substituted by the Finance Act, 2025. The substituted clause read as follows:
+“(q) any expenditure attributable to sales made to persons required to be registered but not
+registered under the Sales Tax Act, 1990 by an industrial undertaking computed according to
+the following formula, namely:-
+(A/B) x C
+Where—
+A is the total amount of deductions claimed under this Part;
+B is the turnover for the tax year; and
+C is the total amount of sales exclusive of sales tax and federal excise duty to persons
+required to be registered but not registered under the Sales Tax, 1990 where sales
+equal or exceed rupees one hundred million per person:
+Provided that disallowance of expenditure under this clause shall not exceed
+ten percent of total deductions claimed under this Part:
+Provided further that the Board may, by notification in the official Gazette,
+exempt persons or classes of persons from this clause subject to such conditions and
+limitations as may be specified therein:
+Provided also that this clause shall come into force with effect from the first day
+of October, 2020.]”
+8 Inserted by the Finance Act, 2022.
+Provided that disallowance of expenditure under this clause
+shall not exceed eight percent of the allowable deduction 1[; and] ]
+2[(s) fifty percent of the expenditure claimed in respect of sale where the
+taxpayer received payment exceeding two hundred thousand rupees
+otherwise than through a banking channel or digital means against a
+single invoice containing one or more than one transactions of supply
+of goods or provisions of services.]

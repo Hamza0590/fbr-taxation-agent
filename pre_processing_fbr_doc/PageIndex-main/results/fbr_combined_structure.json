@@ -1,0 +1,566 @@
+{
+  "doc_name": "fbr_combined",
+  "line_count": 23795,
+  "structure": [
+    {
+      "title": "Income Tax Ordinance 2001",
+      "node_id": "0000",
+      "line_num": 1,
+      "prefix_summary": "The partial document is a comprehensive guide to the Income Tax Ordinance 2001 of Pakistan, detailing the structure, provisions, and rules related to income tax. It includes chapters on preliminary definitions, tax charges, computation of taxable income, exemptions, tax credits, losses, and deductions. It also covers taxation of individuals, associations, companies, and non-residents, along with special provisions for industries like insurance, oil, and gas. The document outlines procedures for returns, assessments, appeals, tax collection, recovery, and penalties. It includes schedules for tax rates, exemptions, depreciation, and rules for specific sectors like banking, capital gains, and small enterprises. Additionally, it addresses international taxation, anti-avoidance measures, and administrative guidelines for tax authorities.",
+      "nodes": [
+        {
+          "title": "Chapter 1 — PRELIMINARY",
+          "node_id": "0001",
+          "line_num": 888,
+          "summary": "The partial document outlines the preliminary provisions of the Income Tax Ordinance, 2001, including its title, extent, and commencement. It provides detailed definitions of key terms such as \"accumulated profits,\" \"active taxpayer list,\" \"amalgamation,\" \"approved gratuity fund,\" \"approved pension fund,\" \"assessment,\" \"business,\" \"capital asset,\" \"dividend,\" \"income,\" \"resident person,\" \"non-resident person,\" \"taxpayer,\" and others. It also defines various entities, financial instruments, and tax-related concepts, including \"industrial undertaking,\" \"startup,\" \"REIT Scheme,\" \"royalty,\" \"salary,\" and \"turnover.\" Additionally, it specifies the overriding nature of the Ordinance over other laws and references sections related to deductions, anti-avoidance, geographical source of income, and income from property."
+        },
+        {
+          "title": "Chapter 2 — CHARGE OF TAX",
+          "node_id": "0002",
+          "line_num": 1991,
+          "summary": "The partial document primarily outlines the provisions related to the charge of income tax under various circumstances as per the ordinance. It covers:\n\n1. **Tax on Taxable Income**: Specifies the imposition of income tax on taxable income at prescribed rates, computation of tax liability, and the application of tax credits in a defined order.\n\n2. **Special Taxation Provisions**: Discusses separate taxation for certain classes of income or persons, final tax collection or deduction, and exclusions from taxable income computation.\n\n3. **Surcharge and Super Tax**: Details the imposition of surcharges and super taxes, including rates, applicability, and specific purposes like rehabilitation of displaced persons or high-earning individuals.\n\n4. **Tax on Dividends and Undistributed Profits**: Explains tax rates on dividends, exemptions, and tax on undistributed profits for public companies under specific conditions.\n\n5. **Tax on Sukuks and Non-Residents**: Covers taxation on returns from sukuks and payments to non-residents for royalties, technical services, and digital transactions.\n\n6. **Tax on Shipping and Air Transport**: Specifies tax rates and computation for non-resident and resident persons engaged in shipping or air transport businesses.\n\n7. **Tax on Builders and Developers**: Introduces presumptive taxes on income from construction and development activities, with specific rates and conditions.\n\n8. **Deemed Income Tax**: Imposes tax on deemed income based on the fair market value of capital assets, with exclusions for specific assets and persons.\n\n9. **General Provisions**: Establishes the finality of taxes imposed under specified sections, disallowing deductions, allowances, or loss set-offs, and clarifies tax discharge mechanisms.\n\nThe document also references related schedules and divisions for tax rates, exemptions, and deductions."
+        },
+        {
+          "title": "Chapter 3 — TAX ON TAXABLE INCOME",
+          "node_id": "0003",
+          "line_num": 2492,
+          "prefix_summary": "## Chapter 3 — TAX ON TAXABLE INCOME",
+          "nodes": [
+            {
+              "title": "Part 1 — COMPUTATION OF TAXABLE INCOME",
+              "node_id": "0004",
+              "line_num": 2494,
+              "summary": "The partial document outlines the computation of taxable income, detailing the determination of total income and its reduction by deductible allowances. It defines total income as the sum of income under all heads (salary, income from property, business, capital gains, and other sources) and income exempt from tax. It explains the classification of income under specific heads, the computation of income or loss under each head, and the treatment of losses. Additionally, it references deductible allowances, such as Zakat, and the set-off of losses under specified conditions."
+            },
+            {
+              "title": "Part 2 — HEAD OF INCOME: SALARY",
+              "node_id": "0005",
+              "line_num": 2554,
+              "summary": "The partial document primarily outlines the taxation rules under the head \"Salary\" as per the ordinance. It defines \"Salary\" comprehensively, including various forms of remuneration such as wages, bonuses, allowances, perquisites, pensions, and other benefits provided by employers. It specifies the taxability of these components, including reimbursements, profits in lieu of salary, termination payments, and employee share schemes. The document also details the valuation of perquisites like motor vehicles, housing, utilities, loans, and domestic assistance provided by employers. Additionally, it explains the tax treatment of arrears, grossing up of salary when the employer pays the tax, and the conditions under which certain benefits are exempt or taxable. Specific provisions for employee share schemes, including the taxation of shares, rights, or options granted to employees, are also covered. The document references related sections for tax rates and computation of taxable income."
+            },
+            {
+              "title": "Part 3 — HEAD OF INCOME: INCOME FROM PROPERTY",
+              "node_id": "0006",
+              "line_num": 2854,
+              "summary": "The partial document outlines the taxation rules under the head \"Income from Property.\" It defines \"rent\" and specifies conditions under which rent is taxable, including fair market rent considerations and exemptions for certain leases. It details allowable deductions for computing taxable income from property, such as repair allowances, insurance premiums, local taxes, ground rent, mortgage interest, and expenses for rent collection or legal services. It also addresses the treatment of unpaid rent, its recovery, and non-adjustable amounts received from tenants. Additionally, it references related sections on tax rates, deductions, and computation of taxable income."
+            },
+            {
+              "title": "Part 4 — HEAD OF INCOME: INCOME FROM BUSINESS",
+              "node_id": "0007",
+              "line_num": 3078,
+              "prefix_summary": "### Part 4 — HEAD OF INCOME: INCOME FROM BUSINESS",
+              "nodes": [
+                {
+                  "title": "Division 1 — Income from Business",
+                  "node_id": "0008",
+                  "line_num": 3080,
+                  "summary": "The partial document outlines the taxation rules under the head \"Income from Business.\" It specifies the types of income chargeable to tax, including profits from business activities, income from trade associations, income from the hire or lease of tangible property, management fees, and benefits derived from business relationships. It also addresses the taxation of unpaid rent, recovered rent, and unpaid liabilities related to property income. The document further clarifies the treatment of income from speculation businesses, defining such businesses and distinguishing them from other business activities. Additionally, it references related sections on deductions and the treatment of losses for tax purposes."
+                },
+                {
+                  "title": "Division 2 — Deductions: General Principles",
+                  "node_id": "0009",
+                  "line_num": 3205,
+                  "summary": "The partial document outlines the general principles and rules for deductions in computing income chargeable under the head \"Income from Business.\" It specifies allowable deductions for business-related expenditures, including depreciation, amortization, and costs related to amalgamation. It also lists expenditures that are not deductible, such as taxes on business profits, personal expenses, fines, penalties, and certain payments not made through prescribed banking channels. Specific limits and conditions are detailed for deductions related to contributions to employee funds, entertainment expenses, sales promotion, and transactions with non-registered entities. Additionally, it references provisions for depreciation, tax accounting methods, and advance tax payment regulations."
+                },
+                {
+                  "title": "Division 3 — Deductions: Special Provisions",
+                  "node_id": "0010",
+                  "line_num": 3416,
+                  "summary": "The partial document outlines special provisions related to tax deductions under Division III, focusing on depreciation, initial allowances, amortization of intangibles, pre-commencement expenditures, scientific research expenditures, employee training and facilities, profit on debt and financial costs, bad debts, consumer loans, non-performing debts, and participatory reserves. It provides detailed rules for calculating depreciation and amortization, conditions for deductions, treatment of disposals, and specific provisions for leasing companies, modarabas, and financial institutions. The document also includes amendments and clarifications introduced through various Finance Acts, addressing changes in depreciation rates, eligibility criteria, and tax treatment of assets, intangibles, and financial transactions. Additionally, it references related sections and schedules for further details on exemptions, tax rates, and asset management."
+                },
+                {
+                  "title": "Division 4 — Tax Accounting",
+                  "node_id": "0011",
+                  "line_num": 3969,
+                  "summary": "The partial document outlines the tax accounting rules under Division IV, focusing on the computation of income chargeable to tax under the head \"Income from Business.\" Key points include:\n\n1. **Methods of Accounting**: Income is computed based on the accounting method regularly employed by the taxpayer, with companies required to use the accrual basis and other persons allowed to use either cash or accrual basis. Changes in accounting methods require written approval from the Commissioner.\n\n2. **Cash-Basis Accounting**: Income is recognized when received, and expenses are recognized when paid.\n\n3. **Accrual-Basis Accounting**: Income is recognized when due, and expenses are recognized when payable. Specific rules govern when amounts are considered due or payable.\n\n4. **Unpaid Liabilities**: Unpaid liabilities for which deductions were previously allowed may become taxable if not paid within three years, with provisions for deductions upon subsequent payment.\n\n5. **Stock-in-Trade**: Rules for valuing stock-in-trade include formulas for determining costs, methods for valuation (e.g., first-in-first-out, average-cost), and definitions of key terms like direct costs, factory overheads, and stock-in-trade.\n\n6. **Long-Term Contracts**: Income from long-term contracts is computed using the percentage of completion method, with specific guidelines for determining the percentage of completion and definitions of long-term contracts and the method itself."
+                }
+              ]
+            },
+            {
+              "title": "Part 5 — HEAD OF INCOME: CAPITAL GAINS",
+              "node_id": "0012",
+              "line_num": 4116,
+              "summary": "The partial document primarily covers the taxation of capital gains under the relevant ordinance. It outlines the computation of capital gains, including the formula for determining gains or losses on the disposal of capital assets. It specifies the taxability of gains from immovable property and securities, with detailed provisions for holding periods and applicable tax rates. The document also defines \"capital assets\" and exclusions, such as personal-use property and specific items like jewelry or antiques. It addresses the treatment of losses, including restrictions on loss recognition and carry-forward rules. Additionally, it includes provisions for advance tax deductions on share transactions, compliance requirements, and references to related sections like tax rates, asset disposal, and statutory obligations."
+            },
+            {
+              "title": "Part 6 — HEAD OF INCOME: INCOME FROM OTHER SOURCES",
+              "node_id": "0013",
+              "line_num": 4400,
+              "summary": "The partial document outlines the provisions related to the \"Income from Other Sources\" under tax law. It specifies the types of income chargeable under this head, including dividends, royalties, profit on debt, rent, annuities, winnings from lotteries or raffles, gifts (except from relatives), and other considerations for property use or exploitation. It also details the treatment of income received as loans, advances, or deposits not through banking channels, and the taxation of arrears on profit from National Savings Certificates. Additionally, it discusses deductions allowed in computing income under this head, such as expenses incurred to derive the income, depreciation, initial allowances, and Zakat payments. Certain expenditures are excluded if deductible under other income heads, and capital expenditures with a useful life of more than one year are not deductible. The document references related sections for further clarification on associates, tax charges, depreciation, and general deduction principles."
+            },
+            {
+              "title": "Part 7 — EXEMPTIONS AND TAX CONCESSIONS",
+              "node_id": "0014",
+              "line_num": 4545,
+              "summary": "The partial document outlines various exemptions and tax concessions under the tax ordinance. Key points include:\n\n1. **Agricultural Income Exemption**: Income derived from agricultural activities, rent, or revenue from agricultural land, and related processes or buildings is exempt from tax.\n2. **Diplomatic and UN Exemptions**: Income of individuals with privileges under the Diplomatic and Consular Privileges Act, 1972, and the United Nations (Privileges and Immunities) Act, 1948, as well as pensions from UN employment, are exempt.\n3. **Foreign Government Officials**: Salaries of foreign government employees meeting specific criteria are tax-exempt.\n4. **International Agreements**: Income exempt under tax treaties or aid agreements, including salaries and project-related payments, is specified.\n5. **Foreign Investment Act Exemptions**: Tax exemptions and concessions for qualified investments under the Foreign Investment (Promotion and Protection) Act, 2022.\n6. **Presidential Honours**: Allowances and monetary awards granted by the President of Pakistan are tax-exempt.\n7. **Profit on Debt**: Non-resident persons receiving profit on approved securities issued by resident persons are exempt under certain conditions.\n8. **Scholarships**: Scholarships for education costs are exempt unless paid by an associate.\n9. **Support Payments**: Support payments under agreements to live apart are tax-exempt.\n10. **Government Income**: Income of Federal, Provincial, and Local Governments is exempt, with exceptions for business income outside jurisdictional areas.\n11. **Foreign-Source Income**: Exemptions for foreign-source income of short-term residents and returning expatriates under specific conditions.\n12. **Second Schedule Exemptions**: Income or persons specified in the Second Schedule are granted exemptions, reduced tax rates, or other concessions.\n13. **Exemptions in Other Laws**: Tax exemptions or concessions in other laws require inclusion in this Ordinance to have legal effect.\n14. **Limitation of Exemptions**: Exemptions are limited to the original recipient and do not extend to subsequent payments from exempt income."
+            },
+            {
+              "title": "Part 8 — LOSSES",
+              "node_id": "0015",
+              "line_num": 4860,
+              "summary": "The partial document primarily covers the rules and provisions related to the treatment of losses under tax laws. It includes:\n\n1. **Set-off of Losses (Section 56):** Guidelines for offsetting losses against income from other heads, excluding salary, with specific restrictions on business losses and property income.\n\n2. **Carry Forward of Business Losses (Section 57):** Rules for carrying forward unadjusted business losses for up to six tax years, with special provisions for certain entities like banking companies, hotel businesses, and Pakistan International Airlines.\n\n3. **Set-off and Carry Forward of Speculation Business Losses (Section 58):** Provisions for setting off speculation losses against income from speculation businesses and carrying them forward for up to six tax years.\n\n4. **Carry Forward of Capital Losses (Section 59):** Rules for carrying forward capital losses to offset against future capital gains for up to six tax years.\n\n5. **Limitations on Loss Set-off and Carry Forward (Section 59A):** Restrictions on loss adjustments for associations of persons and successors in business, with specific conditions for deductions.\n\n6. **Group Taxation (Section 59AA):** Provisions for holding and subsidiary companies to opt for group taxation as a single fiscal unit, with conditions on ownership, governance, and loss treatment.\n\n7. **Group Relief (Section 59B):** Rules for surrendering and setting off assessed losses within a group of companies, subject to ownership thresholds, business continuity, and other conditions.\n\n8. **Amalgamation Losses (Section 57A):** Provisions for setting off and carrying forward losses and unabsorbed depreciation in cases of company amalgamations, with conditions on business continuity and regulatory compliance.\n\n9. **Special Provisions for Sick Industrial Units (Section 59C):** Rules for carrying forward business losses of sick industrial units acquired by another company, subject to conditions on ownership and business continuity.\n\nThe document also references related sections on deductions, taxable income computation, and taxation principles for associations of persons."
+            },
+            {
+              "title": "Part 9 — DEDUCTIBLE ALLOWANCES",
+              "node_id": "0016",
+              "line_num": 5231,
+              "summary": "The partial document outlines deductible allowances under tax laws, including provisions for Zakat payments, Workers’ Welfare Fund, Workers’ Participation Fund, and education expenses. It specifies eligibility criteria, limits, and conditions for claiming these allowances. The document also addresses the treatment of losses for acquired companies, revival conditions for sick industrial units, and restrictions on carrying forward or refunding unused allowances. Additionally, it references related sections on taxable income computation, income from other sources, and advance tax collection."
+            },
+            {
+              "title": "Part 10 — TAX CREDITS",
+              "node_id": "0017",
+              "line_num": 5337,
+              "summary": "The partial document primarily covers provisions related to tax credits under various sections of tax law. It includes details on tax credits for charitable donations, investments in shares, contributions to pension funds, health insurance premiums, low-cost housing loans, employment generation by manufacturers, and the purchase of point-of-sale machines. It also outlines tax credits for newly established industrial undertakings, greenfield projects, renewable energy manufacturing, and foreign investments for industrial promotion. The document provides formulas for calculating tax credits, eligibility criteria, conditions for availing credits, and limitations on carry-forward or refund of unused credits. Additionally, it references specific sections of tax law for associations of persons, charge of tax, deductible allowances, and filing of returns."
+            }
+          ]
+        },
+        {
+          "title": "Chapter 4 — COMMON RULES",
+          "node_id": "0018",
+          "line_num": 6074,
+          "prefix_summary": "## Chapter 4 — COMMON RULES",
+          "nodes": [
+            {
+              "title": "Part 1 — GENERAL",
+              "node_id": "0019",
+              "line_num": 6076,
+              "summary": "The partial document outlines provisions related to income tax under a specific ordinance. Key points include:\n\n1. **Income of Joint Owners (Section 66):** Rules for taxing income from jointly owned property, ensuring individual shares are taxed separately unless related to business income.\n2. **Apportionment of Deductions (Section 67):** Guidelines for allocating expenditures across multiple income sources or purposes, with the Board authorized to create rules for apportionment.\n3. **Fair Market Value (Section 68):** Determination of fair market value for property, assets, or services, including specific rules for immovable property and clarifications on valuation methods.\n4. **Receipt of Income (Section 69):** Definition of income receipt, including actual receipt, application on behalf of a person, or availability to a person.\n5. **Recouped Expenditure (Section 70):** Treatment of recovered expenditures or losses previously deducted, requiring inclusion in taxable income.\n6. **Currency Conversion (Section 71):** Conversion of foreign currency amounts to Rupees based on State Bank of Pakistan rates.\n7. **Cessation of Source of Income (Section 72):** Tax treatment of income derived from ceased businesses or sources as if they had not ceased.\n8. **Rules to Prevent Double Taxation/Deductions (Section 73):** Prevention of double taxation or deductions for amounts receivable/received or payable/paid.\n\nReferenced sections include tax rates, capital gains, charge of tax, and anti-avoidance measures."
+            },
+            {
+              "title": "Part 2 — TAX YEAR",
+              "node_id": "0020",
+              "line_num": 6211,
+              "summary": "The partial document primarily discusses the concept of the \"Tax Year\" under the Ordinance, defining it as a twelve-month period ending on June 30th (normal tax year) and provisions for using a \"special tax year\" upon approval by the Commissioner. It outlines the process for applying for a special tax year, changing between normal and special tax years, and the conditions under which such changes can be approved or withdrawn. The document also introduces the concept of a \"transitional tax year\" for periods between changes in tax years and specifies the appeal and review mechanisms for decisions made by the Commissioner or Board regarding tax year changes."
+            },
+            {
+              "title": "Part 3 — ASSETS",
+              "node_id": "0021",
+              "line_num": 6298,
+              "summary": "The partial document primarily covers regulations and provisions related to the disposal, acquisition, cost, and consideration of assets under tax laws. Key points include:\n\n1. **Disposal of Assets**: Defines disposal events such as sale, transfer, destruction, or personal use of business assets, including partial disposals and succession-related transmissions.\n2. **Acquisition of Assets**: Outlines when an asset is considered acquired, including business-to-personal use transitions and vice versa.\n3. **Purchase of Assets via Banking or Digital Channels**: Mandates the use of banking or digital means for purchasing assets above specified fair market values, with penalties for non-compliance.\n4. **Cost of Assets**: Details how the cost of an asset is determined, including considerations for purchase price, incidental expenses, improvements, foreign currency fluctuations, and tax-exempt amounts.\n5. **Consideration Received**: Specifies how consideration for disposed assets is calculated, including fair market value, compensation for lost/destroyed assets, and residual values for leased assets.\n6. **Non-Arm’s Length Transactions**: Establishes rules for determining fair market value in non-arm’s length transactions.\n7. **Non-Recognition Rules**: Lists scenarios where no gain or loss is recognized on asset disposals, such as gifts, inheritance, or compulsory acquisitions, with conditions for cost determination for the acquiring party.\n\nThe document also references related sections on income of joint owners, associates, and depreciation deductions."
+            }
+          ]
+        },
+        {
+          "title": "Chapter 5 — PROVISIONS GOVERNING PERSONS",
+          "node_id": "0022",
+          "line_num": 6480,
+          "prefix_summary": "## Chapter 5 — PROVISIONS GOVERNING PERSONS",
+          "nodes": [
+            {
+              "title": "Part 1 — CENTRAL CONCEPTS",
+              "node_id": "0023",
+              "line_num": 6482,
+              "prefix_summary": "### Part 1 — CENTRAL CONCEPTS",
+              "nodes": [
+                {
+                  "title": "Division 1 — Persons",
+                  "node_id": "0024",
+                  "line_num": 6484,
+                  "summary": "The partial document outlines the definition and classification of \"persons\" under a specific ordinance. It specifies entities treated as persons, including individuals, companies, associations of persons, governments, and public international organizations. It further defines terms such as \"association of persons,\" \"company,\" \"firm,\" \"trust,\" and \"unit trust,\" detailing their scope and inclusions. The document also references related sections, including income from business and preliminary provisions of the ordinance."
+                },
+                {
+                  "title": "Division 2 — Resident and Non-Resident Persons",
+                  "node_id": "0025",
+                  "line_num": 6549,
+                  "summary": "The partial document outlines the definitions and criteria for determining the residency status of individuals, companies, and associations of persons for tax purposes. It specifies the conditions under which a person is considered a resident or non-resident for a tax year. Key points include:\n\n1. **Resident and Non-Resident Persons**: Defines a resident person as a resident individual, company, or association of persons, or the Federal Government, and a non-resident person as anyone not meeting these criteria.\n\n2. **Resident Individual**: Details the conditions for an individual to be considered a resident, such as the number of days present in Pakistan, employment with the Federal or Provincial Government abroad, or being a Pakistani citizen not resident in another country.\n\n3. **Resident Company**: Specifies that a company is considered resident if it is incorporated in Pakistan, its management is wholly or partly in Pakistan, or it is a Provincial or Local Government entity.\n\n4. **Resident Association of Persons**: States that an association of persons is resident if its management is wholly or partly in Pakistan.\n\nThe document also references amendments made by various Finance Acts, highlighting changes to residency criteria over time."
+                },
+                {
+                  "title": "Division 3 — Associates",
+                  "node_id": "0026",
+                  "line_num": 6605,
+                  "summary": "The partial document outlines the definition and criteria for determining \"associates\" under Division 3. It specifies the relationships and conditions under which two persons or entities are considered associates, including scenarios involving influence, economic dependence, and shared control over income, capital, or voting power. It also lists specific relationships, such as relatives, members of associations, trusts, shareholders, and companies, that qualify as associates under certain conditions. Exceptions to these rules are provided, such as when individuals are employees or when the Commissioner determines no mutual influence exists. Additionally, definitions for terms like \"relative\" and \"jurisdiction with zero taxation regime\" are included, with references to amendments made by the Finance Act, 2023."
+                }
+              ]
+            },
+            {
+              "title": "Part 2 — INDIVIDUALS",
+              "node_id": "0027",
+              "line_num": 6687,
+              "prefix_summary": "### Part 2 — INDIVIDUALS",
+              "nodes": [
+                {
+                  "title": "Division 1 — Taxation of Individuals",
+                  "node_id": "0028",
+                  "line_num": 6689,
+                  "summary": "The partial document outlines the principles of taxation for individuals, emphasizing the separate determination of taxable income for each individual. It addresses the taxation responsibilities of legal representatives for deceased individuals, including liabilities for taxes the deceased would have owed and taxes on the deceased's estate. The document specifies the extent of liability for legal representatives, the continuation of proceedings against the deceased, and defines \"legal representative.\" Additionally, it references taxation under the head \"Income from Business,\" detailing taxable incomes from business activities."
+                },
+                {
+                  "title": "Division 2 — Provisions Relating to Averaging",
+                  "node_id": "0029",
+                  "line_num": 6727,
+                  "summary": "The partial document outlines provisions related to tax averaging under Division 2. It includes rules for calculating tax payable for individuals who are members of an association of persons and have exempt income under Section 92. It provides a formula for computing tax based on taxable income and exempt amounts. Additionally, it addresses tax treatment for authors receiving lump-sum royalties for works completed over more than 24 months, allowing them to distribute the income over three tax years. The document also references omitted Section 88A, which previously dealt with adding a company's share of profits from an association of persons to its taxable income and providing a tax credit formula. Relevant sections on taxation principles and deductions are also cited."
+                },
+                {
+                  "title": "Division 3 — Income Splitting",
+                  "node_id": "0030",
+                  "line_num": 6775,
+                  "summary": "The partial document primarily covers the rules and provisions related to income splitting under Division 3. It outlines the treatment of income arising from transferred assets, specifying conditions under which such income is attributed to the transferor or transferee. Key points include the treatment of revocable and irrevocable transfers, transfers to spouses or minor children, and exceptions for transfers made for adequate consideration or under agreements to live apart. It also defines terms like \"minor child\" and \"transfer\" and addresses the taxation of a minor child's income, particularly income from business, attributing it to the parent with the highest taxable income unless acquired through inheritance."
+                }
+              ]
+            },
+            {
+              "title": "Part 3 — ASSOCIATIONS OF PERSONS",
+              "node_id": "0031",
+              "line_num": 6829,
+              "summary": "The partial document outlines the principles of taxation for associations of persons (AOPs). It specifies that AOPs are taxed separately from their members, and income received by members from the AOP is generally exempt from tax. Exceptions are provided, such as when a member is a company, in which case the company's share is taxed separately at corporate rates. Additionally, members of AOPs with a turnover of 300 million rupees or more must file audited financial statements for their share to remain tax-exempt. The document also clarifies that if the AOP's income is exempt, the members' share remains exempt. Historical amendments and omitted subsections related to professional firms and member taxation are also noted."
+            },
+            {
+              "title": "Part 4 — COMPANIES",
+              "node_id": "0032",
+              "line_num": 6874,
+              "summary": "The partial document primarily covers the taxation principles and regulations related to companies, associations of persons, and specific asset disposals. Key points include:\n\n1. **Taxation of Companies**: Companies are taxed separately from shareholders, and dividends are taxed under specific provisions. Certain subsections and sections have been omitted or amended by various Finance Acts.\n\n2. **Taxation of Associations of Persons**: Rules for taxing members of associations of persons, including income and loss apportionment, geographic source retention, and treatment of income types.\n\n3. **Disposal of Business Assets**:\n   - **By Individuals to Wholly-Owned Companies**: Conditions under which no gain or loss arises on asset disposal, including ownership, liabilities, and fair market value considerations.\n   - **By Associations of Persons to Wholly-Owned Companies**: Similar provisions as above, with additional rules for member interests and cost adjustments.\n   - **Between Wholly-Owned Companies**: Rules for tax-neutral asset transfers within wholly-owned groups, including cost and liability considerations.\n\n4. **Schemes of Arrangement and Reconstruction**: Tax-neutral treatment of asset disposals and share transactions under approved schemes, with conditions for liabilities, costs, and deductions.\n\n5. **Referenced Sections**: Cross-references to related sections on exemptions, tax accounting, returns, and charge of tax."
+            },
+            {
+              "title": "Part 5 — COMMON PROVISIONS APPLICABLE TO",
+              "node_id": "0033",
+              "line_num": 7150,
+              "summary": "The partial document outlines tax provisions related to associations of persons and companies, focusing on changes in control, constitution, discontinuance, dissolution, and succession of businesses. Key points include:\n\n1. **Change in Control of an Entity**: Restrictions on utilizing prior tax losses after a significant ownership change unless specific conditions are met.\n2. **Change in Constitution of an Association of Persons**: Tax filing responsibilities and income apportionment among members during a change in constitution.\n3. **Discontinuance or Dissolution of an Association of Persons**: Tax liabilities and joint liability of members upon business discontinuance or dissolution.\n4. **Succession to Business**: Tax liabilities of predecessors and successors in cases of business succession, excluding succession due to death."
+            }
+          ]
+        },
+        {
+          "title": "Chapter 6 — SPECIAL INDUSTRIES",
+          "node_id": "0034",
+          "line_num": 7225,
+          "prefix_summary": "## Chapter 6 — SPECIAL INDUSTRIES",
+          "nodes": [
+            {
+              "title": "Part 1 — INSURANCE BUSINESS",
+              "node_id": "0035",
+              "line_num": 7227,
+              "summary": "The partial document outlines special provisions and procedures related to the insurance business and taxation under the Income Tax Ordinance. Key points include:\n\n1. **Insurance Business Profits and Gains**: Computation of profits and gains for insurance businesses as per the Fourth Schedule.\n2. **Taxation for Traders**: Rules for tax computation for traders, including filers and non-filers, under the Ninth Schedule, with specific conditions and exclusions.\n3. **Tax through Electricity Connections**: Provisions for tax collection from retailers and service providers via commercial electricity connections, including mechanisms for scope, payment, and exemptions.\n4. **Special Procedures for Small Traders and Businesses**: Introduction of special procedures for small traders, shopkeepers, and specific sectors like construction, medical, and education for tax scope, payment, and record-keeping.\n5. **Additional Tax on Windfall Profits**: Imposition of additional tax on companies earning windfall profits due to economic factors, with provisions for sector-specific application, rates, and exemptions.\n6. **Referenced Sections**: Mention of related sections and schedules, including tax rates, accounting methods, and transitional advance tax provisions."
+            },
+            {
+              "title": "Part 2 — OIL, NATURAL GAS AND OTHER MINERAL DEPOSITS",
+              "node_id": "0036",
+              "line_num": 7384,
+              "summary": "The partial document outlines special provisions and tax regulations related to various sectors and activities, including:\n\n1. **Oil, Natural Gas, and Mineral Deposits**: Tax computation rules for profits and gains from exploration, production, and related operations, with specific exclusions and conditions for older discoveries and certain fields.\n\n2. **Banking Business**: Tax computation for banking companies under the Seventh Schedule, applicable from tax year 2009 onwards.\n\n3. **Capital Gains Tax**: Rules for capital gains on listed securities under the Eighth Schedule, with exemptions for specific entities like mutual funds and banking companies.\n\n4. **Non-Active Taxpayers**: Special provisions for tax computation and advance tax collection for persons not on the active taxpayers' list, as per the Tenth Schedule.\n\n5. **Charitable Organizations**: Tax credits for non-profit organizations, trusts, and welfare institutions, subject to conditions like filing returns, expenditure limits, and approval requirements.\n\n6. **Builders and Developers**: Tax rules for builders and developers opting for taxation under the Eleventh Schedule, including exemptions, investment conditions, and project completion deadlines.\n\n7. **Small and Medium Enterprises (SMEs)**: Simplified tax computation for SMEs under the Fourteenth Schedule.\n\n8. **Industrial Investment**: Special provisions for investment in new or existing industrial undertakings, with exemptions from certain tax provisions and conditions for eligibility and usage of funds.\n\nThe document also references related sections and schedules for exemptions, returns, and assessments."
+            }
+          ]
+        },
+        {
+          "title": "Chapter 7 — INTERNATIONAL",
+          "node_id": "0037",
+          "line_num": 7959,
+          "prefix_summary": "## Chapter 7 — INTERNATIONAL",
+          "nodes": [
+            {
+              "title": "Part 1 — GEOGRAPHICAL SOURCE OF INCOME",
+              "node_id": "0038",
+              "line_num": 7961,
+              "summary": "The partial document primarily outlines the rules and provisions regarding the geographical source of income under Pakistan's tax laws. It defines Pakistan-source income for various categories, including salary, business income (for both residents and non-residents), dividends, profit on debt, royalties, rental income, pensions, annuities, technical fees, offshore digital services, and gains from the disposal of assets. It also addresses the taxation of non-resident companies, particularly in cases involving the disposal of assets located in Pakistan or deriving value from assets in Pakistan. The document includes specific provisions for determining significant economic presence, business connections, and tax collection mechanisms for non-residents. Additionally, it references related sections of the Income Tax Ordinance, such as deductions, capital gains, and general provisions."
+            },
+            {
+              "title": "Part 2 — TAXATION OF FOREIGN-SOURCE INCOME OF RESIDENTS",
+              "node_id": "0039",
+              "line_num": 8195,
+              "summary": "The partial document focuses on the taxation of foreign-source income for resident individuals. It outlines the conditions under which foreign-source salary is exempt from tax, including the requirement of foreign income tax payment. It details the foreign tax credit mechanism, specifying how the credit is calculated, applied, and limited, including provisions for multiple income heads and the non-refundability or carryover of unused credits. The document also addresses the treatment of foreign losses, allowing deductions only against foreign-source income and permitting the carryforward of foreign losses for up to six years. Definitions for key terms like \"average rate of Pakistan income tax,\" \"foreign income tax,\" and \"net foreign-source income\" are provided, along with references to related sections for further clarification."
+            },
+            {
+              "title": "Part 3 — TAXATION OF NON-RESIDENTS",
+              "node_id": "0040",
+              "line_num": 8273,
+              "summary": "The partial document focuses on the taxation framework for non-residents in Pakistan, specifically addressing the taxation of permanent establishments of non-resident entities and foreign-controlled resident companies. Key points include:\n\n1. **Taxation of Permanent Establishments**:\n   - Income determination principles treating the permanent establishment as a distinct entity.\n   - Allowable deductions for business expenses, excluding payments to the head office or other establishments for royalties, services, or debt profits (except for banking businesses).\n   - Restrictions on head office expenditure deductions based on proportional turnover.\n   - Disallowance of deductions for profits on debt or insurance premiums related to financing operations.\n\n2. **Thin Capitalization Rules**:\n   - Limits on debt-to-equity ratios (3:1) for foreign-controlled resident companies, disallowing deductions for debt exceeding this ratio.\n   - Definitions of foreign-controlled resident companies, foreign debt, and foreign equity.\n\n3. **Restriction on Foreign Profit on Debt (Section 106A)**:\n   - Formula-based disallowance of foreign profit on debt deductions for foreign-controlled resident companies.\n   - Exemptions for deductions below a specified threshold and provisions for carrying forward disallowed amounts.\n   - Applicability to foreign profit on debt accrued from July 1, 2020, including detailed definitions of foreign profit on debt and related financial instruments.\n\nThe document also references anti-avoidance measures under Section 108 for transactions between associates."
+            },
+            {
+              "title": "Part 4 — AGREEMENTS FOR THE AVOIDANCE OF DOUBLE TAXATION",
+              "node_id": "0041",
+              "line_num": 8463,
+              "summary": "The partial document focuses on agreements for the avoidance of double taxation and the prevention of fiscal evasion. It outlines the Federal Government's authority to enter into tax treaties, tax information exchange agreements, multilateral conventions, inter-governmental agreements, or similar mechanisms. These agreements aim to prevent fiscal evasion, facilitate the exchange of tax-related information (including automatic and spontaneous exchanges), and provide relief from tax liabilities. The document also highlights the confidentiality of information exchanged under such agreements and the determination of income for non-residents and residents with special relationships. Additionally, it addresses the implementation of these agreements through notifications in the official Gazette and their applicability to periods before the agreements were made. Relevant sections, such as Section 216 (confidentiality) and Section 109 (anti-avoidance), are referenced for further context."
+            }
+          ]
+        },
+        {
+          "title": "Chapter 8 — ANTI-AVOIDANCE",
+          "node_id": "0042",
+          "line_num": 8548,
+          "summary": "The partial document focuses on anti-avoidance measures in taxation, detailing provisions for transactions between associates, including maintaining documentation, reporting requirements, and adjustments by the Commissioner to reflect arm’s length transactions. It covers the role of independent accountants in determining fair market value, taxation of dealership arrangements, recharacterization of income and deductions in tax avoidance schemes, and rules for controlled foreign companies, including their income attribution and taxation. It also addresses unexplained income or assets, liability in security transactions, and deferred salary payments. The document includes specific rules for compliance, penalties, and procedural clarifications, with references to related schedules and sections for further context."
+        },
+        {
+          "title": "Chapter 9 — MINIMUM TAX",
+          "node_id": "0043",
+          "line_num": 8895,
+          "summary": "The partial document primarily discusses the provisions related to the \"Minimum Tax\" under Chapter IX of the tax ordinance. It outlines the applicability of minimum tax to specific entities, including resident companies, permanent establishments of non-resident companies, individuals, and associations of persons with a specified turnover threshold. Key points include:\n\n1. **Applicability and Conditions**: The section applies when no tax is payable or paid due to exemptions, losses, credits, rebates, or deductions, or when the tax paid is less than a specified percentage of turnover.\n2. **Turnover Definition**: Turnover includes gross sales, receipts from services, contract execution, and other business activities, excluding amounts subject to final tax discharge.\n3. **Minimum Tax Calculation**: The minimum tax is computed based on specified rates in the First Schedule, and the turnover is treated as taxable income.\n4. **Carry Forward of Excess Tax**: Excess minimum tax paid over actual tax liability can be carried forward for adjustment in subsequent years, with specific limitations.\n5. **Alternative Corporate Tax (ACT)**: ACT applies to companies, requiring them to pay the higher of corporate tax or ACT, calculated as 17% of adjusted accounting income. Excess ACT paid can be carried forward for up to ten years.\n6. **Exclusions and Adjustments**: Certain incomes, such as exempt income or income subject to other tax provisions, are excluded from ACT calculations. Adjustments to accounting income may be made by the Commissioner.\n7. **Special Provisions for Retailers and Builders**: Specific sections address minimum tax for retailers and builders, detailing rates, turnover thresholds, and tax treatment.\n\nThe document also references related sections and schedules, including tax rates, exemptions, deductions, and advance tax provisions."
+        },
+        {
+          "title": "Chapter 10 — PROCEDURE",
+          "node_id": "0044",
+          "line_num": 9152,
+          "prefix_summary": "## Chapter 10 — PROCEDURE",
+          "nodes": [
+            {
+              "title": "Part 1 — RETURNS",
+              "node_id": "0045",
+              "line_num": 9154,
+              "summary": "The partial document primarily covers the requirements and procedures for filing income tax returns under the Income Tax Ordinance. It outlines the categories of individuals and entities obligated to file returns, including companies, individuals with taxable income above a certain threshold, non-profit organizations, and those subject to final taxation. It specifies conditions for filing revised returns, wealth statements, and foreign income and assets statements. The document also details the powers of the Commissioner to enforce compliance, issue notices, and grant extensions for filing returns. Additionally, it addresses exemptions, restrictions on economic transactions for non-compliant individuals, and the declaration of business bank accounts. Various amendments and updates introduced through Finance Acts are also highlighted."
+            },
+            {
+              "title": "Part 2 — ASSESSMENTS",
+              "node_id": "0046",
+              "line_num": 9884,
+              "summary": "The partial document primarily covers the procedures and provisions related to tax assessments under the Income Tax Ordinance. It includes details on the following key points:\n\n1. **Automatic Assessments (Section 120):** Explanation of how a taxpayer's furnished return is treated as an assessment order, including adjustments for errors or incorrect claims through an automated system.\n2. **Audit and Compliance (Section 120(1A)):** Provisions for the Commissioner to conduct audits and issue notices for incomplete returns, with timelines for compliance and consequences for non-compliance.\n3. **Best Judgment Assessments (Section 121):** Guidelines for assessments made when taxpayers fail to furnish returns or comply with notices, including the use of sectoral benchmarks.\n4. **Amendment of Assessments (Section 122):** Rules for altering or amending assessment orders, including timelines, conditions, and the concept of \"definite information.\"\n5. **Agreed Assessments (Section 122D):** Introduction of a settlement mechanism through an oversight committee for resolving disputes before finalizing assessments.\n6. **Provisional Assessments (Sections 123 and 122C):** Provisions for provisional assessments in cases of concealed or offshore assets, with timelines for finalization.\n7. **Appeal Effect Orders (Section 124):** Procedures for issuing assessment orders to give effect to appellate decisions, including timelines and handling of set-aside or modified orders.\n8. **Revisions by Tax Authorities (Sections 122A and 122B):** Powers of the Commissioner and Chief Commissioner to revise orders, including conditions and limitations.\n9. **Disputed Property (Section 125):** Assessment rules for income from properties under ownership disputes.\n10. **Evidence of Assessment (Section 126):** Legal validity and evidentiary value of assessment orders and related documents.\n\nThe document also references related sections, amendments, and procedural updates introduced through various Finance Acts."
+            },
+            {
+              "title": "Part 3 — APPEALS",
+              "node_id": "0047",
+              "line_num": 10519,
+              "summary": "The partial document primarily covers the appeals process under tax law, detailing the procedures, requirements, and authorities involved. Key points include:\n\n1. **Appeals to Commissioner (Appeals):** Eligibility, conditions, and procedural requirements for filing appeals against tax orders, including payment of disputed tax amounts and prescribed fees.\n2. **Procedures in Appeals:** Steps for lodging appeals, timelines, verification, and grounds for appeal, along with the Commissioner (Appeals)’ authority to admit late appeals and call for additional evidence or inquiries.\n3. **Decisions in Appeals:** Powers of the Commissioner (Appeals) to confirm, modify, annul, or remand orders, with restrictions on increasing liabilities or reducing refunds without due process.\n4. **Appellate Tribunal:** Constitution, qualifications, and functioning of the Appellate Tribunal Inland Revenue, including its authority to hear appeals, timelines for decisions, and procedures for resolving disputes.\n5. **Reference to High Court:** Process for referring legal questions arising from Appellate Tribunal decisions to the High Court, including timelines, fees, and conditions for stay orders.\n6. **Alternative Dispute Resolution (ADR):** Mechanism for resolving tax disputes outside traditional litigation, including the formation of ADR committees, their composition, decision-making process, and binding nature of decisions.\n7. **Burden of Proof:** Responsibility of taxpayers to prove errors in assessments or decisions during appeals.\n8. **Amendments and Updates:** Incorporation of changes through various Finance Acts, highlighting procedural modifications and new provisions."
+            },
+            {
+              "title": "Part 4 — COLLECTION AND RECOVERY OF TAX",
+              "node_id": "0048",
+              "line_num": 11640,
+              "summary": "The partial document primarily covers the rules and procedures related to the collection and recovery of taxes under the tax ordinance. Key points include:\n\n1. **Due Date for Tax Payment**: Specifies deadlines for tax payments, including those under assessment orders, and provisions for extensions or installment payments.\n2. **Recovery Mechanisms**: Details methods for recovering unpaid taxes, such as property attachment, arrest, and detention of taxpayers, and appointing receivers for property management.\n3. **Liability of Directors and Members**: Outlines the joint and several liabilities of directors, shareholders, and members of private companies or associations of persons for unpaid taxes.\n4. **Recovery from Third Parties**: Provides for recovery of taxes from persons holding money on behalf of taxpayers or owing money to them.\n5. **Liquidators and Bankruptcy**: Establishes responsibilities of liquidators and the treatment of tax liabilities in bankruptcy cases.\n6. **Non-Resident Taxpayers**: Covers tax recovery from non-resident ship or aircraft owners, charterers, and members of associations of persons.\n7. **Special Recovery Provisions**: Includes provisions for taxpayers leaving Pakistan, recovery from persons assessed in Azad Jammu and Kashmir or Gilgit-Baltistan, and assistance in recovery under international agreements.\n8. **Tax Arrears Settlement**: Mentions schemes for settling tax arrears and waivers of penalties or surcharges.\n9. **Recovery of Other Liabilities**: Allows recovery of liabilities under other laws treated as income tax arrears."
+            },
+            {
+              "title": "Part 5 — ADVANCE TAX AND DEDUCTION OF TAX AT SOURCE",
+              "node_id": "0049",
+              "line_num": 12100,
+              "prefix_summary": "### Part 5 — ADVANCE TAX AND DEDUCTION OF TAX AT SOURCE",
+              "nodes": [
+                {
+                  "title": "Division 1 — Advance Tax Paid by the Taxpayer",
+                  "node_id": "0050",
+                  "line_num": 12102,
+                  "summary": "The partial document primarily outlines the provisions related to the payment of advance tax by taxpayers under Division I of the tax ordinance. It covers the following main points:\n\n1. **Liability for Advance Tax**: Specifies taxpayers required to pay advance tax, exemptions, and conditions under which individuals or entities are liable, including income thresholds and exclusions for certain income types.\n\n2. **Computation of Advance Tax**: Details formulas for calculating advance tax for individuals, associations of persons, and companies, including adjustments for turnover and previously paid taxes.\n\n3. **Payment Schedule**: Provides timelines for quarterly advance tax payments for individuals, companies, and associations of persons.\n\n4. **Adjustments and Estimates**: Allows taxpayers to estimate their tax liability if it is expected to be lower than the calculated amount and outlines the process for submitting estimates to the Commissioner.\n\n5. **Tax Credit and Refunds**: Explains how advance tax payments are credited against the final tax liability and the process for refunds if the credit exceeds the tax due.\n\n6. **Special Provisions**: Includes specific rules for taxpayers in certain businesses (e.g., construction, development, and sale of properties) and provincial sales tax-registered persons, with additional provisions for advance tax on capital gains from securities.\n\n7. **Administrative Provisions**: Mentions the role of the tax authorities in prescribing methods for filing estimates and ensuring compliance with advance tax requirements.\n\n8. **Referenced Sections**: Links to related sections of the tax ordinance, such as income from business, deductions, and general provisions for advance tax or tax deduction at source."
+                },
+                {
+                  "title": "Division 2 — Advance Tax Paid to a Collection Agent",
+                  "node_id": "0051",
+                  "line_num": 12425,
+                  "summary": "The partial document primarily covers the provisions related to the collection and deduction of advance tax under various scenarios as outlined in the tax laws. It includes:\n\n1. **Advance Tax on Imports**: Details the role of the Collector of Customs in collecting advance tax on imported goods, including exemptions, classifications, and conditions for raw materials and finished goods.\n\n2. **Tax Collection Mechanisms**: Specifies the timing and manner of tax collection, including alignment with customs duties and exemptions for certain goods and entities.\n\n3. **Amendments and Notifications**: Highlights the authority of the Board to amend, add, or omit entries in schedules and issue notifications regarding tax collection procedures.\n\n4. **Special Provisions for Manufacturers**: Discusses tax reductions or exemptions for manufacturers importing raw materials for their own use, subject to certification or conditions.\n\n5. **Final and Minimum Tax**: Clarifies when collected tax is treated as final or minimum tax, particularly for imports, contracts, and specific goods.\n\n6. **Definitions and Scope**: Provides definitions for terms like \"Collector of Customs\" and \"value of goods\" and explains their relevance to tax collection.\n\n7. **Tax on Services and Contracts**: Covers tax deductions on payments for goods, services, and contracts, including specific provisions for e-commerce, courier services, and digital transactions.\n\n8. **Export-Related Taxation**: Outlines tax collection on export proceeds, including services, royalties, and technical services, with conditions for final taxation.\n\n9. **Tax on Rent and Prizes**: Includes provisions for tax deductions on rent of immovable property and winnings from prizes, lotteries, and raffles.\n\n10. **Petroleum Products and Other Specific Cases**: Discusses tax deductions on commissions or discounts for petroleum product sales and other specified transactions.\n\n11. **Procedural and Administrative Aspects**: Details the process for obtaining reduced tax rates, exemptions, and the responsibilities of prescribed persons in tax collection.\n\nThe document also references various amendments, schedules, and sections of the tax ordinance to provide a comprehensive framework for advance tax collection and deduction."
+                },
+                {
+                  "title": "Division 4 — General Provisions Relating to the Advance Payment of Tax or the",
+                  "node_id": "0052",
+                  "line_num": 13609,
+                  "summary": "The partial document outlines the general provisions related to the advance payment of tax or deduction of tax at source under Division IV. Key points include:\n\n1. **Exemption or Lower Rate Certificates**: Procedures for obtaining exemption or reduced tax rate certificates from the Commissioner for income exempt from tax, subject to lower tax rates, or eligible for 100% tax credit. Specific timelines and conditions for companies and individuals are detailed.\n\n2. **Collection and Deduction of Tax**: Obligations of persons required to collect or deduct tax, compliance with issued certificates, and payment of collected or deducted tax to the Commissioner within prescribed timelines.\n\n3. **Failure to Collect or Deduct Tax**: Consequences for failing to collect or deduct tax, including personal liability, recovery mechanisms, and penalties. Provisions for default surcharge and recovery adjustments are included.\n\n4. **Recovery of Tax**: Procedures for recovering tax from persons who failed to collect or deduct it or from those liable for the tax.\n\n5. **Certificates and Statements**: Requirements for issuing certificates of tax collection or deduction and filing quarterly and annual statements with detailed information on transactions, tax collected, and reconciliations.\n\n6. **Priority and Indemnity**: Tax collected or deducted is held in trust for the government, prioritized over other liabilities, and indemnifies the collector/deductor upon remittance.\n\n7. **Tax Credit and Final Tax**: Rules for claiming tax credits for collected or deducted tax, conditions for final tax treatment, and adjustments for excess tax collected under specific schedules.\n\n8. **Information Sharing**: Obligations for banks, financial institutions, online marketplaces, and intermediaries to provide transaction details and integrate with tax systems for compliance and reporting.\n\n9. **Special Provisions**: Additional rules for SWAPS agents, higher tax rates for non-compliance, and confidentiality of information used for tax purposes."
+                }
+              ]
+            },
+            {
+              "title": "Part 6 — REFUNDS",
+              "node_id": "0053",
+              "line_num": 14284,
+              "summary": "The partial document primarily covers the provisions related to tax refunds under the Income Tax Ordinance. It outlines the process for taxpayers to claim refunds for overpaid taxes, including the application procedure, verification requirements, and time limits for filing refund claims. It details the Commissioner's responsibilities in processing refunds, including applying excess tax to other liabilities and issuing refunds within a specified timeframe. The document also addresses compensation for delayed refunds, specifying the interest rate and conditions under which compensation is payable. Additionally, it introduces electronic processing and issuance of refunds, as well as the option to pay refunds through income tax refund bonds, detailing their issuance, maturity, profit rates, and trading mechanisms."
+            },
+            {
+              "title": "Part 7 — REPRESENTATIVES",
+              "node_id": "0054",
+              "line_num": 14417,
+              "summary": "The partial document outlines the definition, roles, and responsibilities of \"representatives\" under a tax ordinance. It specifies who qualifies as a representative for various entities, including individuals under legal disability, companies, trusts, governments, associations, and non-resident persons. It details the circumstances under which a person can be deemed a representative, including their connection to income, assets, or financial transactions of the taxpayer. The document also explains the liability and obligations of representatives, including their responsibility to fulfill tax duties on behalf of the taxpayer, recover tax payments from the taxpayer, and their personal liability in certain cases of non-compliance. Additionally, it provides provisions for representatives to retain funds to cover estimated tax liabilities and outlines protections and limitations regarding their responsibilities."
+            },
+            {
+              "title": "Part 8 — RECORDS, INFORMATION COLLECTION AND AUDIT",
+              "node_id": "0055",
+              "line_num": 14523,
+              "summary": "The partial document primarily covers regulations related to records, information collection, and audits under tax laws. Key points include:\n\n1. **Maintenance of Records**: Taxpayers are required to maintain prescribed accounts, documents, and records for six years, with provisions for extended retention if legal proceedings are pending.\n\n2. **Electronic Tax Registers**: The Commissioner may mandate the installation of electronic tax registers for storing transaction data relevant to tax liabilities.\n\n3. **Search and Access Powers**: The Commissioner or authorized officers have the authority to access premises, impound documents, and examine or copy records, including electronic data, for tax enforcement and audits.\n\n4. **Real-Time Data Access**: Provisions for real-time access to databases from various government and private entities, including NADRA, FIA, land records, and utility companies, to enhance tax compliance and broaden the tax base.\n\n5. **Audit Procedures**: Detailed guidelines for conducting audits, including electronic audits, sectoral benchmarks for income determination, and the establishment of special audit panels with powers to access and examine records.\n\n6. **Confidentiality and Data Use**: Information collected under these provisions is to be used solely for tax purposes and kept confidential.\n\n7. **Beneficial Ownership and Business Licensing**: Companies and associations must report beneficial ownership details, and businesses are required to obtain and display licenses, with penalties for non-compliance.\n\n8. **Assistance and Translation**: Other government departments and agencies are required to assist tax authorities, and taxpayers must provide translations of records not in Urdu or English."
+            },
+            {
+              "title": "Part 10 — PENALTY",
+              "node_id": "0056",
+              "line_num": 15110,
+              "summary": "The partial document outlines the penalties and offences under the Income Tax Ordinance, detailing various scenarios of non-compliance and their corresponding penalties. It covers failure to file returns, statements, or wealth declarations within the due date, non-registration or failure to update taxpayer profiles, non-payment or late payment of taxes, and providing false or misleading information. Specific penalties are prescribed for each offence, including monetary fines, percentages of tax payable, or sealing of business premises. The document also includes provisions for reduced penalties for timely compliance after default and exemptions from penalties under certain conditions. Amendments and updates introduced through various Finance Acts are also referenced, highlighting changes in penalty amounts and applicable sections."
+            },
+            {
+              "title": "Part 11 — OFFENCES AND PROSECUTIONS",
+              "node_id": "0057",
+              "line_num": 15962,
+              "summary": "The partial document outlines the provisions related to offences and prosecutions under tax law. It details penalties for non-compliance with statutory obligations, including failure to file returns, maintain records, register, or provide accurate information. Specific offences include concealment of income, false statements, misuse of tax numbers, obstruction of tax authorities, and unauthorized disclosure of information. It also addresses penalties for aiding or abetting tax evasion and improper handling of assets to prevent attachment. The document specifies the roles and powers of Special Judges, procedures for prosecution, arrest, and trial, as well as provisions for compounding offences and granting immunity. Amendments and updates introduced through various Finance Acts are also highlighted."
+            },
+            {
+              "title": "Part 12 — 3[DEFAULT SURCHARGE]",
+              "node_id": "0058",
+              "line_num": 16488,
+              "summary": "The partial document primarily covers the provisions related to \"Default Surcharge\" under Part XII of the tax regulations. It outlines the circumstances under which a person is liable to pay default surcharge, including failure to pay taxes (excluding advance tax under section 147), penalties, or amounts under sections 140 or 141 by the due date. The document specifies the applicable rates for default surcharge, such as 12% per annum or KIBOR plus 3%, and details the computation period for unpaid amounts. It also includes provisions for exemptions from default surcharge under certain conditions, such as opting not to file an appeal and paying taxes based on specific orders. Additionally, it addresses the refund of default surcharge if the related tax or penalty is deemed not payable and the reduction of default surcharge in cases of reduced tax or penalty. The document references amendments and substitutions made by various Finance Acts over the years, highlighting changes in terminology (e.g., \"additional tax\" to \"default surcharge\") and applicable rates. It also mentions related sections, including sections 137 (collection and recovery of tax) and 147 (advance tax)."
+            },
+            {
+              "title": "Part 13 — CIRCULARS",
+              "node_id": "0059",
+              "line_num": 16651,
+              "summary": "The partial document focuses on the issuance and application of circulars and advance rulings under the Ordinance. It outlines the authority of the Board to issue circulars for consistent administration and guidance, specifying that such circulars are binding on income tax authorities but not on taxpayers. It also discusses the process for non-resident taxpayers to obtain advance rulings on specific transactions, clarifying that these rulings are binding on the Commissioner if the taxpayer has fully disclosed relevant details. Additionally, it addresses the precedence of advance rulings over circulars in case of inconsistencies and includes references to amendments made through various Finance Acts."
+            }
+          ]
+        },
+        {
+          "title": "Chapter 11 — ADMINISTRATION",
+          "node_id": "0060",
+          "line_num": 16702,
+          "prefix_summary": "## Chapter 11 — ADMINISTRATION",
+          "nodes": [
+            {
+              "title": "Part 1 — GENERAL",
+              "node_id": "0061",
+              "line_num": 16704,
+              "summary": "The partial document primarily covers the structure, roles, and jurisdiction of income tax authorities under the Income Tax Ordinance. It details the hierarchy of authorities, including the Board, Chief Commissioners, Commissioners, and other Inland Revenue officers, along with their respective powers, functions, and subordination. It also outlines the procedures for appointment, delegation of powers, and jurisdictional assignments. Additionally, it addresses rules for disclosure of information, confidentiality, service of notices, rectification of mistakes, and proceedings against companies under liquidation. The document includes provisions for rewards to officers, whistleblowers, and e-intermediaries, as well as mechanisms for automated and e-hearing tax regimes. It also references specific sections related to tax collection, recovery, and income from business."
+            },
+            {
+              "title": "Part 2 — 3[DIRECTORATES-GENERAL]",
+              "node_id": "0062",
+              "line_num": 17761,
+              "summary": "The partial document outlines the structure, functions, jurisdiction, and powers of various Directorates-General established under the Federal Board of Revenue (FBR) in Pakistan. It details the composition of these directorates, including the roles of Director-General, Directors, and other officers, and specifies their responsibilities as notified in the official Gazette. Key Directorates-General covered include Internal Audit, Inland Revenue Service Academy, Intelligence and Investigation, Withholding Taxes, Law, Research and Development, Broadening of Tax Base, International Tax Operations, Transfer Pricing, Immovable Property, Special Initiative, Valuation, Compliance Risk Management, International Centre of Tax Excellence, and Tax Fraud Investigation Wing. The document also references amendments introduced through various Finance Acts, highlighting changes in their mandates, powers, and operational procedures. Additionally, it includes provisions for tax audits, transfer pricing, immovable property valuation, anti-avoidance measures, and the establishment of specialized units and tribunals for tax-related matters."
+            }
+          ]
+        },
+        {
+          "title": "Chapter 12 — TRANSITIONAL ADVANCE TAX PROVISIONS",
+          "node_id": "0063",
+          "line_num": 18167,
+          "summary": "The partial document primarily covers transitional advance tax provisions under Chapter XII, detailing various sections related to the collection of advance taxes. Key points include:\n\n1. **Advance Tax on Cash Withdrawals (Section 231AB):** Tax collection by banking companies on cash withdrawals exceeding a specified threshold for non-active taxpayers.\n2. **Advance Tax on Motor Vehicles (Section 231B):** Tax collection at the time of registration, transfer, or leasing of motor vehicles, with exemptions for government entities and diplomats.\n3. **Advance Tax on Foreign Domestic Workers (Section 231C):** Tax collection on visa issuance or renewal for foreign domestic workers.\n4. **Advance Tax on Electricity Consumption (Section 235):** Tax collection on electricity bills for commercial, industrial, and domestic consumers, with certain exemptions.\n5. **Advance Tax on Telephone and Internet Users (Section 236):** Tax collection on telephone and internet bills, prepaid cards, and related services.\n6. **Advance Tax on Sale by Auction (Section 236A):** Tax collection on property or goods sold via public auction or tender.\n7. **Advance Tax on Sale or Transfer of Immovable Property (Section 236C):** Tax collection on property transfers, with exemptions for specific cases like government-allotted properties.\n8. **Advance Tax on Functions and Gatherings (Section 236CB):** Tax collection on events held in venues like marriage halls, hotels, or community spaces.\n9. **Advance Tax on Sales to Distributors, Dealers, and Retailers (Sections 236G and 236H):** Tax collection on sales made by manufacturers, distributors, or importers to wholesalers and retailers.\n10. **Advance Tax on Purchase or Transfer of Immovable Property (Section 236K):** Tax collection from buyers or transferees of immovable property, with provisions for installment-based payments.\n11. **Advance Tax on Persons Remitting Amounts Abroad (Section 236Y):** Tax collection on international transactions made via credit, debit, or prepaid cards.\n12. **Advance Tax on Bonus Shares (Section 236Z):** Tax collection on the issuance of bonus shares by companies, with provisions for withholding and recovery.\n\nThe document also references exemptions, adjustments, and specific rates outlined in the First and Second Schedules."
+        },
+        {
+          "title": "Chapter 13 — MISCELLANEOUS",
+          "node_id": "0064",
+          "line_num": 19141,
+          "prefix_summary": "## Chapter 13 — MISCELLANEOUS",
+          "nodes": [
+            {
+              "title": "Part 1 — RATES OF TAX",
+              "node_id": "0065",
+              "line_num": 19143,
+              "prefix_summary": "### Part 1 — RATES OF TAX",
+              "nodes": [
+                {
+                  "title": "Division 1 — Rates of Tax for Individuals",
+                  "node_id": "0066",
+                  "line_num": 19145,
+                  "summary": "The partial document outlines the rates of tax applicable to individuals, salaried individuals, associations of persons, and companies. It provides detailed tax rate tables based on taxable income brackets, including specific provisions for individuals with income primarily from salaries and associations of persons. The document also references changes introduced by various Finance Acts, including adjustments to tax rates and exemptions. Additionally, it mentions omitted clauses and divisions related to specific tax scenarios, such as agricultural income, legal representatives of deceased individuals, and turnover-based taxation. The document also includes references to sections on income from business, deductions, exemptions, and taxation principles for associations of persons."
+                },
+                {
+                  "title": "Division 2 — Rates of Tax for Companies",
+                  "node_id": "0067",
+                  "line_num": 19450,
+                  "summary": "The partial document outlines the rates of tax applicable to companies, small companies, and banking companies for various tax years, including reductions over time. It also specifies super tax rates for high-earning individuals and companies, including banking companies and other entities with income exceeding certain thresholds. The document details tax rates on dividends, profit on debt, and returns on investments in sukuks, with variations based on the type of recipient (e.g., companies, individuals, or associations). Additionally, it includes tax rates for payments such as royalties, technical services, and digital transactions through e-commerce platforms. Various amendments and substitutions to tax rates and provisions over different years are also highlighted."
+                },
+                {
+                  "title": "Division 5 — Rate of Tax on Shipping or Air Transport Income",
+                  "node_id": "0068",
+                  "line_num": 19752,
+                  "summary": "The partial document outlines various tax rates and provisions related to specific types of income and transactions. Key points include:\n\n1. **Tax on Shipping and Air Transport Income**: Tax rates are specified as 8% for shipping income and 3% for air transport income of non-residents.\n\n2. **Tax on Payments to Non-Residents**: A 15% tax rate applies to royalties and technical service fees, with a 5% rate for offshore digital services.\n\n3. **Income from Property**: Detailed tax rates are provided for individuals, associations, and companies based on the gross rental income, with progressive rates depending on income brackets.\n\n4. **Capital Gains on Securities**: Tax rates vary based on the holding period of securities, with rates progressively decreasing for longer holding periods. Specific provisions apply to securities acquired before or after certain dates, mutual funds, and REIT schemes.\n\n5. **Capital Gains on Immovable Property**: Tax rates are outlined based on the gain amount and holding period, with reduced rates for specific categories such as ex-servicemen and government employees.\n\n6. **Other Divisions**: References to tax accounting methods, deductions, and tax on prizes and winnings are included, with specific rates and principles outlined for each category."
+                },
+                {
+                  "title": "Division 8 — The rate of tax to be paid shall under sub-section (1A) of section 37 shall be as follows:",
+                  "node_id": "0069",
+                  "line_num": 20154,
+                  "summary": "The partial document outlines various tax rates and provisions under different divisions and sections of the tax code. Key points include:\n\n1. **Division VIII - Tax on Capital Gains**: Specifies tax rates on the disposal of properties (open plots, constructed flats) based on holding periods, with rates decreasing as the holding period increases.\n\n2. **Division VIIIA - Tax on Builders**: Details tax rates for builders based on the type of building (commercial or residential) and location (Karachi, Lahore, Islamabad, etc.), with rates varying by area and size.\n\n3. **Division VIIIB - Tax on Developers**: Provides tax rates for developers on commercial and residential plots, categorized by location and plot size.\n\n4. **Division VIIIC - Tax on Deemed Income**: Sets a flat tax rate of 20% under section 7E.\n\n5. **Division IX - Minimum Tax**: Lists minimum tax rates for various entities (e.g., gas companies, airlines, poultry industry) as a percentage of turnover, with specific rates for different industries and cases.\n\n6. **Part II - Rates of Advance Tax**: Specifies advance tax rates for imports under section 148, categorized by goods type, value, and importer type, including special provisions for mobile phones and plastic raw materials.\n\n7. **Part IIB - Advance Tax on Real Estate Development**: Introduces tax rates for persons involved in developing commercial, residential, and industrial areas, with rates varying by location and project type.\n\n8. **Referenced Sections**: Includes sections 37 (capital gains), 148 (advance tax on imports), and 147 (advance tax by taxpayers), providing the legal basis for the tax rates and provisions mentioned.\n\nThe document provides a comprehensive breakdown of tax rates and rules applicable to various sectors, activities, and transactions."
+                }
+              ]
+            },
+            {
+              "title": "Part 2 — REDUCTION IN TAX RATES",
+              "node_id": "0070",
+              "line_num": 20511,
+              "summary": "The partial document primarily covers the reduction in tax rates for specific incomes, classes of income, or persons, as outlined in Part II of the Second Schedule. It details various clauses, many of which have been omitted or amended over time through different Finance Acts and Tax Laws Ordinances. Key points include:\n\n1. **Tax Rate Reductions**: Specific reductions in tax rates for certain businesses, industries, and income types, such as mineral exploration, construction contracts, and services rendered outside Pakistan.\n2. **Omitted Clauses**: Numerous clauses have been omitted, reflecting changes in tax policies over the years, including exemptions or reduced rates for industries like petroleum, export-related businesses, and specific financial instruments.\n3. **Special Provisions**: Provisions for reduced withholding tax rates on payments to non-residents, profits on debt, and specific exemptions for entities like the Pakistan Cricket Board.\n4. **Sector-Specific Taxation**: Taxation rules for industries such as steel, fertilizers, sugar, and textiles, including import-related tax rates and exemptions.\n5. **Incentives for Investments**: Tax reductions for companies meeting specific criteria, such as Shariah compliance, stock exchange listing, or foreign direct investment.\n6. **Rules for Mineral Exploration**: Separate rules for computing profits and gains from mineral exploration and extraction, including depreciation and depletion allowances.\n7. **Superannuation Funds**: Conditions for approval, contributions, and tax treatment of superannuation funds.\n8. **Export and Manufacturing Incentives**: Tax exemptions or reduced rates for goods manufactured in Pakistan and exported or sold under international tenders.\n9. **Tax Accounting and Deductions**: Rules for depreciation, deductions, and tax accounting methods for businesses.\n\nThe document reflects a comprehensive framework for tax reductions, exemptions, and special provisions tailored to various sectors and income types."
+            },
+            {
+              "title": "Part 3 — DEDUCTION OF TAX AT SOURCE",
+              "node_id": "0071",
+              "line_num": 22388,
+              "prefix_summary": "### Part 3 — DEDUCTION OF TAX AT SOURCE",
+              "nodes": [
+                {
+                  "title": "Division 3 — Payments for Goods or Services",
+                  "node_id": "0072",
+                  "line_num": 22390,
+                  "summary": "The partial document primarily outlines the tax rates applicable to payments for goods and services under Division III, including specific rates for various categories such as the sale of rice, cotton seed, edible oils, toll manufacturing, and services. It details the tax rates for companies and non-companies, distinguishing between filers and non-filers, and highlights amendments introduced through various Finance Acts over the years. The document also addresses tax rates for specific services like transport, IT, advertising, and e-commerce transactions, including digital payments and cash-on-delivery. Additionally, it references sections and schedules related to exemptions, deductions, and taxable income computation."
+                },
+                {
+                  "title": "Division 4 — Exports",
+                  "node_id": "0073",
+                  "line_num": 22577,
+                  "summary": "The partial document primarily outlines the tax rates applicable to various types of income and transactions under different divisions of the tax code. It covers:\n\n1. **Division IV - Exports**: Specifies tax rates for export proceeds, including amendments and substitutions over the years. It includes details on tax rates for exports of computer software, IT services, and IT-enabled services, as well as general export proceeds.\n\n2. **Division IIIA and IIIB**: Mentions omitted divisions related to payments to non-resident media persons and royalties paid to resident persons, along with their respective tax rates before omission.\n\n3. **Division IVA - Export of Services**: Details tax rates for export proceeds of services, including IT services, with specific rates for different tax years.\n\n4. **Division V - Income from Property**: Provides a detailed breakdown of tax rates on rental income for individuals, associations of persons, and companies, with progressive tax brackets based on the gross amount of rent.\n\n5. **Referenced Sections**: Includes references to sections and schedules related to tax accounting, advance tax collection, and tax rates on shipping or air transport income for non-residents."
+                },
+                {
+                  "title": "Division 6 — Prizes and Winnings",
+                  "node_id": "0074",
+                  "line_num": 22711,
+                  "summary": "The partial document outlines tax rates and regulations related to prizes, winnings, petroleum products, and CNG stations. It specifies tax deduction rates under Section 156 for prizes from prize bonds, crosswords, raffles, lotteries, quizzes, and promotional prizes, with distinctions for filers and non-filers. It also includes tax collection rates under Section 156A for petroleum products and Section 234A for CNG stations. Historical amendments, omissions, and substitutions made through various Finance Acts are noted, including changes to rates and the removal of certain divisions like Division VIB (CNG Stations) and Division VII (Petroleum Products)."
+                }
+              ]
+            },
+            {
+              "title": "Part 4 — (See Chapter XII)",
+              "node_id": "0075",
+              "line_num": 22757,
+              "prefix_summary": "### Part 4 — (See Chapter XII)",
+              "nodes": [
+                {
+                  "title": "Division 3 — 4[Tax on Motor Vehicles]",
+                  "node_id": "0076",
+                  "line_num": 22759,
+                  "summary": "The partial document outlines the tax rates and collection mechanisms for motor vehicles and stock exchange transactions in Pakistan. It includes:\n\n1. **Tax on Motor Vehicles**:\n   - Tax rates for goods transport vehicles based on laden weight.\n   - Advance tax for goods transport vehicles after ten years of registration.\n   - Tax rates for passenger transport vehicles based on seating capacity and air-conditioning status.\n   - Tax rates for private motor vehicles categorized by engine capacity, with distinctions for filers and non-filers.\n   - Lump-sum tax collection rates for motor vehicles based on engine capacity.\n\n2. **Tax on Stock Exchange Transactions**:\n   - Tax rates for the purchase and sale of shares under section 233A.\n   - Historical changes and omissions in tax rates for stock exchange transactions and deductions by NCCPL.\n\n3. **Amendments and Omissions**:\n   - Various amendments and substitutions made through Finance Acts from 2003 to 2023.\n   - Omitted divisions and clauses related to tax collection by stock exchanges and NCCPL.\n\n4. **Referenced Sections**:\n   - Provisions related to depreciation deductions and tax accounting methods."
+                },
+                {
+                  "title": "Division 4 — Electricity Consumption",
+                  "node_id": "0077",
+                  "line_num": 22890,
+                  "summary": "The partial document outlines the tax rates applicable to electricity consumption under Division IV. It specifies the tax collection rates based on the gross amount of electricity bills for domestic, commercial, and industrial consumers. For domestic consumers, the tax rate is 0% for bills below Rs. 25,000 and 7.5% for bills of Rs. 25,000 or more. For commercial and industrial consumers, the tax rates vary based on the gross bill amount, with detailed slabs provided. The document also references the Finance Act, 2022, and includes provisions for transitional advance tax under Section 235."
+                },
+                {
+                  "title": "Division 5 — Telephone users",
+                  "node_id": "0078",
+                  "line_num": 22948,
+                  "summary": "The partial document outlines the tax rates and provisions related to telephone users under Division V. It specifies the rates of tax collection for telephone subscribers, including distinctions between mobile and non-mobile subscribers, and details historical amendments to these rates through various Finance Acts. It also references omitted clauses and tables that previously outlined tax rates based on monthly bill amounts. Additionally, it mentions changes in tax rates for mobile and internet services, including adjustments for pre-paid cards and electronic mediums, with specific provisions for certain taxpayers. The document also briefly references other divisions and sections related to tax on motor vehicles, shipping income, prizes, and transitional advance tax provisions."
+                },
+                {
+                  "title": "Division 6 — Cash withdrawal from a bank",
+                  "node_id": "0079",
+                  "line_num": 23050,
+                  "summary": "The partial document outlines various tax rates and provisions under different divisions of the First Schedule, Part IV, related to the Income Tax Ordinance. Key points include:\n\n1. **Division VI - Cash Withdrawal from Banks**: Tax rate of 0.6% on cash withdrawals for individuals not listed as active taxpayers.\n   \n2. **Division VIA - Advance Tax on Bank Transactions**: Tax rate of 0.6% on transactions for non-active taxpayers.\n\n3. **Division VII - Advance Tax on Purchase of Motor Vehicles**: Detailed tax rates based on engine capacity for both filers and non-filers, with provisions for reductions over time and additional taxes based on vehicle value.\n\n4. **Division VIII - Advance Tax on Auction Sales**: Tax rate of 10% on gross sale price for auctions, with a reduced rate of 5% for immovable property and specific services.\n\n5. **Division X - Advance Tax on Sale or Transfer of Immovable Property**: Tax rates ranging from 3% to 5.5% based on the gross consideration amount.\n\n6. **Division XA - Advance Tax on TV Plays and Advertisements**: Specific tax rates for foreign-produced TV dramas, plays, and advertisements starring foreign actors.\n\n7. **Division XI - Advance Tax on Functions and Gatherings**: Tax rate of 10% on functions and gatherings, with specific rates for marriage functions based on location and size.\n\n8. **Division XIV - Advance Tax on Sales to Distributors, Dealers, or Wholesalers**: Tax rates for sales of fertilizers and other goods, differentiated for filers and non-filers.\n\nThe document also includes amendments and substitutions made through various Finance Acts, detailing changes in tax rates and provisions over time."
+                },
+                {
+                  "title": "Division 14 — Advance tax on sale to distributors, dealers or wholesalers",
+                  "node_id": "0080",
+                  "line_num": 23357,
+                  "summary": "The partial document outlines the rates of advance tax applicable under specific divisions of tax law. Division XIV specifies the rates of advance tax on sales to distributors, dealers, or wholesalers, distinguishing between filers and non-filers, with separate rates for fertilizers (0.7% for filers, 1.4% for non-filers) and other goods (0.1% for filers, 0.2% for non-filers). A reduced rate of 0.25% is provided for distributors, dealers, or wholesalers of fertilizers listed on both the Active Taxpayers’ Lists under the Sales Tax Act, 1990, and the Income Tax Ordinance, 2001. Division XV addresses advance tax on sales to retailers, setting a rate of 0.5% on gross sales, with specific rates for electronics (1%) and other goods (0.5%). The document also references amendments and substitutions made through various Finance Acts."
+                },
+                {
+                  "title": "Division 15 — Advance tax on sale to retailers",
+                  "node_id": "0081",
+                  "line_num": 23401,
+                  "summary": "The partial document outlines various divisions related to the collection of advance tax under different categories and their respective rates, as introduced or omitted by various Finance Acts. Key points include:\n\n1. **Division XV**: Advance tax on sales to retailers, with tax rates of 1% for electronics and 0.5% for other categories, introduced by the Finance Act, 2018.\n2. **Division XVA**: Advance tax on certain petroleum products at a rate of 0.5% of the ex-depot sale price, omitted by the Finance Act, 2021.\n3. **Division XVI**: Advance tax collection by educational institutions at a rate of 5% of the fee amount, omitted by the Finance Act, 2022.\n4. **Division XVII**: Advance tax on dealers, commission agents, and arhatis with fixed annual amounts based on group classification, omitted by the Finance Act, 2020.\n5. **Division XVIII**: Substituted through the Finance Act, 2019, though specific details are not provided in the partial document. \n\nThe document references tax rates and amendments made through various Finance Acts."
+                },
+                {
+                  "title": "Division 18 — Advance tax on purchase of immovable property",
+                  "node_id": "0082",
+                  "line_num": 23450,
+                  "summary": "The partial document outlines the provisions related to the advance tax on the purchase of immovable property under Division XVIII of the Income Tax Ordinance. It specifies the tax rates applicable under section 236K, which vary based on the fair market value of the property and whether the buyer is a filer or non-filer. The document includes amendments and substitutions made through various Finance Acts (e.g., 2015, 2018, 2024, 2025) and notifications issued by the Federal Government. It details the tax rate progression over time, including reduced rates for specific periods and extensions granted through official notifications. Additionally, it references omitted divisions and sections related to tax rates and deductions."
+                },
+                {
+                  "title": "Division 19 — Advance tax on Domestic Electricity Consumption",
+                  "node_id": "0083",
+                  "line_num": 23684,
+                  "summary": "#### Division 19 — Advance tax on Domestic Electricity Consumption\n\nDivision XIX\nAdvance tax on Domestic Electricity Consumption\nThe rate of tax to be collected under section 235A shall be---\n(i) 7.5% if the amount of monthly bill is Rs. 3[“75,000”] or more; and\n(ii) 0% the amount of monthly bill is less than Rs. 3[75,000]."
+                },
+                {
+                  "title": "Division 20 — Advance tax on international air ticket",
+                  "node_id": "0084",
+                  "line_num": 23692,
+                  "summary": "The partial document outlines the advance tax rates applicable on international air tickets under Division 20, Section 236L. It specifies the tax rates for different ticket types: Rs. 16,000 per person for First/Executive Class, Rs. 12,000 per person for tickets excluding Economy, and no tax for Economy Class. Additionally, it references Section 236L under Chapter XII, which pertains to transitional advance tax provisions."
+                },
+                {
+                  "title": "Division 21 — Advance Tax on Banking Transactions Otherwise Than",
+                  "node_id": "0085",
+                  "line_num": 23709,
+                  "summary": "The partial document outlines various divisions and provisions related to the collection of advance tax in Pakistan under specific sections of the tax code. Key points include:\n\n1. **Division XXI**: Advance tax on banking transactions other than through cash, with a tax rate of 0.6% for individuals not on the active taxpayers' list.\n2. **Division XXII (Omitted)**: Previously addressed tax collection by Pakistan Mercantile Exchange Limited at a rate of 0.05% for future commodity contracts.\n3. **Division XXVII**: Advance tax on amounts remitted abroad via credit, debit, or prepaid cards, with a tax rate of 5%.\n4. **Division XXIII (Omitted)**: Tax on payments to residents for the right to use machinery and equipment, previously set at 10%.\n5. **Division XXIV (Omitted)**: Tax on education-related expenses remitted abroad, previously set at 5%.\n6. **Division XXV (Omitted)**: Advance tax on insurance premiums, with varying rates (4% for general insurance, 1% for life insurance exceeding Rs. 0.3 million annually, and 0% for others).\n7. **Referenced Sections**: Includes transitional advance tax provisions and specific rates, such as 0.8% for cash withdrawals under Section 231AB.\n\nThe document also notes omitted divisions and their prior tax rates, reflecting changes introduced through various Finance Acts."
+                },
+                {
+                  "title": "Division 26 — ADVANCE TAX ON EXTRACTION OF MINERALS",
+                  "node_id": "0086",
+                  "line_num": 23768,
+                  "summary": "#### Division 26 — ADVANCE TAX ON EXTRACTION OF MINERALS\n\nDivision XXVI\nADVANCE TAX ON EXTRACTION OF MINERALS\nThe rate of tax to be collected under section 236V shall be 5% of the value of the minerals 5[\n].]"
+                },
+                {
+                  "title": "Division 27 — Advance tax on amount remitted abroad through credit, debit or prepaid cards",
+                  "node_id": "0087",
+                  "line_num": 23775,
+                  "summary": "The partial document outlines the provisions related to the advance tax on amounts remitted abroad through credit, debit, or prepaid cards under Division 27. It specifies that a 1% tax rate is to be deducted on the gross amount remitted abroad, as amended by the Finance Act, 2023. Additionally, it references the Second Schedule, which details exemptions and tax concessions, including agricultural income exemptions, and Section 236Y, which pertains to transitional advance tax provisions."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

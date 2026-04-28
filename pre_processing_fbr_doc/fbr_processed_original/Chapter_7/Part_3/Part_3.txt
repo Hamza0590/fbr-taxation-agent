@@ -1,0 +1,181 @@
+PART III
+TAXATION OF NON-RESIDENTS
+105. Taxation of a permanent establishment in Pakistan of a non-resident
+person.— (1) The following principles shall apply in determining the income of a
+permanent establishment in Pakistan of a non-resident person chargeable to tax
+under the head “Income from Business”, namely: —
+(a) The profit of the permanent establishment shall be computed on the
+basis that it is a distinct and separate person engaged in the same or
+similar activities under the same or similar conditions and dealing
+wholly independently with the non-resident person of which it is a
+permanent establishment;
+(b) subject to this Ordinance, there shall be allowed as deductions any
+expenses incurred for the purposes of the business activities of the
+permanent establishment including executive and administrative
+expenses so incurred, whether in Pakistan or elsewhere;
+(c) no deduction shall be allowed for amounts paid or payable by the
+permanent establishment to its head office or to another permanent
+establishment of the non-resident person (other than towards
+reimbursement of actual expenses incurred by the non-resident person
+to third parties) by way of:
+(i) royalties, fees or other similar payments for the use of any tangible
+or intangible asset by the permanent establishment;
+(ii) compensation for any services including management services
+performed for the permanent establishment; or
+(iii) profit on debt on moneys lent to the permanent establishment,
+except in connection with a banking business; and
+(d) no account shall be taken in the determination of the income of a
+permanent establishment of amounts charged by the permanent
+establishment to the head office or to another permanent establishment
+of the non-resident person (other than towards reimbursement of actual
+expenses incurred by the permanent establishment to third parties) by
+way of:
+(i) royalties, fees or other similar payments for the use of any tangible
+or intangible asset;
+(ii) compensation for any services including management services
+performed by the permanent establishment; or
+(iii) profit on debt on moneys lent by the permanent establishment,
+except in connection with a banking business.
+(2) No deduction shall be allowed in computing the income of a
+permanent establishment in Pakistan of a non-resident person chargeable to tax
+under the head “Income from Business” for a tax year for head office expenditure
+in excess of the amount as bears to the turnover of the permanent establishment
+in Pakistan the same proportion as the non-resident’s total head office expenditure
+bears to its worldwide turnover.
+(3) In this section, “head office expenditure” means any executive or
+general administration expenditure incurred by the non-resident person outside
+Pakistan for the purposes of the business of the Pakistan permanent establishment
+of the person, including —
+(a) any rent, local rates and taxes excluding any foreign income tax,
+current repairs, or insurance against risks of damage or
+destruction outside Pakistan;
+(b) any salary paid to an employee employed by the head office
+outside Pakistan;
+(c) any travelling expenditures of such employee; and
+(d) any other expenditures which may be prescribed.
+(4) No deduction shall be allowed in computing the income of a
+permanent establishment in Pakistan of a non-resident person chargeable under
+the head “Income from Business” for —
+(a) any profit paid or payable by the non-resident person on debt to
+finance the operations of the permanent establishment; or
+(b) any insurance premium paid or payable by the non-resident
+person in respect of such debt.
+106. Thin capitalisation. — (1) Where a foreign-controlled resident company
+(other than a financial institution 1[or a banking company)] 2[or a branch of a foreign
+Inserted by the Finance Act, 2002
+Inserted by the Finance Act, 2008.
+company operating in Pakistan,] has a foreign debt-to-foreign equity ratio in excess
+of three to one at any time during a tax year, a deduction shall be disallowed for
+the profit on debt paid by the company in that year on that part of the debt which
+exceeds the three to one ratio.
+(2) In this section, —
+“foreign-controlled resident company” means a resident company in
+which fifty per cent or more of the underlying ownership of the
+company is held by a non-resident person (hereinafter referred to as
+the “foreign controller”) either alone or together with an associate or
+associates;
+“foreign debt” in relation to a foreign-controlled resident company,
+means the greatest amount, at any time in a tax year, of the sum of
+the following amounts, namely: —
+(a) The balance outstanding at that time on any debt obligation
+owed by the foreign-controlled resident company to a foreign
+controller or non-resident associate of the foreign controller on
+which profit on debt is payable which profit on debt is deductible
+to the foreign-controlled resident company and is not taxed
+under this Ordinance or is taxable at a rate lower than the
+1[corporate rate] of tax applicable on assessment to the foreign
+controller or associate; and
+(b) the balance outstanding at that time on any debt obligation owed
+by the foreign-controlled resident company to a person other
+than the foreign controller or an associate of the foreign
+controller where that person has a balance outstanding of a
+similar amount on a debt obligation owed by the person to the
+foreign controller or a non-resident associate of the foreign
+controller; and
+“foreign equity” in relation to a foreign-controlled resident
+company and for a tax year, means the sum of the following
+amounts, namely: —
+(a) The paid-up value of all shares in the company owned by
+the foreign controller or a non-resident associate of the
+foreign controller at the beginning of the tax year;
+(b) so much of the amount standing to the credit of the share
+premium account of the company at the beginning of the
+The words “corporate tax” substituted by the Finance Act, 2002
+tax year as the foreign controller or a non-resident
+associate would be entitled to if the company were wound
+up at that time; and
+(c) so much of the accumulated profits and asset revaluation
+reserves of the company at the beginning of the tax year
+as the foreign controller or a non-resident associate of the
+foreign controller would be entitled to if the company were
+wound up at that time;
+reduced by the sum of the following amounts, namely: —
+(i) the balance outstanding at the beginning of the tax
+year on any debt obligation owed to the foreign-
+controlled resident company by the foreign
+controller or a non-resident associate of the foreign
+controller; and
+(ii) where the foreign-controlled resident company has
+accumulated losses at the beginning of the tax
+year, the amount by which the return of capital to
+the foreign controller or non-resident associate of
+the foreign controller would be reduced by virtue of
+the losses if the company were wound up at that
+time.
+1[106A. Restriction on deduction of profit on debt payable to associated
+enterprise.-(1) Subject to sections 108 and 109, a part of deduction for foreign
+profit on debt claimed by a foreign-controlled resident company(other than an
+insurance company, or a banking company) during a tax year, shall be disallowed
+according to the following formula, namely:-
+[B] – [(A+B) x 0.15]
+where-
+A is the taxable income before depreciation and amortization; and
+B is the foreign profit on debt claimed as deduction
+(2) This section shall not apply to a foreign-controlled resident company
+if the total foreign profit on debt claimed as deduction is less than ten
+million rupees for a tax year.
+(3) Where in computing the taxable income for a tax year, full effect
+cannot be given to a deduction for foreign profit on debt, the excessive
+amount shall be added to the amount of foreign profit on debt for the
+1 New section 106A inserted through Finance Act, 2020 dated 30th June, 2020
+following tax year and shall be treated to be part of that deduction, or
+if there is no such deduction for that tax year, be treated to be the
+deduction for that tax year, be treated to be the deduction for that tax
+year and so on for three tax years.
+(4) Notwithstanding the provisions of section 106, where deduction of
+foreign profit on debt is disallowed under this section and also under
+section 106, the disallowed amount shall be the higher of the
+disallowed amount under this section and section 106.
+(5) This section shall apply in respect of foreign profit on debt accrued
+with effect from the first day of July, 2020, ever if debts were
+contracted before the first day of July, 2020.
+(6) In this section-
+(a) “foreign-controlled resident company” means a resident company
+in which fifty per cent or more of the underlying ownership of the
+company is held by a non-resident person either alone or together
+with an associate or association; and
+(b) “foreign profit on debt” means interest paid or payable to a non-
+resident person or an associate of the foreign-controlled resident
+company and includes-
+(i) interest on all forms of debt;
+(ii) payments made which are economically equivalent to
+interest;
+(i) expenses incurred in connection with the raising of finance;
+(ii) payments under profit participating loans;
+(iii) imputed interest on instruments such as convertible bonds
+and zero coupon bonds;
+(iv) amounts under alternative financing arrangements such as
+Islamic finance;
+(v) the finance cost element of finance lease payments;
+(vi) capitalized interest included in the balance sheet value of
+related asset, or the amortisation of capitalised interest;
+(vii) amounts measured by reference to a funding return under
+transfer pricing rules;
+(viii) where applicable, national interest amounts under derivative
+instruments or hedging arrangements related to an entity’s
+borrowings;
+(ix) certain foreign exchange gains and losses on borrowings and
+instruments connected with the raising of finance;
+(x) guarantee fees with respect to financing arrangements; and
+(xi) arrangements fee and similar cost related to the borrowing
+funds.]

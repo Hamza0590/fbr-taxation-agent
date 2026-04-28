@@ -1,0 +1,572 @@
+PART VIII
+RECORDS, INFORMATION COLLECTION AND AUDIT
+174. Records.— (1) Unless otherwise authorised by the Commissioner, every
+taxpayer shall maintain in Pakistan such accounts, documents and records as may
+be prescribed.
+(2) The Commissioner may disallow 1[or reduce] a taxpayer’s claim for a
+deduction if the taxpayer is unable, without reasonable 2[cause], to provide a
+receipt, or other record or evidence of the transaction or circumstances giving rise
+to the claim for the deduction.
+(3) The accounts and documents required to be maintained under this
+section shall be maintained for 3[six]years after the end of the tax year to which
+they relate 4[:]
+5[Provided that where any proceeding is pending before any authority
+or court the taxpayer shall maintain the record till final decision of the
+proceedings.]
+6[Explanation.— Pending proceedings include proceedings for assessment
+or amendment of assessment, appeal, revision, reference, petition or
+prosecution and any proceedings before an Alternative Dispute Resolution
+Committee”] 7[:
+Provided that limitation prescribed under this sub-section shall not
+apply to the records pertaining to income, assets, expenses or transactions
+to which clause (ii) of sub-section (2) of section 111 applies.]
+8[(4) For the purpose of this section, the expression “deduction” means any
+amount debited to trading account, manufacturing account, receipts and expenses
+account or profit and loss account.]
+Inserted by the Finance Act, 2003.
+The word “excuse” substituted by the Finance Act, 2003.
+The word “five” substituted by the Finance Act, 2010.
+Full stop substituted by the Finance Act, 2010.
+Added by the Finance Act, 2010.
+Added by the Finance Act, 2010.
+Full stop substituted and proviso added by the Finance Act, 2022.
+Added by the Finance Act, 2003.
+1[(5) The Commissioner may require any person to install and use an
+Electronic Tax Register of such type and description as may be prescribed for the
+purpose of storing and accessing information regarding any transaction that has a
+bearing on the tax liability of such person.]
+175. Power to enter and search premises.— (1) In order to enforce any
+provision of this Ordinance (including for the purpose of making an audit of a
+taxpayer or a survey of persons liable to tax), the Commissioner or any officer
+authorised in writing by the Commissioner for the purposes of this section –
+(a) shall, at all times and without prior notice, have full and free
+access2[including real-time electronic access]to any premises, place,
+accounts, documents or computer;
+(b) may stamp, or make an extract or copy of any accounts, documents
+or computer-stored information to which access is obtained under
+clause (a);
+(c) may impound any accounts or documents and retain them for so long
+as may be necessary for examination or for the purposes of
+prosecution;
+(d) may, where a hard copy or computer disk of information stored on a
+computer is not made available, impound and retain the computer for
+as long as is necessary to copy the information required; and
+(e) may make an inventory of any articles found in any premises or place
+to which access is obtained under clause (a).
+3[(2) The Commissioner may authorize any valuer or expert to enter any
+premises and perform any task assigned to him by the Commissioner.]
+(3) The occupier of any premises or place to which access is sought
+under sub-section (1) shall provide all reasonable facilities and assistance for the
+effective exercise of the right of access.
+Added by the Finance Act, 2008.
+2 The expression inserted through Finance Act, 2020 dated 30th June, 2020
+Sub-section (2) substituted by the Finance Act, 2003. The substituted sub-section (2) read as
+follows:
+“(2) The Commissioner may authorise any valuer to enter any premises or place to inspect such
+accounts and documents as may be necessary to enable the valuer to make a valuation of an asset
+for the purposes of this Ordinance.”
+(4) Any accounts, documents or computer impounded and retained under
+sub-section (1) shall be signed for by the Commissioner or an authorised officer.
+(5) A person whose accounts, documents or computer have been
+impounded and retained under sub-section (1) may examine them and make
+extracts or copies from them during regular office hours under such supervision as
+the Commissioner may determine.
+(6) Where any accounts, documents or computer impounded and
+retained under sub-section (1) are lost or destroyed while in the possession of the
+Commissioner, the Commissioner shall make reasonable compensation to the
+owner of the accounts, documents or computer for the loss or destruction.
+(7) This section shall have effect notwithstanding any rule of law relating
+to privilege or the public interest in relation to access to premises or places, or the
+production of accounts, documents or computer-stored information.
+(8) In this section, “occupier” in relation to any premises or place, means
+the owner, manager or any other responsible person on the premises or place.
+1[(9) For the purpose of clause (a) of sub-section (1), the Board may make
+rules relating to electronic real-time assess for audit or a survey of persons liable
+to tax.]
+2[175A. Real-time access to information and databases.- (1)
+Notwithstanding anything contained in any law for the time being in force, including
+but not limited to the National Database and Registration Authority Ordinance,
+2000 (Ordinance VIII of 2000), and the Emigration Ordinance, 1979(Ordinance
+XVIII of 1979), arrangements shall be made to provide real-time access of
+information and database to the Board in the prescribed form and manner by-
+(a) the National Database and Registration Authority with respect to
+information pertaining to National Identity Card, Pakistan Origin Card,
+Overseas Identity Card, Alien Registration Card, and other particulars
+contained in the Citizen Database.
+(b) the Federal Investigation Agency and the Bureau of Emigration and
+Overseas Employment with respect to details of international travel;
+(c) the Federal Investigation Agency and the Bureau of Emigration and
+Overseas Employment with respect to details of international entry and
+exit of all persons and information pertaining to work permits,
+employment visas and immigration visas;
+1 New sub-section (9) added through Finance Act, 2020 dated 30th June, 2020
+2 New section 175A inserted through Finance Act, 2020 dated 30th June, 2020
+(d) the Islamabad Capital Territory and provincial and local land record and
+development authorities with respect to record-of-rights including
+digitized edition of record-of-rights, periodic record, record of mutations
+and report of acquisition of right;
+(e) the Islamabad Capital Territory and provincial Excise and Taxation
+Departments with respect to information regarding registration of
+vehicles, transfer of ownership and other associated record;
+(f) All electricity suppliers and gas transmission and distribution companies
+with respect to particulars of a consumer, the units consumed and the
+amount of bill charged or paid:
+Provided that where the connection is shared or is used by a
+person other than the owner, the name and CNIC of the owner and the
+user shall also be furnished:
+Provided further that all electricity suppliers and gas
+transmission and distribution companies shall make arrangements by the
+1st day of January, 2021 for allowing consumers to update the ratio of
+sharing of a connection or the particulars of users, as the case may be;
+and
+(g) any other agency, authority, institution or organization notified by the
+Board.
+(2) The Board shall make arrangements for laying the infrastructure for
+real-time access to information and database under sub-section (1) and aligning it
+with its own database in the manner as may be prescribed.
+(3) Until real-time access to information and database is made available
+under sub-section (1), such information and data shall be provided periodically in
+such form and manner as may be prescribed.
+(4) Subject to section 216, all information received under this section shall
+be used only for tax purposes and kept confidential.]
+1[175AA. Exchange of banking and tax information related to high-risk
+persons. — (1) Notwithstanding anything contained in any law for the time being
+in force, including but not limited to the Banking Companies Ordinance, 1962 (LVII
+of 1962), section 216 of this Ordinance and any regulations made under the State
+Bank of Pakistan Act,1956 (XXXIII of 1956), —
+Section 175AA inserted by the Finance Act, 2025.
+(a) the Board may share information obtained from the tax declarations with
+scheduled banks in Pakistan, in respect of persons or classes of persons,
+for the purpose of cross-matching with the bank data through the data-based
+algorithms, as may be prescribed; and
+(b) the Scheduled banks shall provide to the Board the final results where the
+banking data is at variance with the algorithms provided under clause (a) of
+this sub-section.
+(2) All information received under this section shall be used only for tax
+and related purposes and kept confidential.]
+1[175B. National Database and Registration Authority (NADRA). (1) The
+National Database and Registration Authority shall, on its own motion or upon
+application by the Board, share its records and any information available or held
+by it, with the Board, for broadening of the tax base or carrying out the purposes
+of the Ordinance.
+(2) The National Database and Registration Authority may —
+(i) submit proposals and information to the Board with a view to
+broadening the tax base;
+(ii) identify in relation to any person, whether a taxpayer or not –
+(a) income, receipts, assets, properties, liabilities,
+expenditures, or transactions that have escaped
+assessment or are under-assessed or have been assessed
+at a low rate, or have been subjected to excessive relief or
+refund or have been misdeclared or misclassified under a
+particular head of income or otherwise;
+(b) the value of anything mentioned in sub-clause (a) of clause
+(ii), if such value is at variance with the value notified by the
+Board or the district authorities, as the case may be, or if no
+such value has been notified the true or market value; and
+(iii) enter into a memorandum of understanding with the Board for a
+secure exchange and utilization of a person's information.
+(3) The Board may use and utilize any information communicated to it by
+the National Database and Registration Authority and forward such information to
+an income tax authority having jurisdiction in relation to the subject matter
+regarding the information, who may utilize the information for the purposes of the
+Ordinance.
+New section 175B inserted through Finance Act, 2022.
+(4) The National Database and Registration Authority may compute
+indicative income and tax liability of anyone mentioned under sub-sections (1) or
+(2) by use of artificial intelligence, mathematical or statistical modeling or any other
+modern device or calculation method.
+(5) The indicative income and tax liability computed by the National
+Database and Registration Authority under sub-section (4) shall be notified by the
+Board to the person in respect of whom such indicative income and tax liability has
+been determined, who shall have the option to pay the determined amount on such
+terms, conditions, installments, discounts, reprieves pertaining to penalty and
+default surcharge, and time limits that may be prescribed by the Board.
+(6) In case the person against whom a liability has been determined
+under sub-section (4), does not pay such liability within the time prescribed under
+sub-section (5), the Board shall take action under the Ordinance, upon the basis
+of tax liability computed under sub-section (4).
+(7) If the person against whom the liability has been determined under
+sub-section (4) pays such liability in terms of sub-section (5), such payment shall
+be construed to be an amended assessment order under section 120 or sub-
+section (1) of section 122 or sub-section (4) of section 122, as the case may be.
+(8) For the purposes of sub-sections (4) and (5), the Board may prescribe
+the extent of installments, reprieves pertaining to penalty and default surcharge
+and time limits.]
+1[175C. Posting of officer of Inland Revenue. — Subject to such conditions and
+restrictions, as deemed fit to be imposed, the Board or the Chief Commissioner
+may post an officer of Inland Revenue or such other officials with any designation
+working under the control of the Board or the Chief Commissioner, to the business
+premises of any person or class of such persons, to monitor production, supply of
+goods or rendering of services and the stock of goods not sold at any time for
+determining tax payable under this Ordinance.]
+176. Notice to obtain information or evidence.— (1) The Commissioner may,
+by notice in writing, require any person, whether or not liable for tax under this
+Ordinance –
+2[(a) to furnish to the Commissioner or an authorised officer, any information
+relevant to any tax leviable under this Ordinance or to fulfill any
+Section 175C inserted by the Finance Act, 2025.
+Substituted by the Finance Act, 2015. The substituted clause (a) read as follows:-
+“(a) to furnish to the Commissioner or an authorised officer, any information relevant to any
+tax 2[leviable] under this Ordinance as specified in the notice; or”
+obligation under any agreement with foreign government or
+governments or tax jurisdiction, as specified in the notice; or; and]
+(b) to attend at the time and place designated in the notice for the purpose
+of being examined on oath by the Commissioner or an authorised
+officer concerning the tax affairs of that person or any other person
+and, for that purpose, the Commissioner or authorised officer may
+require the person examined to produce any accounts, documents, or
+computer-stored information in the control of the person 1[; “or”]
+2[(c) the firm of chartered accountants 3[ 4[ ] or a firm of cost and
+management accountants as defined under the Cost and
+Management Accountants Act, 1966 (XIV of 1966)], as appointed by
+the 5[Board or the Commissioner], to conduct audit under section 177,
+for any tax year, may with the prior approval of the Commissioner
+concerned, enter the business premises of a taxpayer, 6[ ] to obtain
+any information, require production of any record, on which the
+required information is stored and examine it within such premises;
+and such firm may if specifically delegated by the Commissioner, also
+exercise the powers as provided in sub-section (4).]
+7[(1A) A special audit panel appointed under sub-section (11)of section 177,
+for any tax year, may, with the prior approval of the Commissioner concerned,
+enter the business premises of a taxpayer, to obtain any information, require
+production of any record, on which the required information is stored and examine
+it within such premises and such panel may if specifically delegated by the
+Commissioner, also exercise the powers as provided in subsection(4).]
+(2) The Commissioner may impound any accounts or documents
+produced under sub-section (1) and retain them for so long as may be necessary
+for examination or for the purposes of prosecution.
+(3) 8[The person from whom information is required, may at his option,
+furnish the same electronically in any computer readable media.] Where a hard
+Full stop substituted by the Finance Act, 2009.
+Inserted by the Finance Act, 2009.
+Inserted by the Finance Act, 2017.
+Comma omitted by the Finance Act, 2022.
+The word “Board” substituted by the Finance Act, 2010. The substituted provision has been made
+effective from 05.06.2010 by sub-clause (77) of clause 8 of the Finance Act, 2010. Earlier the
+substitution was made through Finance (Amendment) Ordinance, 2009 which was re-promulgated
+as Finance (Amendment) Ordinance, 2010 and remained effective till 05.06.2010.
+The words and comma “selected for audit,” omitted by the Finance Act, 2012.
+Added by the Finance Act, 2015.
+Inserted by the Finance Act, 2005.
+copy or computer disk of information stored on a computer is not made available
+as required under sub-section (1), the Commissioner may require production of
+the computer on which the information is stored, and impound and retain the
+computer for as long as is necessary to copy the information required.
+(4) For the purposes of this section, the Commissioner shall have the
+same powers as are vested in a Court under the Code of Civil Procedure, 1908
+(Act V of 1908), in respect of the following matters, namely: —
+(a) enforcing the attendance of any person and examining the
+person on oath or affirmation;
+(b) compelling the production of any accounts, records, computer-
+stored information, or computer;
+(c) receiving evidence on affidavit; or
+(d) issuing commissions for the examination of witnesses.
+(5) This section shall have effect notwithstanding any 1[law or rules]
+relating to privilege or the public interest in relation to the production of accounts,
+documents, or computer-stored information or the giving of information.
+The words “rule of law” substituted by the Finance Act, 2011.
+1[177. Audit.— 2[(1) The Commissioner may call for any record or documents including
+books of accounts maintained under this Ordinance or any there law for the time being
+in force for conducting audit of the income tax affairs of the person and where such
+record or documents have been kept on electronic data, the person shall allow access
+to the Commissioner or the officer authorized by the Commissioner for use of machine
+and software on which such data is kept and the Commissioner or the officer may have
+access to the required information and data and duly attested hard copies of such
+information or data for the purpose of investigation and proceedings under this
+Ordinance in respect of such person or any other person:
+Provided that—
+(a) the Commissioner may, after recording reasons in writing
+call for record or documents including books of accounts
+of the taxpayer; and
+Section 177 substituted by the Finance Act, 2004. The Substituted section 177 read as follows:-
+“177. Audit:- (1) The commissioner may select any person for an audit of the person’s income tax
+affairs having regard to-
+(a) the person’s history of compliance or non-compliance with this Ordinance;
+(b) the amount of tax payable by the person;
+(c) the class of business conducted by the person; and
+(d) any other matter that the commissioner considers relevant.
+(1A) After selection of a person for audit under sub-section (1), the Commissioner shall conduct an audit of
+the income tax affairs (including examination of accounts and records, enquiry into expenditure, assets and
+liabilities) of that person.
+(1B) After completion of the audit under sub-section (1A) or sub-section (3), the Commissioner may, if
+considered necessary, after obtaining taxpayer’s explanation on all the issues raised in the audit, amend the
+assessment under sub-section (1) or sub-section (4) of section 122, as the case may be.
+(2) The fact that a person has been audited in a year shall not preclude the person from being
+audited again in the next and following years where there are reasonable grounds for such audits,
+particularly having regard to the factors in sub-section (1).
+(3) The Central Board of Revenue may appoint a firm of Chartered Accountants as defined under
+the Chartered Accountants Ordinance, 1961(X of 1961), to conduct an audit of the income tax affairs
+of any person and the scope of such audit shall be as determined by the Central Board of Revenue on
+a case by case basis.
+(4) Any person employed by a firm referred to in sub-section (3) may by authorised by the
+commissioner, in writing, to exercise the powers in sections 175 and 176 for the purposes of the
+conducting audit under that subsection.”
+Sub-section (1) substituted by the Finance Act, 2010. The substituted sub-section (1) read as follows:
+“(1) The Commissioner may call for any record or documents including books of accounts
+maintained under this Ordinance or any other law for the time being in force for conducting audit of
+the income tax affairs of the person and where such record or documents have been kept on
+electronic data, the person shall allow access to the Commissioner or the officer authorized by the
+Commissioner for use of machine and software on which such data is kept and the Commissioner
+or the officer may take into possession such machine and duly attested hard copies of such
+information or data for the purpose of investigation and proceedings under this Ordinance in respect
+of such person or any other person:
+Provided that the Commissioner shall not call for record or documents of the taxpayer
+after expiry of six years from the end of the tax year to which they relate.”
+(b) the reasons shall be communicated to the taxpayer while
+calling record or documents including books of accounts
+of the taxpayer:
+Provided further that the Commissioner shall not call for record or
+documents of the taxpayer after expiry of six years from the end of the tax
+year to which they relate.]
+1[(2) After obtaining the record of a person under sub-section (1) or where
+necessary record is not maintained, the Commissioner shall conduct an audit of
+the income tax affairs (including examination of accounts and records, enquiry into
+expenditure, assets and liabilities) of that person or any other person and may call
+for such other information and documents as he may deem appropriate.]
+2[(2A) For the purpose of sub-section (2), the Commissioner may conduct
+audit proceedings electronically through video links, or any other facility as
+prescribed by the Board.
+(2AA) Where a taxpayer—
+(a) has not furnished record or documents including books of
+accounts;
+(b) has furnished incomplete record or books of accounts; or
+(c) is unable provide sufficient explanation regarding the defects in
+records, documents or books of accounts,
+it shall be construed that taxable income has not been correctly declared and the
+Commissioner shall determine taxable income on the basis of sectoral benchmark
+ratios prescribed by the Board.
+Explanation.—The expression “sectoral benchmark ratios” means standard
+business sector ratios notified by the Board on the basis of comparative cases and
+includes financial ratios, production ratios, gross profit ratio, not profit ratio,
+recovery ratio, wastage ratio and such other ratios in respect of such sectors as
+may be prescribed.]
+Sub-section (2) substituted by the Finance Act, 2010. The substituted sub-section (2) read as follows:
+“(2) After obtaining the record of a person under sub-section (1) or where necessary record
+is not maintained, the Commissioner shall conduct an audit of the income tax affairs (including
+examination of accounts and records, enquiry into expenditure, assets and liabilities) of that person
+or any other person and may call for such other information and documents as he may deem
+appropriate.”
+2 New sub-sections (2A) and (2AA) inserted through Finance Act, 2020 dated 30th June, 2020
+1[ ]
+2[ ]
+3[ ]
+4[(6) After compilation of the audit, the Commissioner shall, after obtaining
+taxpayer’s explanation on all the issues raised in the audit, issue an audit report
+containing audit observations and finding.]
+5[(6A) After issuing the audit report, the Commissioner may, if considered
+necessary, amend the assessment under sub-section (1) or sub-section (4) of
+section 122, as the case may be, after providing an opportunity of being heard to
+the taxpayer under sub-section (9) of section 122.]
+(7) The fact that a person has been audited in a year shall not preclude
+the person from being audited again in the next and following years where there
+are reasonable grounds for such audits 6[ ].
+(8) The 7[Board] may appoint a firm of Chartered Accountants as defined
+under the Chartered Accountants Ordinance, 1961 (X of 1961) 8[or a firm of Cost
+and Management Accountants as defined under the Cost and Management
+Accountants Act, 1966 (XIV of 1966)], or a firm of Cost and Management
+Accountants as defined under the Cost and Management Accountants Act, 1966
+Sub-section (3) omitted by the Finance Act, 2010. The omitted sub-section (3) read as follows:
+“(3) The Board shall keep the criteria confidential.”
+Sub-section (4) omitted by the Finance Act, 2010. The omitted sub-section (4) read as follows:
+“(4) In addition to the selection referred to in sub-section (2), the Commissioner may also select
+a person or classes of persons for an audit of the person’s income tax affairs having regard to -
+(a) the person’s history of compliance or non-compliance with this Ordinance;
+(b) the amount of tax payable by the person;
+(c) the class of business conducted by the person; and
+(d) any other matter which in the opinion of Commissioner is material for
+determination of correct income.”
+Sub-section (5) omitted by the Finance Act, 2010. The omitted sub-section (5) read as follows:
+“(5) After selection of a person or classes of persons for audit under sub-section (2) or (4),
+the Commissioner shall conduct an audit of the income tax affairs (including examination of accounts
+and records, enquiry into expenditure, assets and liabilities) of such person or classes of persons.”
+Sub-section (6) substituted through Finance Act, 2019 substituted sub-section (6) read as follows:
+(6) After completion of the audit 4[ ], the Commissioner may, if considered necessary, after obtaining
+taxpayer’s explanation on all the issues raised in the audit, amend the assessment under sub-section
+(1) or sub-section (4) of section 122, as the case may be.
+New sub-section (6A) inserted through Finance Act, 2019.
+The words, comma, brackets and figure “particularly having regard to the factors in sub-section (4)“
+omitted by the Finance Act, 2010.
+The words “Central Board of Revenue” substituted by the Finance Act, 2007.
+Inserted by the Finance Act, 2010.
+(XIV of 1966) to conduct an audit of the income tax affairs of any person 1[or
+classes of persons 2[ ] ] and the scope of such audit shall be as determined by the
+3[Board] 4[or the Commissioner] on a case to case basis.
+(9) Any person employed by a firm referred to in sub-section (8) may be
+authorized by the Commissioner, in writing, to exercise the powers in sections 175
+and 176 for the purposes of conducting an audit under that sub-section.]
+5[(10) Notwithstanding anything contained in sub-sections (2) and (6) where
+a person fails to produce before the Commissioner or a firm of Chartered
+Accountants or a firm of Cost and Management Accountants appointed by the
+Board or the Commissioner under sub-section (8) to conduct an audit, any
+accounts, documents and records, required to be maintained under section 174
+or any other relevant document, electronically kept record, electronic machine or
+any other evidence that may be required by the Commissioner or the firm of
+Chartered Accountants or the firm of Cost and Management Accountants for the
+purpose of audit or determination of income and tax due thereon, the
+Commissioner may proceed to make best judgment assessment under section
+121 of this Ordinance and the assessment treated to have been made on the
+basis of return or revised return filed by the taxpayer shall be of no legal effect.]
+6[Explanation.— For the removal of doubt, it is declared that the
+powers of the Commissioner under this section are independent of the
+powers of the Board under section 214C and nothing contained in
+section 214C restricts the powers of the Commissioner to call for the
+record or documents including books of accounts of a taxpayer for
+audit and to conduct audit under this section.]
+7[(11) The Board may appoint as many special audit panels as may be
+necessary, comprising two or more members from the following:—
+(a) an officer or officers of Inland Revenue;
+(b) a firm of chartered accountants as defined under the Chartered
+Accountants Ordinance, 1961 (X of 1961);
+(c) a firm of cost and management accountants as defined under the Cost
+and Management Accountants Act, 1966 (XIV of 1966); or
+Inserted by the Finance Act, 2009.
+The words “selected for audit by the Commissioner or by the Board” omitted by the Finance Act, 2010.
+The words “Central Board of Revenue” substituted by the Finance Act, 2007.
+Inserted by the Finance Act, 2010.
+Added by the Finance Act, 2010.
+Added by the Finance Act, 2013.
+Added by Finance Act, 2015.
+(d) any other person 1[including a foreign expert or specialist] as directed
+by the Board, to conduct an audit, including a forensic audit, of the
+income tax affairs of any person or classes of persons and the scope
+of such audit shall be as determined by the Board or the
+Commissioner on case-to-case basis.
+2[(e) a tax audit expert deployed under an audit assistance programme of
+an international tax organization or a tax authority outside Pakistan:
+Provided that in case the member is not an officer of Inland
+Revenue, the person shall only be included as a member in the special
+audit panel if an agreement of confidentiality has been entered into
+between the Board and the person, international tax organization or a
+tax authority, as the case may be.]
+(12) Special audit panel under sub-section (1) shall be headed by a
+Chairman who shall be an officer of Inland Revenue.
+(13) Powers under sections 175 and 176 for the purposes of conducting
+an audit under sub-section (11), shall only be exercised by an officer or officers of
+Inland Revenue, who are member or members of the special audit panel, and
+authorized by the Commissioner.
+(14) Notwithstanding anything contained in sub-sections (2) and(6), where
+a person fails to produce before the Commissioner or a special audit panel under
+sub-section (11) to conduct an audit, any accounts, documents and records,
+required to be maintained under section 174 or any other relevant document,
+electronically kept record, electronic machine or any other evidence that may be
+required by the Commissioner or the panel, the Commissioner may proceed to
+make best judgment assessment under section 121 and the assessment treated
+to have been made on the basis of return or revised return filed by the taxpayer
+shall be of no legal effect.
+(15) If any one member of the special audit panel, other than the Chairman,
+is absent from conducting an audit, the proceedings of the audit may continue, and
+the audit conducted by the special audit panel shall not be invalid or be called in
+question merely on the ground of such absence.
+(16) Functions performed by an officer or officers of Inland Revenue as
+members of the special audit panel, for conducting audit, shall be treated to have
+been performed by special audit panel.
+(17) The Board may prescribe the mode and manner of constitution,
+procedure and working of the special audit panel.”]
+Inserted by Finance Act, 2018
+Added by Finance Act, 2018
+178. Assistance to Commissioner.— Every Officer of Customs, 1[ ] Provincial
+Excise and Taxation, District Coordination Officer, District Officers including
+District Officer – Revenue, the Police and the Civil Armed Forces is empowered
+and required to assist the Commissioner in the discharge of the Commissioner’s
+functions under this Ordinance.
+179. Accounts, documents, records and computer-stored information not
+in Urdu or English language.— Where any account, document, record or
+computer-stored information referred to in section 174, 175 or 176 is not in the
+Urdu or English language, the Commissioner may, by notice in writing, require the
+person keeping the account, document, record or computer-stored information to
+provide, at the person's expense, a translation into the Urdu or English language
+by a translator approved by the Commissioner for this purpose.
+180. Power to collect information regarding exempt income.— The 2[Board]
+may, by notification in the official Gazette, authorise any department or agency of
+the Government to collect and compile any data in respect of incomes from
+industrial and commercial undertakings exempt from tax under this Ordinance.
+The words and commas “Federal Excise, Sales Tax,” omitted by the Finance Act, 2013.
+The words “Central Board of Revenue” substituted by the Finance Act, 2007.
+1[PART IX
+TAXPAYER’S REGISTRATION
+181. Taxpayer’s registration.— (1) Every taxpayer 2[including a person selling
+digitally ordered goods or services from within Pakistan using online marketplace
+or a courier service, as the case may be,] shall apply in the prescribed form and in
+the prescribed manner for registration.
+3[(1A) Every online marketplace or courier service, involved in e-commerce
+by supplying or delivering digitally ordered goods or services from within Pakistan,
+shall not allow any vendor to use its platform services to carry out e-commerce
+transactions unless such vendors have been registered under this Ordinance.]
+(2) The Commissioner having jurisdiction over a case, where
+necessitated by the facts of the case, may also register a taxpayer in the prescribed
+manner.
+(3) Taxpayers’ registration scheme shall be regulated through the rules
+to be notified by the Board 4[ 5[“.”] ] ]
+6[ 7[ ] ]
+8[(4) From tax year 2015 and onwards, in case of individuals having
+Computerized National Identity Card (CNIC) issued by the National Database and
+Registration Authority, CNIC shall be used as National Tax Number.]
+Part IX ssubstituted by the Finance Act, 2008. The substituted “Part IX” read as follows:
+“PART IX
+NATIONAL TAX NUMBER CERTIFICATE
+181. National Tax Number Certificate.- (1) Every taxpayer shall apply in the prescribed form and
+in the prescribed manner for a National Tax Number Certificate.
+(2) An application under sub-section (1) shall be accompanied by the prescribed fee.
+(3) The Commissioner having jurisdiction over an applicant under sub-section (1) may after
+examination of all relevant documents and evidence, and after satisfying himself of the genuineness
+of the application, may direct issuance of the National Tax Number Certificate for a period prescribed
+by Commissioner:
+Provided that the Board may in the case of individuals allow use of National Identity Card,
+issued by the National Database and Registration Authority, in place of National Tax Number.”
+Expression inserted by the Finance Act, 2025.
+Section (1A) inserted by the Finance Act, 2025.
+Full stop substituted by the Finance Act, 2013.
+Substituted “:” by the Finance Act, 2015.
+Added by the Finance Act, 2013.
+Omitted by the Finance Act, 2015. The omitted proviso read as follows:-
+“Provided that the Board may in case of individuals allow, in place of National Tax
+Number, use of Computerized National Identity Card issued by the National Database and
+Registration Authority.”
+Added by the Finance Act, 2015.
+1[181A. Active taxpayers’ list.— (1) The Board shall have the power to institute
+active taxpayers’ list.
+(2) Active taxpayers’ list shall be regulated as may be prescribed.]
+2[181AA. Compulsory registration in certain cases.-(1) Notwithstanding
+anything contained in any law, for the time being in force, any application for
+commercial or industrial connection of electricity or natural gas, shall not be
+processed and such connection shall not be provided unless the person applying
+for electricity or gas connection is registered under section 181.]
+3[181B. Taxpayer card.— Subject to this Ordinance, the Board may make a
+scheme for introduction of a tax-payer honour card for individual taxpayers, who
+fulfill a minimum criteria to be eligible for the benefits as contained in the scheme.]
+4[181C. Displaying of National Tax Number.— Every person deriving income
+from business chargeable to tax, who has been issued a National Tax Number,
+shall display his National Tax Number at a conspicuous place at every place of his
+business.]
+5[181D. Business licence scheme.- 6[(1)] Every person engaged in any business,
+profession or vocation shall be required to obtain and display a business licence
+as prescribed by the Board.]
+7[(2) Where a person fails to obtain business licence under sub-section (1),
+the Commissioner may, in addition to and not in derogation of any punishment to
+which the person may be liable under this Ordinance or any other law, impose a
+fine of –
+(a) twenty thousand Rupees, in case of a taxpayer deriving income
+chargeable to tax under this Ordinance; or
+(b) five thousand Rupees, in all other cases.
+Inserted by the Finance Act, 2010.
+Inserted by the Finance Act, 2014.
+Added by the Finance Act, 2012.
+Added by the Finance Act, 2013.
+New Section (181D) inserted through Finance Act, 2019.
+6 Provision re-numbered as sub-section (1) through Tax Law (Second Amendment) 2019 dated 26th
+December, 2019
+7 New sub-sections (2) & (3) inserted through Tax Law (Second Amendment) 2019, dated 26th
+December, 2019
+(3) The Commissioner may, by an order in writing, cancel a business
+licence issued under sub-section (1) after providing an opportunity of being
+heard to the person, if –
+(a) such person fails to notify any change in particulars within thirty days of
+such charge; or
+(b) such person is convicted of any offence under any federal tax law.]
+1[181E. Record of beneficial owners.- (1) Every company and association of
+persons shall electronically furnish particulars of its beneficial owners in such
+form and manner as may be prescribed.
+(2) Every company and association of persons shall update the particulars of its
+beneficial owners as and when there is a change in the particulars of the
+beneficial owners.]
+1 New Section 181E inserted by the Finance Act, 2022.

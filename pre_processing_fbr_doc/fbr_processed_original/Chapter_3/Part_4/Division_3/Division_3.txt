@@ -1,0 +1,536 @@
+Division III
+Deductions: Special Provisions
+22. Depreciation.— (1) Subject to this section, a person shall be allowed a
+deduction for the depreciation of the person’s depreciable assets used in the
+person’s business in the tax year 3[:
+Provided that the depreciation expense shall not be allowed for the
+amount paid for addition of capital assets to a seller in all relevant tax years
+if the tax deductible under sections 152 or 153 of the Ordinance in respect
+of those payments has not been deducted and deposited in the treasury, by
+not adding such amount paid for addition in capital assets in the assets for
+computation of tax depreciation.]
+(2) Subject to 4[sub-section] (3) 5[ ], the depreciation deduction for a tax year
+shall be computed by applying the rate specified in Part I of the Third Schedule against
+the written down value of the asset at the beginning of the year 6[ ] 7[.]
+8[ ]
+(3) Where a depreciable asset is used in a tax year partly in deriving
+income from business chargeable to tax and partly for another use, the deduction
+allowed under this section for that year shall be restricted to the fair proportional
+Full stop substituted by the Finance Act, 2025.
+Clause (s) inserted by the Finance Act, 2025.
+Full stop substituted by colon and thereafter the new proviso added by the Finance Act, 2025.
+The word “sub-sections” substituted by the Finance Act, 2005.
+The word, brackets and figure “and (4)” omitted by Finance Act, 2004.
+Full stop substituted by colon and thereafter the new proviso added through Finance Act, 2020
+dated 30th June, 2020
+Colon substituted by the Finance Act, 2025.
+Proviso omitted by the Finance Act, 2022. The omitted proviso read as follows:
+“Provided that where a depreciable asset is used in the person’s business for the first
+time in a tax year commencing on or after the 1st day of July, 2020, the depreciation deduction
+shall be reduced by fifty percent.”
+part of the amount that would be allowed if the asset 1[was] wholly used to 2[derive]
+income from business chargeable to tax.
+3[ ]
+(5) The written down value of a depreciable asset of a person at the
+beginning of the tax year shall be —
+(a) where the asset was acquired in the tax year, the cost of the
+asset to the person as reduced by any initial allowance in
+respect of the asset under section 23; or
+(b) in any other case, the cost of the asset to the person as reduced
+by the total depreciation deductions (including any initial
+allowance under section 23) allowed to the person in respect of
+the asset in previous tax years.
+4[Explanation,- For the removal of doubt, it is clarified that where any
+building, furniture, plant or machinery is used for the purposes of
+business during any tax year for which the income from such business
+is exempt, depreciation admissible under sub-section (1) shall be
+treated to have been allowed in respect of the said tax year and after
+expiration of the exemption period, written down value of such assets
+shall be determined after reducing total depreciation deductions
+(including any initial allowance under section 23) in accordance with
+clauses (a) and (b) of this sub-section.]
+(6) Where sub-section (3) applies to a depreciable asset for a tax year,
+the written down value of the asset shall be computed on the basis that the asset
+has been solely used to derive income from business chargeable to tax.
+(7) The total deductions allowed to a person during the period of
+ownership of a depreciable asset under this section and section 23 shall not
+exceed the cost of the asset.
+The word “were” substituted by the Finance Act, 2010.
+The word “derived” substituted by the Finance Act, 2003.
+Sub-section (4) omitted by the Finance Act, 2004. The omitted sub-section (4) reads as follows:
+“(4) Where a depreciable asset is not used for the whole of the tax year in deriving income
+from business chargeable to tax, the deduction allowed under this section shall be computed
+according to the following formula, namely:–
+A x B/C
+where –
+A is the amount of depreciation computed under sub-section (2) or (3), as the case may be;
+B is the number of months in the tax year the asset is used in deriving income from business
+chargeable to tax; and
+C is the number of months in the tax year.”
+Inserted by the Finance Act, 2016.
+(8) Where, in any tax year, a person disposes of a depreciable asset, no
+depreciation deduction shall be allowed under this section for that year and —
+(a) if the consideration received exceeds the written down value of
+the asset at the time of disposal, the excess shall be chargeable
+to tax in that year under the head “Income from Business”; or
+(b) if the consideration received is less than the written down value of
+the asset at the time of disposal, the difference shall be allowed as
+a deduction in computing the person’s income chargeable under
+the head “Income from Business” for that year 1[:]
+2[ ]
+(9) Where sub-section (3) applies, the written down value of the asset for
+the purposes of sub-section (8) shall be increased by the amount that is not
+allowed as a deduction as a result of the application of sub-section (3).
+(10) Where clause (a) of sub-section (13) applies, the 3[consideration
+received on disposal] of the passenger transport vehicle for the purposes of sub-
+section (8) shall be computed according to the following formula —
+A x B/C
+where –
+A is the 4[amount] received on disposal of the vehicle;
+B is the amount referred to in clause (a) of sub-section (13); and
+C is the actual cost of acquiring the vehicle.
+(11) Subject to sub-sections (13) and (14), the rules in Part III of Chapter IV
+shall apply in determining the cost and consideration received in respect of a
+depreciable asset for the purposes of this section.
+5[(12) The depreciation deductions allowed to a leasing company or an
+investment bank or a modaraba or a scheduled bank or a development finance
+Full stop substituted by colon and thereafter the new proviso added through Finance Act, 2020
+dated 30th June, 2020
+Proviso omitted by the Finance Act, 2022. The omitted proviso read as follows:
+“Provided that where a depreciable asset is used in the person’s business for the first time in
+a tax year commencing on or after the 1st day of July, 2020, depreciation deduction equal to fifty
+percent of the rate specified in Part I of the Third Schedule shall be allowed in the year of disposal.”.
+The words “written down value” substituted by the Finance Act, 2004.
+The word “consideration” substituted by the Finance Act, 2004.
+Sub-section (12) substituted by the Finance Act, 2002. The substituted sub-section (12) read as
+follows:
+“(12) The depreciation deductions allowed to a leasing company in respect of assets owned
+by the company and leased to another person shall be deductible only against the lease rental
+income derived in respect of such assets.”
+institution in respect of assets owned by the leasing company or an investment
+bank or a modaraba or a scheduled bank or a development finance institution and
+leased to another person shall be deductible only against the lease rental income
+derived in respect of such assets.]
+(13) For the purposes of this section, —
+(a) the cost of a depreciable asset being a passenger transport
+vehicle not plying for hire shall not exceed 1[seven and a half]
+million rupees;
+2[ ]
+(b) the cost of immovable property or a structural improvement to
+immovable property shall not include the cost of the land;
+3[(c) any asset owned by a leasing company or an investment bank
+or a modaraba or a scheduled bank or a development finance
+institution and leased to another person is treated as used in the
+leasing company or the investment bank or the modaraba or the
+scheduled bank or the development finance institution’s
+business; and]
+(d) where the consideration received on the disposal of immovable
+property exceeds the cost of the property, the consideration
+received shall be treated as the cost of the property.
+(14) Where a depreciable asset that has been used by a person in Pakistan
+is exported or transferred out of Pakistan, the person shall be treated as having
+disposed of the asset at the time of the export or transfer for a consideration
+received equal to the cost of the asset.
+(15) In this section, —
+“depreciable asset” means any tangible movable property, immovable
+property (other than unimproved land), or structural improvement to
+immovable property, owned by a person that —
+(a) has a normal useful life exceeding one year;
+1 The expression “1[two]1[and half]” substituted by the Finance Act, 2022.
+Proviso omitted by the Finance Act, 2009. The omitted proviso read as follows:
+“Provided that the prescribed limit of one million rupees shall not apply to passenger transport
+vehicles, not plying for hire, acquired on or after the first day of July, 2005.”
+Clause (c) substituted by the Finance Act, 2002. The substituted clause read as follows:
+“(c) an asset owned by a financial institution or leasing company and leased to another person
+is treated as used in the financial institution or leasing company’s business; and”.
+(b) is likely to lose value as a result of normal wear and tear, or
+obsolescence; and
+(c) is used wholly or partly by the person in deriving income from
+business chargeable to tax,
+but shall not include any tangible movable property, immovable
+property, or structural improvement to immovable property in relation
+to which a deduction has been allowed under another section of this
+Ordinance for the entire cost of the property or improvement in the tax
+year in which the property is acquired or improvement made by the
+person; and
+“structural improvement” in relation to immovable property, includes
+any building, road, driveway, car park, railway line, pipeline, bridge,
+tunnel, airport runway, canal, dock, wharf, retaining wall, fence, power
+lines, water or sewerage pipes, drainage, landscaping or dam1[:]
+2[Provided that where a depreciable asset is jointly owned by a
+taxpayer and an Islamic financial institution licensed by the State Bank
+of Pakistan or Securities and Exchange Commission of Pakistan, as
+the case may be, pursuant to an arrangement of Musharika financing
+or diminishing Musharika financing, the depreciable asset shall be
+treated to be wholly owned by the taxpayer.]
+23. Initial allowance.—(1) A person who places an eligible depreciable asset
+into service in Pakistan for the first time in a tax year shall be allowed a deduction
+(hereinafter referred to as an “initial allowance”) computed in accordance with sub-
+section (2), provided the asset is 3[used by the person for the purposes of his
+business for the first time or the tax year in which commercial production is
+commenced, whichever is later].
+(2) The amount of the initial allowance of a person shall be computed by
+applying the rate specified in Part II of the Third Schedule against the cost of the
+asset.
+(3) The rules in section 76 shall apply in determining the cost of an eligible
+depreciable asset for the purposes of this section.
+Full stop substituted by Finance Act, 2017.
+Added by the Finance Act, 2017.
+Substituted for “wholly and exclusively used by the person in deriving income from business
+chargeable to tax” by Finance Act,2004 dated June 24,2004 w.e.f July 1,2004
+1[(4) A deduction allowed under this section to a leasing company or an
+investment bank or a modaraba or a scheduled bank or a development finance
+institution in respect of assets owned by the leasing company or the investment
+bank or the modaraba or the scheduled bank or the development finance institution
+and leased to another person shall be deducted only against the leased rental
+income derived in respect of such assets.]
+(5) In this section, “eligible depreciable asset” means a depreciable asset
+2[ ] other than —
+(a) any road transport vehicle unless the vehicle is plying for hire;
+(b) any furniture, including fittings;
+(c) any plant or machinery3[that has been used previously in
+Pakistan]; 4[ ]
+(d) any plant or machinery in relation to which a deduction has been
+allowed under another section of this Ordinance for the entire
+cost of the asset in the tax year in which the asset is acquired
+5[; or
+(e) immovable property or structural improvement to the immovable
+property.]
+6[ ]
+7[ ]
+Sub-section (4) substituted by the Finance Act, 2002. The substituted sub-section (4) read as follows:
+“(4) A deduction allowed under this section to a leasing company in respect of assets owned
+by the company and leased to another person shall be deductible only against the lease rental
+income derived in respect of such assets.”
+The words and comma “that is plant and machinery,” omitted by the Finance Act, 2003.
+The words “that is acquired second hand” substituted by the Finance Act.2003
+The word “or” omitted by the Finance Act, 2022.
+The full stop substituted with semi colon and the word “or” and thereafter clause (e) added by the
+Finance Act, 2022.
+Inserted by the Finance Act, 2008.
+Section 23A omitted by the Finance Act, 2021. Earlier this omission was made through Tax Laws
+(Second Amendment) Ordinance, 2021. The omitted section read as follows:
+“23A. First Year Allowance.— (1) Plant, machinery and equipment installed by any industrial
+undertaking set up in specified rural and under developed areas 7[or engaged in the manufacturing of
+cellular mobile phones and qualifying for exemption under clause (126N) of Part I of the Second
+Schedule] and owned and managed by a company shall be allowed first year allowance in lieu of initial
+allowance under section 23 at the rate specified in Part II of the Third Schedule against the cost of the
+“eligible depreciable assets” put to use after July 1, 2008.
+(2) The provisions of section 23 except sub-sections (1) and (2) thereof, shall mutatis mutandis
+apply.
+(3) The Federal Government may notify “specified areas” for the purposes of sub-section (1).]
+1[23B. Accelerated depreciation to alternate energy projects.— (1) Any plant,
+machinery and equipments installed for generation of alternate energy by an
+industrial undertaking set up anywhere in Pakistan and owned and managed by a
+company shall be allowed first year allowance in lieu of initial allowance under
+section 23, at the rate specified in Part II of the Third Schedule against the cost of
+the eligible depreciation assets put to use after first day of July, 2009.
+(2) The provisions of section 23 except sub-sections (1) and (2) thereof,
+shall mutatis mutandis apply.]
+24. Intangibles.—(1) A person shall be allowed an amortisation deduction in
+accordance with this section in a tax year for the cost of the person’s intangibles–
+(a) that are wholly or partly used by the person in the tax year in
+deriving income from business chargeable to tax; and
+(b) that have a normal useful life exceeding one year.
+(2) No deduction shall be allowed under this section where a deduction
+has been allowed under another section of this Ordinance for the entire cost of the
+intangible in the tax year in which the intangible is acquired.
+(3) Subject to sub-section (7), the amortization deduction of a person for
+a tax year shall be computed according to the following formula, namely:—
+A
+B
+where —
+A is the cost of the intangible; and
+B is the normal useful life of the intangible in whole years.
+2[(4) An intangible that does not have an ascertainable useful life shall be
+treated as if it had a normal useful life of 3[fifteen years].]
+(5) Where an intangible is used in a tax year partly in deriving income
+from business chargeable to tax and partly for another use, the deduction allowed
+under this section for that year shall be restricted to the fair proportional part of the
+amount that would be allowed if the intangible were wholly used to derive income
+from business chargeable to tax.
+Inserted by the Finance Act, 2009.
+In sub-section 4 of section 24 is substituted by the Finance Act, 2019, the substituted sub-section
+read as follow:
+(4) An intangible —
+(a) with a normal useful life of more than ten years; or
+(b) that does not have an ascertainable useful life,
+shall be treated as if it had a normal useful life of ten years.
+The expression “twenty-five years” substituted by the Finance Act, 2025.
+(6) Where an intangible is not used for the whole of the tax year in deriving
+income from business chargeable to tax, the deduction allowed under this section
+shall be computed according to the following formula, namely: —
+A x B/C
+where —
+A is the amount of 1[amortization] computed under sub-section (3) or (5), as
+the case may be;
+B is the number of days in the tax year the intangible is used in deriving income
+from business chargeable to tax; and
+C is the number of days in the tax year.
+(7) The total deductions allowed to a person under this section in the
+current tax year and all previous tax years in respect of an intangible shall not
+exceed the cost of the intangible.
+(8) Where, in any tax year, a person disposes of an intangible, no
+amortisation deduction shall be allowed under this section for that year and —
+(a) if the consideration received by the person exceeds the written
+down value of the intangible at the time of disposal, the excess
+shall be income of the person chargeable to tax in that year
+under the head “Income from Business”; or
+(b) if the consideration received is less than the written down value
+of the intangible at the time of disposal, the difference shall be
+allowed as a deduction in computing the person’s income
+chargeable under the head “Income from Business” in that year.
+(9) For the purposes of sub-section (8) —
+(a) the written down value of an intangible at the time of disposal
+shall be the cost of the intangible reduced by the total
+deductions allowed to the person under this section in respect
+of the intangible or, where the intangible is not wholly used to
+derive income chargeable to tax, the amount that would be
+allowed under this section if the intangible were wholly so used;
+and
+The word “depreciation” substituted by the Finance Act, 2002
+(b) the consideration received on disposal of an intangible shall be
+determined in accordance with section 77.
+(10) For the purposes of this section, an intangible that is available for use
+on a day (including a non-working day) is treated as used on that day.
+(11) In this section, —
+“cost” in relation to an intangible, means any expenditure incurred in
+acquiring or creating the intangible, including any expenditure incurred
+in improving or renewing the intangible; and
+“intangible” means any patent, invention, design or model, secret
+formula or process, copyright 1[, trade mark, scientific or technical
+knowledge, computer software, motion picture film, export quotas,
+franchise, licence, intellectual property], or other like property or right,
+contractual rights and any expenditure that provides an advantage or
+benefit for a period of more than one year (other than expenditure
+incurred to acquire a depreciable asset or unimproved land, 2[but shall
+not include self-generated goodwill or any adjustment arising on
+account of accounting treatment in the manner as may be prescribed]
+25. Pre-commencement expenditure.—(1) A person shall be allowed a
+deduction for any pre-commencement expenditure in accordance with this section.
+(2) Pre-commencement expenditure shall be amortized on a straight-line
+basis at the rate specified in Part III of the Third Schedule.
+(3) The total deductions allowed under this section in the current tax year
+and all previous tax years in respect of an amount of pre-commencement
+expenditure shall not exceed the amount of the expenditure.
+(4) No deduction shall be allowed under this section where a deduction
+has been allowed under another section of this Ordinance for the entire amount of
+the pre-commencement expenditure in the tax year in which it is incurred.
+(5) In this section, “pre-commencement expenditure” means any
+expenditure incurred before the commencement of a business wholly and
+exclusively to derive income chargeable to tax, including the cost of feasibility
+studies, construction of prototypes, and trial production activities, but shall not
+include any expenditure which is incurred in acquiring land, or which is depreciated
+or amortised under section 22 or 24.
+Inserted by the Finance Act, 2003.
+2The words Inserted by the Finance Act, 2019.
+26. Scientific research expenditure.— (1) A person shall be allowed a
+deduction for scientific research expenditure incurred in Pakistan in a tax year
+wholly and exclusively for the purpose of deriving income from business
+chargeable to tax.
+(2) In this section —
+“scientific research” means any 1[activity] 2[undertaken in Pakistan] in
+the fields of natural or applied science for the development of human
+knowledge;
+“scientific research expenditure” means any expenditure incurred by
+a person on scientific research 3[undertaken in Pakistan] for the
+purposes of developing the person’s business, including any
+contribution to a scientific research institution to undertake scientific
+research for the purposes of the person’s business, other than
+expenditure incurred –
+(a) in the acquisition of any depreciable asset or intangible;
+(b) in the acquisition of immovable property; or
+(c) for the purpose of ascertaining the existence, location, extent or
+quality of a natural deposit; and
+“scientific research institution” means any institution certified by the
+4[Board] as conducting scientific research in Pakistan.
+27. Employee training and facilities.— A person shall be allowed a deduction
+for any expenditure (other than capital expenditure) incurred in a tax year in
+respect of—
+(a) any educational institution or hospital in Pakistan established for
+the benefit of the person’s employees and their dependents;
+(b) any institute in Pakistan established for the training of industrial
+workers recognized, aided, or run by the Federal Government
+5[or a Provincial Government] or a 6[Local Government]; or
+The word “activities” substituted by the Finance Act, 2002
+Inserted by the Finance Act, 2003.
+Inserted by the Finance Act, 2003.
+The words “Central Board of Revenue” substituted by the Finance Act, 2007.
+Inserted by the Finance Act, 2003.
+The words “local authority” substituted by the Finance Act, 2008.
+(c) the training of any person, being a citizen of Pakistan, in
+connection with a scheme approved by the 1[Board] for the
+purposes of this section.
+28. Profit on debt, financial costs and lease payments.— (1) Subject to this
+Ordinance, a deduction shall be allowed for a tax year for —
+(a) any profit on debt incurred by a person in the tax year to the
+extent that the proceeds or benefit of the debt have been used
+by the person 2[for the purposes of business];
+(b) any lease rental incurred by a person in the tax year to a
+scheduled bank, financial institution, an approved modaraba, an
+approved leasing company or a Special Purpose Vehicle on
+behalf of the Originator for an asset used by the person 3[for the
+purposes of business] 4[:]
+5[Provided that for the purpose of determining the
+deduction on account of lease rentals the cost of a passenger
+transport vehicle not paying for hire to the extent of principal
+amount shall not exceed two and a half million rupees;]
+(c) any amount incurred by a person in the tax year to a modaraba
+or a participation term certificate holder for any funds borrowed
+and used by the person 6[for the purposes of business];
+(d) any amount incurred by a scheduled bank in the tax year to a
+person maintaining a profit or loss sharing account or a deposit
+with the bank as a distribution of profits by the bank in respect
+of the account or deposit;
+(e) any amount incurred by the House Building Finance
+Corporation (hereinafter referred to as “the Corporation”)
+constituted under the House Building Finance Corporation Act,
+1952 (XVIII of 1952), in the tax year to the State Bank of
+The words “Central Board of Revenue” substituted by the Finance Act, 2007.
+The words “in deriving income chargeable to tax under the head “Income from Business”
+substituted by the Finance Act, 2004.
+The words “in deriving income chargeable to tax under the head “Income from Business”
+substituted by the Finance Act, 2004.
+Sami colon substituted by colon and thereafter the new proviso added through Finance Act, 2020
+dated 30th June, 2020
+5 Proviso added through Finance Act, 2020 dated 30th June, 2020
+The words “in deriving income chargeable to tax under the head “Income from Business”
+substituted by the Finance Act, 2004.
+Pakistan (hereinafter referred to as “the Bank”) as the share of
+the Bank in the profits derived by the Corporation on its
+investment in property made under a scheme of partnership in
+profit and loss, where the investment is provided by the Bank
+under the House Building Finance Corporation (Issue and
+Redemption of Certificates) Regulations, 1982;
+(f) any amount incurred by the National Development Leasing
+Corporation Limited (hereinafter referred to as “the
+Corporation”) in the tax year to the State Bank of Pakistan
+(hereinafter referred to as “the Bank”) as the share of the Bank
+in the profits derived by the Corporation on its leasing operations
+financed out of a credit line provided by the Bank on a profit and
+loss sharing basis;
+(g) any amount incurred by the 1[Small and Medium Enterprises
+Bank (hereinafter referred to as “the SME Bank”)]in the tax year to
+the State Bank of Pakistan (hereinafter referred to as the “Bank”)
+as the share of the Bank in the profits derived by the 2[SME Bank]
+on investments made in small business out of a credit line provided
+by the Bank on a profit and loss sharing basis;
+(h) any amount incurred by a person in the tax year to a banking
+company under a scheme of musharika representing the bank’s
+share in the profits of the musharika;
+(i) any amount incurred by a person in the tax year to a certificate
+holder under a musharika scheme approved by the Securities
+and Exchange Commission and Religious Board formed under
+the Modaraba Companies and Modaraba (Floatation and
+Control) Ordinance, 1980 (XXXI of 1980) representing the
+certificate holder’s share in the profits of the musharika; or
+(j) the financial cost of the securitization of receivables incurred by
+an Originator in the tax year from a Special Purpose Vehicle
+being the difference between the amount received by the
+Originator and the amount of receivables securitized from a
+Special Purpose Vehicle.
+(2) Notwithstanding any other provision in this Ordinance, where any assets
+are transferred by an Originator, as a consequence of securitisation3[“or issuance of
+The words “Small Business Finance Corporation (hereinafter referred to as “the Corporation”)”
+substituted by the Finance Act, 2009.
+The word “Corporation” substituted by the Finance Act, 2011.
+Inserted by the Presidential Order No.F.2(1)/2016-Pub dated 31.08.2016.
+sukuks”], to a Special Purpose Vehicle, it shall be treated as a financing transaction
+irrespective of the method of accounting adopted by the Originator.
+(3) In this section, —
+“approved leasing company” means a leasing company approved by
+the 1[Board] for the purposes of clause (b) of sub-section (1); and
+“approved modaraba” means a modaraba approved by the 2[Board]
+for the purposes of clause (b) of sub-section (1).
+29. Bad debts.— (1) A person shall be allowed a deduction for a bad debt in
+a tax year if the following conditions are satisfied, namely:—
+(a) the amount of the debt was –
+(i) previously included in the person’s income from business
+chargeable to tax; or
+(ii) in respect of money lent by a financial institution in
+deriving income from business chargeable to tax;
+(b) the debt or part of the debt is written off in the accounts of the
+person in the tax year; and
+(c) there are reasonable grounds for believing that the debt is
+irrecoverable.
+(2) The amount of the deduction allowed to a person under this section
+for a tax year shall not exceed the amount of the debt written off in the accounts
+of the person in the tax year.
+(3) Where a person has been allowed a deduction in a tax year for a bad
+debt and in a subsequent tax year the person receives in cash or kind any amount
+in respect of that debt, the following rules shall apply, namely:–
+(a) where the amount received exceeds the difference between the
+whole of such bad debt and the amount previously allowed as a
+deduction under this section, the excess shall be included in the
+person’s income under the head “Income from Business” for the
+tax year in which it was received; or
+(b) where the amount received is less than the difference between
+the whole of such bad debt and the amount allowed as a
+The words “Central Board of Revenue” substituted by the Finance Act, 2007.
+The words “Central Board of Revenue” substituted by the Finance Act, 2007.
+deduction under this section, the shortfall shall be allowed as a
+bad debt deduction in computing the person’s income under the
+head “Income from Business” for the tax year in which it was
+received.
+1[29A. Provision regarding consumer loans.— (1) A 2[ ] 3[non-banking
+finance company or the House Building Finance Corporation] shall be allowed a
+deduction, not exceeding three per cent of the income for the tax year, arising out
+of consumer loans for creation of a reserve to off-set bad debts arising out of such
+loans.
+(2) Where bad debt cannot be wholly set off against reserve, any amount
+of bad debt, exceeding the reserves shall be carried forward for adjustment against
+the reserve for the following years.]
+4[Explanation.— In this section, “consumer loan” means a loan of
+money or its equivalent made by 5[ ] a non-banking finance company
+or the House Building Finance Corporation to a debtor (consumer)
+and the loan is entered primarily for personal, family or household
+purposes and includes debts created by the use of a lender credit card
+or similar arrangement as well as insurance premium financing.]
+30. Profit on non-performing debts of a banking company or development
+finance institution.—(1) A banking company or development finance institution
+6[or Non-Banking Finance Company (NBFC) or modaraba] shall be allowed a deduction
+for any profit accruing on a non-performing debt of the banking company or institution
+7[or Non-Banking Finance Company (NBFC) or modaraba] where the profit is credited
+to a suspense account in accordance with the Prudential Regulations for Banks or 8[Non-
+Banking Finance Company or modaraba] Non-bank Financial Institutions, as the case
+may be, issued by the State Bank of Pakistan 9[or the Securities and Exchange
+Commission of Pakistan].
+(2) Any profit deducted under sub-section (1) that is subsequently
+recovered by the banking company or development finance institution 10[or Non-
+Banking Finance Company (NBFC) or modaraba] shall be included in the income
+Inserted by the Finance Act, 2003.
+The words “banking company or” omitted by the Finance Act, 2009.
+Inserted by the Finance Act, 2004.
+Added by the Finance Act, 2004.
+The words “a banking company or” omitted by the Finance Act, 2009.
+Inserted by the Finance Act, 2003.
+Inserted by the Finance Act, 2003.
+The words “Non-bank Financial Institutions” substituted by the Finance Act, 2003.
+Inserted by the Finance Act, 2003.
+Inserted by the Finance Act, 2003.
+of the company or institution 1[or Non-Banking Finance Company (NBFC) or
+modaraba] chargeable under the head “Income from Business” for the tax year in
+which it is recovered.
+31. Transfer to participatory reserve.—(1) Subject to this section, a
+company shall be allowed a deduction for a tax year for any amount transferred by
+the company in the year to a participatory reserve created under 2[section 66 of
+the Companies Act, 2017 (XIX of 2017)] in accordance with an agreement relating
+to participatory redeemable capital entered into between the company and a
+banking company as defined in the3[Financial Institutions(Recovery of Finances)
+Ordinance,2001 (XLVI of 2001).]
+(2) The deduction allowed under subsection (1) for a tax year shall be limited
+to five per cent of the value of the company’s participatory redeemable capital.
+(3) No deduction shall be allowed under subsection (1) if the amount of
+the tax exempted accumulation in the participatory reserve exceeds ten per cent
+of the amount of the participatory redeemable capital.
+(4) Where any amount accumulated in the participatory reserve of a company
+has been allowed as a deduction under this section is applied by the company towards
+any purpose other than payment of share of profit on the participatory redeemable capital
+or towards any purpose not allowable for deduction or exemption under this Ordinance
+the amount so applied shall be included in the income from business of the company in
+the tax year in which it is so applied.
+Inserted by the Finance Act, 2003.
+The expression “section 120 of the Companies Ordinance, 1984 (XLVII of 1984)” substituted by the
+Finance Act, 2021.
+The words “Banking Tribunals Ordinance, 1984” substituted by the words “Financial Institutions
+(Recovery Of Finances) Ordinance, 2001 (XLVI of 2001) by the Finance Act 2014”.

@@ -1,0 +1,1086 @@
+CHAPTER I
+PRELIMINARY
+1. Short title, extent and commencement.—(1) This Ordinance may be
+called the Income Tax Ordinance, 2001.
+(2) It extends to the whole of Pakistan.
+(3) It shall come into force on such date as the Federal Government may,
+by notification in official Gazette, appoint.
+2. Definitions. — In this Ordinance, unless there is anything repugnant in the
+subject or context —
+(1) "accumulated profits" in relation to 1[distribution or payment of] a
+dividend, 2[include] —
+*
+Vide notification S.R.O.381(I)/2002 dated 15.06.2002 the Federal Government appointed the first day
+of July, 2002 on which the Ordinance shall come into force.
+Inserted by the Finance Act, 2003.
+The word “includes” substituted by the Finance Act, 2005.
+(a) any reserve made up wholly or partly of any allowance,
+deduction, or exemption admissible under this Ordinance;-
+.9230
+(b) for the purposes of 1[sub-clauses (a), (b) and (e) of clause (19)”]
+all profits of the company including income and gains of a trust
+up to the date of such distribution or such payment, as the case
+may be; and
+(c) for the purposes of 2[sub-clause (c) of clause (19)], includes all
+profits of the company including income and gains of a trust up
+to the date of its liquidation;
+3[(1A) “active taxpayer’ list” means the list instituted by the Board under
+Section 181A and includes such list issued by the Azad Jammu and Kashmir
+Central Board of Revenue or Gilgit-Baltistan Council Board of Revenue;]
+4[5(1B) “amalgamation” means the merger of one or more banking companies
+or non-banking financial institutions, 6[or insurance companies,] 7[or
+companies owning and managing industrial undertakings] 8[or
+companies engaged in providing services and not being a trading
+company or companies] in either case 9[at least one of them] being a
+public company, or a company incorporated under any law, other than
+10[Companies Act, 2017 (XIX of 2017)], for the time being in force, (the
+company or companies which so merge being referred to as the
+“amalgamating company” or companies and the company with which
+they merge or which is formed as a result of merger, as the
+“amalgamated company”) in such manner that –
+(a) the assets of the amalgamating company or companies
+immediately before the amalgamation become the assets of the
+amalgamated company by virtue of the amalgamation,
+otherwise than by purchase of such assets by the amalgamated
+Clauses (a), (d) and (e) of sub-section (20) substituted by the Finance Act, 2002.
+Clause (c) of sub-section (20) substituted by the Finance Act, 2002.
+Clause 1A inserted through Finance Act, 2019.
+Inserted by the Finance Act, 2002.
+1A renumbered by 1B by the Finance Act, 2019.
+Inserted by the Finance Act, 2004.
+Inserted by the Finance Act, 2005.
+Inserted by the Finance Act, 2007.
+Inserted by the Finance Act, 2005.
+The expression “Companies Ordinance, 1984 (XLVII of 1984)” substituted by the Finance Act,
+2021.
+company or as a result of distribution of such assets to the
+amalgamated company after the winding up of the
+amalgamating company or companies; 1[and]
+(b) the liabilities of the amalgamating company or companies
+immediately before the amalgamation become the liabilities of
+the amalgamated company by virtue of the amalgamation 2[.]
+3[ ]
+4[(2) “Appellate Tribunal” means the Appellate Tribunal Inland Revenue
+established under section 130;]
+(3) “approved gratuity fund” means a gratuity fund approved by the
+Commissioner in accordance with Part III of the Sixth Schedule;
+5[(3A) “Approved Annuity Plan” means an Annuity Plan approved by
+Securities and Exchange Commission of Pakistan (SECP) under
+Voluntary Pension System Rules, 2005 and offered by a Life
+Insurance Company registered with the SECP under Insurance
+Ordinance, 2000 (XXXIX of 2000);]
+6[(3B) “Approved Income Payment Plan” means an Income Payment Plan
+approved by Securities and Exchange Commission of Pakistan
+(SECP) under Voluntary Pension System Rules, 2005 and offered by
+a Pension Fund Manager registered with the SECP under Voluntary
+Pension System Rules, 2005;]
+7[(3C) “Approved Pension Fund” means Pension Fund approved by
+Securities and Exchange Commission of Pakistan (SECP) under
+Voluntary Pension System Rules, 2005, and managed by a Pension
+Added by the Finance Act, 2005.
+The semi-colon and word “and” substituted by the Finance Act, 2005.
+Clause (c) omitted by the Finance Act, 2005. The omitted clause (c) read as follows: -
+“(c) the scheme of amalgamation is approved by the State Bank of Pakistan or by the Securities
+and Exchange Commission of Pakistan on or before thirtieth day of June, 2006;”
+Substituted by the Finance Act, 2010. The substituted provision has been made effective from
+05.06.2010 by sub-clause (77) of clause 8 of the Finance Act, 2010. Earlier the substitution was
+made through Finance (Amendment) Ordinance, 2009 which was re-promulgated as Finance
+(Amendment) Ordinance, 2010 and remained effective till 05.06.2010. Clause (2) before substitution
+by the Finance (Amendment) Ordinance, 2009 read as follows:
+“(2) “Appellate Tribunal” means the Appellate Tribunal Inland Revenue established under section
+130;”.
+Inserted by the Finance Act, 2005.
+Inserted by the Finance Act, 2005.
+Inserted by the Finance Act, 2005.
+Fund Manager registered with the SECP under Voluntary Pension
+System Rules, 2005;]
+1[(3D) “Approved Employment Pension or Annuity Scheme” means any
+employment related retirement scheme approved under this
+Ordinance, which makes periodical payment to a beneficiary i.e.
+pension or annuity such as approved superannuation fund, public
+sector pension scheme and Employees Old-Age Benefit Scheme;]
+2[(3E) “Approved Occupational Savings Scheme” means any approved
+gratuity fund or recognized provident fund;]
+(4) “approved superannuation fund” means a superannuation fund, or any
+part of a superannuation fund, approved by the Commissioner in
+accordance with Part II of the Sixth Schedule;
+3[(5) “assessment” includes 4[provisional assessment,] re-assessment and
+amended assessment and the cognate expressions shall be
+construed accordingly;]
+5[(5A) “assessment year” means assessment year as defined in the repealed
+Ordinance;]
+6[(5B) “asset management company” means an asset management
+company as defined in the Non-Banking Finance Companies and
+Notified Entities Regulations, 2007;]
+7[(5C) “assets move” means the transfer of an offshore asset to an
+unspecified jurisdiction by or on behalf of a person who owns,
+Inserted by the Finance Act, 2006.
+Inserted by the Finance Act, 2006
+Clause (5) substituted by the Finance Act, 2002. The substituted clause read as follows:
+“(5) “assessment” means –
+(a) an assessment referred to in section 120;
+(b) an assessment raised under section 121;
+(c) an amended assessment under section 122;
+(d) a demand for an amount due under sections 141, 142, 143 and 144; or
+(e) an assessment of penalty under section 190;”.
+Inserted by the Finance Act, 2011.
+Inserted by the Finance Act, 2002
+Clause (5B) substituted by the Finance Act, 2008. The substituted clause (5B) read as follows:
+“(5B) “assets management company” means a company registered under the Assets Management
+companies Rules, 1995;”
+Clause (5C) inserted by Finance Act, 2019
+possesses, controls or is the beneficial owner of such offshore assets
+for the purpose of tax evasion;]
+(6) “association of persons” means an association of persons as defined
+in section 80;
+(7) “banking company” means a banking company as defined in the
+Banking Companies Ordinance, 1962 (LVII of 1962) 1[ ];
+2[(7A) “beneficial owner” means a natural person who –
+(a) ultimately owns or controls a Company or association of persons,
+whether directly or indirectly, through at least twenty five percent
+shares or voting rights; or
+(b) exercise ultimate effective control, through direct or indirect
+means, over the company or association of persons including
+control over the finances or decisions or other affairs of the
+company or association of persons;]
+3[(8) “Board” means the Central Board of Revenue established under the
+Central Board of Revenue Act, 1924 (IV of 1924), and on the
+commencement of Federal Board of Revenue Act, 2007, the Federal
+Board of Revenue established under section 3 thereof 4[and includes
+a Member of the Federal Board of Revenue to whom powers of the
+Board have been delegated under section 8 of the Federal Board of
+Revenue Act, 2007;];
+(9) “bonus shares” includes bonus units in a unit trust;
+(10) “business” includes any trade, commerce, manufacture, profession,
+vocation or adventure or concern in the nature of trade, commerce,
+manufacture, profession or vocation, but does not include employment;
+5[(10A) “business bank account” means a bank account utilized by the taxpayer
+for business transaction declared to the Commissioner through original
+or modified registration form prescribed under section 181;]
+(11)] “capital asset” means a capital asset as defined in section 37;
+Expression “and includes anybody corporate which transacts the business of banking in Pakistan”
+omitted by the Finance Act, 2025.
+Clause (7A) Inserted by the Finance Act, 2022.
+Clauses (8), (9), (10) and (11) re-numbered as clauses (9), (10), (11) and (8) respectively by the
+Finance Act, 2014.
+Expression inserted by the Finance Act, 2024.
+5 Clause (10A) inserted by the Finance Act, 2021.
+1[(11A) “charitable purpose” includes relief of the poor, education, medical relief
+and the advancement of any other object of general public utility;]
+2[(11B) “Chief Commissioner” means a person appointed as Chief
+Commissioner Inland Revenue under section 208 and includes a
+3[Chief Investigator,] Regional Commissioner of Income Tax and a
+Director-General of Income Tax and Sales Tax;]
+4[(11C) “Collective Investment Scheme” shall have the same meanings as are
+assigned under the Non-Banking Finance Companies (Establishment
+and Regulation) Rules, 2003;]
+(12) “company” means a company as defined in section 80;
+5[(13) “Commissioner” means a person appointed as Commissioner Inland
+Revenue under section 208 and includes any other authority vested with
+all or any of the powers and functions of the Commissioner;]
+6[(13A) “Commissioner (Appeals)” means a person appointed as Commissioner
+Inland Revenue (Appeals) under section 208;]
+7[(13AA) concealment of income includes –
+Inserted by the Finance Act, 2002.
+Substituted by the Finance Act, 2010. The substituted provision has been made effective from
+05.06.2010 by sub-clause (77) of clause 8 of the Finance Act, 2010. Earlier the substitution was
+made through Finance (Amendment) Ordinance, 2009 which was re-promulgated as Finance
+(Amendment) Ordinance, 2010 and remained effective till 05.06.2010. The substituted clause (11B)
+read as follows:
+“(11B) “Chief Commissioner” means a person appointed as Chief Commissioner Inland
+Revenue under section 208 and includes a Regional Commissioner of Income Tax and
+a Director-General of Income Tax and Sales Tax.”
+Expression inserted by the Finance Act, 2024.
+Inserted by the Finance Act, 2011.
+Substituted by the Finance Act, 2010. The substituted provision has been made effective from
+05.06.2010 by sub-clause (77) of clause 8 of the Finance Act, 2010. Earlier the substitution was
+made through Finance (Amendment) Ordinance, 2009 which was re-promulgated as Finance
+(Amendment) Ordinance, 2010 and remained effective till 05.06.2010. The substituted Clause (13)
+read as follows:
+“(13) Commissioner” means a person appointed as Commissioner Inland Revenue under
+section 208, and includes any other authority vested with all or any of the powers and
+functions of the Commissioner;”.
+Substituted by the Finance Act, 2010. The substituted provision has been made effective from
+05.06.2010 by sub-clause (77) of clause 8 of the Finance Act, 2010. Earlier the substitution was
+made through Finance (Amendment) Ordinance, 2009 which was re-promulgated as Finance
+(Amendment) Ordinance, 2010 and remained effective till 05.06.2010. The substituted Clause (13A)
+read as follows:
+“(13A) “Commissioner (Appeals)” means a person appointed as Commissioner Inland
+Revenue (Appeals) under section 208;
+7 New clause (13AA) inserted by the Finance Act, 2021.
+(a) the suppression of any item of receipt liable to tax in whole or in
+part, or failure to disclose income chargeable to tax;
+(b) claiming any deduction or any expenditure not actually incurred;
+(c) any act referred to in sub-section (1) of section 111; and
+(d) claiming of any income or receipt as exempt which is otherwise
+taxable.
+Explanation.- For removal of doubt it is clarified that none of the
+aforementioned acts would constitute concealment of income
+unless it is proved that taxpayer has knowingly and willfully
+committed these acts;]
+1[2[(13AB)] “consumer goods” means goods that are consumed by the end
+consumer rather than used in the production of another good;”]
+3[(13B) “Contribution to an Approved Pension Fund” means contribution as
+defined in rule 2(j) of the Voluntary Pension System Rules, 20054[ ];]
+(14) “co-operative society” means a co-operative society registered under
+the Co-operative Societies Act, 1925 (VII of 1925) or under any other
+law for the time being in force in Pakistan for the registration of co-
+operative societies;
+(15) “debt” means any amount owing, including accounts payable and the
+amounts owing under promissory notes, bills of exchange,
+debentures, securities, bonds or other financial instruments;
+(16) “deductible allowance” means an allowance that is deductible from
+total income under Part IX of Chapter III;
+(17) “depreciable asset” means a depreciable asset as defined in section 22;
+5[17A. ”Developmental REIT Scheme” means Developmental REIT
+Scheme as defined under the Real Estate Investment Trust
+Regulations, 2015;]
+6[(17B) "digital means" means digital payments and financial services
+including but not limited to— online portals or platforms for digital
+payments/receipts; online interbank fund transfer services; online bill
+Inserted by the Finance Act, 2015
+2 Clause (13AA) re-numbered as clause (13AB) by the Finance Act, 2021.
+Inserted by the Finance Act, 2005.
+The comma and words “, but not exceeding five hundred thousand rupees in a tax year” omitted by
+the Finance Act, 2006.
+Inserted by the Finance Act, 2015
+Clause (17B) Inserted through Finance (Supplementary) Act, 2022.
+or invoice presentment and payment services; over the Counter
+digital payment services or facilities; card payments using Point of
+Sale terminals, QR codes, mobile devices, ATMs, Kiosk or any other
+digital; payments enabled devices; or any other digital or online
+payment modes.]
+1[(17C) “digitally delivered services” means any service delivered over the
+internet or electronic networks, where the delivery is automated and
+requires minimal or no human intervention including music, audio and
+video streaming services, cloud services, online software applications
+services, services delivered through online inter-personal interaction
+i.e., tele medicines, e-learning etc., online banking services,
+architectural design services, research and consultancy reports,
+accounting services in the form of digital files or any other online
+facility;]
+(18) “disposal” in relation to an asset, means a disposal as defined in
+section 75;
+2[(18A) “distributor” means a person appointed by a manufacturer, importer
+or any other person for a specified area to purchase goods from him
+for further supply;]
+(19) “dividend” includes —
+(a) any distribution by a company of accumulated profits to its
+shareholders, whether capitalised or not, if such distribution
+entails the release by the company to its shareholders of all or
+any part of the assets including money of the company;
+(b) any distribution by a company, to its shareholders of
+debentures, debenture-stock or deposit certificate in any form,
+whether with or without profit, 3[ ] to the extent to which the
+company possesses accumulated profits whether capitalised or
+not;
+(c) any distribution made to the shareholders of a company on its
+liquidation, to the extent to which the distribution is attributable
+to the accumulated profits of the company immediately before
+its liquidation, whether capitalised or not;
+(d) any distribution by a company to its shareholders on the
+reduction of its capital, to the extent to which the company
+Clause (17C) inserted by the Finance Act, 2025.
+Clause (18A) Inserted by the Finance Act, 2022.
+The words “and any distribution to its shareholders of shares by way of bonus or bonus shares”,
+omitted by the Finance Act, 2002
+possesses accumulated profits, whether such accumulated
+profits have been capitalised or not; 1[ ]
+(e) any payment by a private company 2[as defined in the
+3[Companies Act, 2017 (XIX of 2017)] ] or trust of any sum
+(whether as representing a part of the assets of the company or
+trust, or otherwise) by way of advance or loan to a shareholder
+or any payment by any such company or trust on behalf, or for
+the individual benefit, of any such shareholder, to the extent to
+which the company or trust, in either case, possesses
+accumulated profits;4[or]
+5[(f) 6[remittance of] after tax profit of a branch of a foreign company
+operating in Pakistan;]
+but does not include —
+(i) a distribution made in accordance with 7[sub-clause] (c)
+or (d) in respect of any share for full cash consideration,
+or redemption of debentures or debenture stock, where
+the holder of the share or debenture is not entitled in the
+event of liquidation to participate in the surplus assets;
+(ii) any advance or loan made to a shareholder by a company
+in the ordinary course of its business, where the lending
+of money is a substantial part of the business of the
+company; 8[ ]
+(iii) any dividend paid by a company which is set off by the
+company against the whole or any part of any sum
+previously paid by it and treated as a dividend within the
+meaning of 9[sub-clause] (e) to the extent to which it is so
+set off;10[and]
+The word ‘or’ omitted by Finance Act, 2008.
+Inserted by the Finance Act, 2003.
+The expression “Companies Ordinance, 1984 (XLVII of 1984)” substituted by the Finance Act,
+2021.
+The word ‘or’ added by the Finance Act, 2008.
+Inserted by the Finance Act, 2008.
+The word “any” substituted by the Finance Act, 2009.
+Substituted for “clause” by the Finance Act, 2002
+The word “and” omitted by the Finance Act, 2009.
+The word “clause” substituted by the Finance Act, 2002
+The word “and” inserted by the Finance Act, 2009.
+1[(iv) remittance of after tax profit by a branch of Petroleum
+Exploration and Production (E&P) foreign company,
+operating in Pakistan.]
+2[(19A) “Eligible Person”, for the purpose of Voluntary Pension System Rules,
+2005, means an individual Pakistani who 3[holds] a valid National Tax
+Number4[or Computerized National Identity Card5[or National Identity
+Card for Overseas Pakistanis] issued by the National Database and
+Registration Authority] 6[ ]7[:]]
+8[Provided that the total tax credit available for the contribution made to
+approved employment pension or annuity scheme and approved
+pension fund under Voluntary Pension System Rules, 2005, should not
+exceed the limit prescribed or specified in section 63.]
+9[(19AA) “e-commerce” means sale or purchase of goods and services
+conducted over computer networks by methods specifically designed
+for the purpose of receiving or placing of orders either through
+websites, mobile applications or online marketplace having digital
+ordering features by using either mobile phone, iPad, Tablet or
+automated computer-to-computer ordering system;]
+10[(19B) The expressions “addressee”, “automated”, “electronic”, “electronic
+signature”, “information”, “information system”, “originator” and
+“transaction”, shall have the same meanings as are assigned to them
+in the Electronic Transactions Ordinance, 2002 (LI of 2002);]
+11[(19C) “electronic record” includes the contents of communications,
+transactions and procedures under this Ordinance, including
+attachments, annexes, enclosures, accounts, returns, statements,
+certificates, applications, forms, receipts, acknowledgements, notices,
+Added by the Finance Act, 2009.
+Inserted by the Finance Act, 2005.
+The words “has obtained” substituted by the Finance Act, 2007.
+Inserted by the Finance Act, 2007.
+Inserted by the Finance Act, 2008.
+The words “but does not include an individual who is entitled to benefit under any other approved
+employment pension or annuity scheme” omitted by the Finance Act, 2006.
+The semicolon substituted by the Finance Act, 2006.
+8Inserted by the Finance Act, 2006.
+Clause (19AA) inserted by the Finance Act, 2025.
+Inserted by the Finance Act, 2008.
+New clause (19C) inserted by Finance Act, 2008.
+orders, judgments, approvals, notifications, circulars, rulings,
+documents and any other information associated with such
+communications, transactions and procedures, created, sent,
+forwarded, replied to, transmitted, distributed, broadcast, stored, held,
+copied, downloaded, displayed, viewed, read, or printed, by one or
+several electronic resources and any other information in electronic
+form;]
+1[(19D) “electronic resource” includes telecommunication systems, transmission
+devices, electronic video or audio equipment, encoding or decoding
+equipment, input, output or connecting devices, data processing or
+storage systems, computer systems, servers, networks and related
+computer programs, applications and software including databases,
+data warehouses and web portals as may be prescribed by the Board
+from time to time, for the purpose of creating electronic record;]
+2[(19E) “telecommunication system” includes a system for the conveyance,
+through the agency of electric, magnetic, electro-magnetic, electro-
+chemical or electro-mechanical energy, of speech, music and other
+sounds, visual images and signals serving for the impartation of any
+matter otherwise than in the form of sounds or visual images and also
+includes real time online sharing of any matter in manner and mode
+as may be prescribed by the Board from time to time.]
+(20) “employee” means any individual engaged in employment;
+(21) “employer” means any person who engages and remunerates an
+employee;
+(22) “employment” includes –
+(a) a directorship or any other office involved in the management of
+a company;
+(b) a position entitling the holder to a fixed or ascertainable
+remuneration; or
+(c) the holding or acting in any public office;
+3[(22A) “fast moving consumer goods” means consumer goods which are
+supplied in retail marketing as per daily demand of a
+consumer4[excluding durable goods].
+Inserted by the Finance Act, 2008.
+Inserted by the Finance Act, 2008.
+Inserted by the Finance Act 2015
+Inserted by the Finance Act 2017
+1[(22AA) “fair market value” means value as provided in section 68;]
+2[(22B) ”fee for offshore digital services” means any consideration for providing
+or rendering services by a non-resident person for online advertising
+including digital advertising space, designing, creating, hosting or
+maintenance of websites, digital or cyber space for websites,
+advertising, e-mails, online computing, blogs, online content and online
+data, providing any facility or service for uploading, storing or
+distribution of digital content including digital text, digital audio or digital
+video, online collection or processing of data related to users in
+Pakistan, any facility for online sale of goods or services or any other
+online facility.]
+3[(22C) “FBR Refund Settlement Company Limited” means the company with this
+name as incorporated under the Companies Act, 2017 (XIX of 2017), for
+the purposes of settlement of income tax refund claims including payment
+by way of issuing refund bonds under section 171A;]
+(23) “fee for technical services” means any consideration, whether
+periodical or lump sum, for the rendering of any managerial, technical
+or consultancy services including the services of technical or other
+personnel, but does not include —
+(a) consideration for services rendered in relation to a construction,
+assembly or like project undertaken by the recipient; or
+(b) consideration which would be income of the recipient
+chargeable under the head “Salary”;
+4[ ]
+(24) “financial institution” means an institution 5[as defined] under the
+6[Companies Act, 2017 (XIX of 2017)] ] 7[ ];
+Clause (22AA) Inserted by the Finance Act, 2022.
+Inserted by the Finance Act 2018
+Clause (22C) Inserted by the Finance Act 2019
+Omitted by Finance Act 2019. The Omitted clause read as follow:
+(23A) “filer” means a taxpayer whose name appears in the active taxpayers’ list issued by the Board
+4[or Azad Jammu and Kashmir Council Board of Revenue or Gilgit-Baltistan Council Board of
+Revenue] from time to time or is holder of a taxpayer’s card;
+The word “notified” substituted by the Finance Act, 2005.
+The expression “Companies Ordinance, 1984 (XLVII of 1984)” substituted by the Finance Act, 2021.
+The words “by the Federal Government in the official Gazette as a financial institution” omitted by the
+Finance Act, 2003.
+(25) “finance society” includes a co-operative society which accepts money
+on deposit or otherwise for the purposes of advancing loans or making
+investments in the ordinary course of business;
+(26) “firm” means a firm as defined in section 80;
+(27) “foreign-source income” means foreign-source income as defined in
+sub-section (16) of section 101.
+1[(27A) “greenfield industrial undertaking” means –
+(a) a new industrial undertaking which is –
+(i) setup on land which has not previously been utilized for any
+commercial, industrial or manufacturing activity and is free from
+constraints imposed by any prior work;
+(ii) built without demolishing, revamping, renovating, upgrading,
+remodeling or modifying any existing structure, facility or plant;
+(iii) not formed by the splitting up or reconstitution of an undertaking
+already in existence or by transfer of machinery, plant or building
+from an undertaking established in Pakistan prior to
+commencement of the new business and is not part of an
+expansion project;
+(iv) using any process or technology that has not earlier been used
+in Pakistan and is so approved by the Engineering Development
+Board; and
+(b) is approved by the Commissioner on an application made in the
+prescribed form and manner, accompanied by the prescribed
+documents and, such other documents as may be required by the
+Commissioner:
+Provided that this definition shall be applicable from the 1st July, 2019
+and onwards.]
+(28) “House Building Finance Corporation” means the Corporation
+constituted under the House Building Finance Corporation Act, 1952
+(XVIII of 1952);
+1 New clause (27A) inserted through Tax Laws (Second Amendment) Ordinance 2019 dated 26th
+December, 2019
+1[(28A) “imputable income” in relation to an amount subject to final tax means
+the income which would have resulted in the same tax, had this
+amount not been subject to final tax;”]
+2[(29) “income” includes any amount chargeable to tax under this Ordinance,
+any amount subject to collection 3[or deduction] of tax under section
+148, 4[150, 152(1), 153, 154, 156, 156A, 233, 5[ ] ] 6[,] sub-section (5)
+of section 234 7[, section 236Z] 8[ ] 9[and] 10[any amount treated as
+income under any provision of this Ordinance] and any loss of
+income11[ ];
+12[(29A) “income year” means income year as defined in the repealed
+Ordinance;]
+13[(29B) “Individual Pension Account” means an account maintained by an
+eligible person with a Pension Fund Manager approved under the
+Voluntary Pension System Rules, 2005;]
+14[(29C) “Industrial undertaking” means —
+Inserted by the Finance Act, 2015
+Clause (29) substituted by the Finance Act, 2002. The substituted clause read as follows:
+“(29) “income” includes any amount chargeable to tax under this Ordinance, any amount subject to
+collection of tax under Division II of Part V of Chapter X, sub-section (5) of 234 Division III of
+Chapter XII, and any loss of income;”
+Inserted by the Finance Act, 2003.
+The figures, commas and word “153, 154 and 156,” substituted by the Finance Act, 2005.
+5 The expression “233A,” omitted by the Finance Act, 2021.
+6 The word “and” substituted by a comma by the Finance Act, 2014.
+7 The expression “, section 236Z” inserted by the Finance Act, 2023.
+The word and figure “and 236M” substituted by a comma by the Finance Act, 2015
+The expression “, 236M and 236N,” substituted by the Finance Act, 2018
+Inserted by the Finance Act, 2003.
+11Omitted by the Finance Act, 2014. The omitted text read as follows:
+“but does not include, in case of a shareholder of a company, the amount representing the face
+value of any bonus share or the amount of any bonus declared, issued or paid by the company to
+the shareholders with a view to increasing its paid up share capital.”
+Inserted by the Finance Act, 2002.
+Inserted by the Finance Act, 2005.
+Clause (29C) substituted by the Finance Act, 2010. The substituted clause (29C) read as follows:-
+“(29C) “Industrial undertaking” means –
+(a) an undertaking which is set up in Pakistan and which employs, (i) ten or more persons in
+Pakistan and involves the use of electrical energy or any other form of energy which is
+mechanically transmitted and is not generated by human or animal energy; or (ii) twenty or more
+persons in Pakistan and does not involve the use of electrical energy or any other form of energy
+which is mechanically transmitted and is not generated by human or animal energy and which is
+engaged in,-
+(i) the manufacture of goods or materials or the subjection of goods or materials to any
+process which substantially changes their original condition;
+(a) an undertaking which is set up in Pakistan and which
+employs,—
+(i) ten or more persons in Pakistan and involves the use
+of electrical energy or any other form of energy which is
+mechanically transmitted and is not generated by
+human or animal energy; or
+(ii) twenty or more persons in Pakistan and does not
+involve the use of electrical energy or any other form of
+energy which is mechanically transmitted and is not
+generated by human or animal energy:
+and which is engaged in,—
+(i) the manufacture of goods or materials or the subjection
+of goods or materials to any process which substantially
+changes their original condition; or
+(ii) ship-building; or
+(iii) generation, conversion, transmission or distribution of
+electrical energy, or the supply of hydraulic power; or
+(iv) the working of any mine, oil-well or any other source of
+mineral deposits; 1[ ]
+2[(aa) from the 1st day of May, 2020, a person directly involved in the
+construction of buildings, roads, bridges and other such
+structures or the development of land, to the extent and for the
+purpose of import of plant and machinery to be utilized in such
+activity, subject to such conditions as may be notified by the
+Board;
+(ab) from the first day of July, 2020 a resident company engaged in
+the hotel business in Pakistan;] 3[and]
+4[ ] ]
+(ii) ship-building;
+(iii) generation, conversion, transmission or distribution of electrical energy, or the supply
+of hydraulic power; or
+(iv) the working of any mine, oil-well or any other source of mineral deposits; and
+(b) any other industrial undertaking which the Board may by notification in the official Gazette,
+specify;”.
+1 The word “and” omitted through Finance Act, 2020 dated 30.06.2020.
+2 New sub-clauses inserted through Finance Act, 2020 dated 30th June, 2020.
+The word “and” added by the Finance Act, 2021.
+4 Sub-clause (b) omitted by the Finance Act, 2021. Earlier this sub-clause was omitted through Tax
+Laws (Second Amendment) Ordinance, 2021. The omitted sub-clause read as follows:
+1[(c) telecommunication companies operating under the license of
+Pakistan Telecommunication Authority (PTA).;]
+(30) “intangible” means an intangible as defined in section 24;
+2[(30A) “integrated enterprise” means a person integrated with the Board
+through approved fiscal electronic device and software, and who
+fulfills obligations and requirements for integration as may be
+prescribed;]
+3[4[(30AA)] “investment company” means an investment company as defined in
+the Non-Banking Finance Companies (Establishment and
+Regulation) Rules, 2003;]
+5[6[(30AB)] KIBOR means Karachi Inter Bank Offered Rate prevalent on the
+first day of each quarter of the financial year;]
+7[(30AC) “Iris” means a web based computer programme for operation and
+management of Inland Revenue taxes and laws administered by the
+Board;]
+8[(30AD) Information Technology (IT) services include 9[but not limited to]
+software development, software maintenance, system integration,
+web design, web development, web hosting and network design;
+and
+(30AE) IT enabled services include 10[but not limited to] inbound or outbound
+call centres, medical transcription, remote monitoring, graphics
+design, accounting services, Human Resource (HR) services,
+telemedicine centers, data entry operations, cloud computing
+“(b) any other industrial undertaking which the Board may by notification in the official gazette,
+specify.”
+1 Clause (c) added by the Finance Act, 2021.
+2 New sub-clause (30A) inserted through Finance Act, 2020 dated 30th June, 2020
+Clause (30A) substituted by the Finance Act, 2008. The substituted clause (30A) read as follows:
+“ (30A) “investment company” means a company registered under the Investment Companies and
+Investment Advisors Rules, 1971;”
+4 Clause (30A) renumbered as clause (30AA) through Finance Act, 2020 dated 30th June, 2020
+Inserted by the Finance Act, 2009.
+6 Clause (30AA) renumbered as (30AB) through Finance Act, 2020 dated 30th June, 2020
+7 New clause (30AC) inserted through Finance Act, 2020 dated 30th June,2020
+Clauses (30AD) and (30AE) inserted by the Finance Act, 2021.
+Inserted by the Finance Act, 2022.
+Inserted by the Finance Act, 2022.
+services, data storage services, locally produced television
+programs and insurance claims processing;]
+1[(30B) “leasing company” means a leasing company as defined in the Non-
+Banking Finance Companies and Notified Entities Regulation, 2007;]
+2[(30C) “liaison office” means a place of business acting for the principal, head
+office or any entity of which it is a part, and
+(a) its activities do not result in deriving income in Pakistan; and
+(b) maintains itself out of any amount remitted from outside
+Pakistan received through normal banking channels.
+Explanation,— It is clarified that—
+(i) a place of business shall not be treated as liaison office if
+it engages in -
+(a) commercial activities;
+(b) trading or industrial activities; or
+(c) the negotiation and conclusion of contracts;
+(ii) the activities shall be treated to be commercial activities, if
+these include—
+(a) providing after sales services for goods or services;
+or
+(b) marketing or promoting pharmaceutical and medical
+products or services;
+(iii) subject to clause (i), a place of business shall be treated
+as a liaison office, if it undertakes activities of—
+(a) an exploratory or preparatory nature, to investigate
+the possibilities of trading with, or in, Pakistan;
+(b) exploring the possibility of joint collaboration and
+export promotion;
+Clause (30B) substituted by the Finance Act, 2008. The substituted clause (30B) read as follows:
+“ (30B) “leasing company” means a company licensed under the Leasing Companies (Establishment
+and Regulation) Rules, 2000;
+Inserted by the Finance Act, 2017.
+(c) promoting products where such products are yet to
+be supplied to, or sold in, Pakistan;
+(d) promoting technical and financial collaborations
+between its principal and taxpayers in Pakistan; or
+(e) provision of technical advice and assistance.]
+(31) “liquidation” in relation to a company, includes the termination of a
+trust;
+1[(31A) “Local Government” shall have the same meaning for respective
+provisions and Islamabad Capital Territory as contained in the
+Balochistan Local Government Act,2010 (V of 2010), the Khyber
+Pakhtunkhwa Local Government Act, 2013 (XXVIII of 2013), the Sindh
+Local Government Act, 2013 (XLII of 2013), the Islamabad Capital
+Territory Local Government Act, 2015 (X of 2015) and the Punjab
+Local Government Act, 2019(XIII of 2019)]
+(32) “member” in relation to an association of persons, includes a partner
+in a firm;
+(33) “minor child” means an individual who is under the age of eighteen
+years at the end of a tax year;
+(34) “modaraba” means a modaraba as defined in the Modaraba Companies
+and Modarabas (Floatation and Control) Ordinance, 1980 (XXXI of
+1980);
+(35) “modaraba certificate” means a modaraba certificate as defined in the
+Modaraba Companies and Modarabas (Floatation and Control)
+Ordinance, 1980 (XXXI of 1980);
+2[(35A) “Mutual Fund” means a mutual fund 3[registered or approved by the
+Securities and Exchange Commission of Pakistan];]
+1 Clause (31A) is substituted through Finance Act 2020 dated 30th June, 2020 the substituted clause
+read as follows: “(31A) “Local Government” shall have the same meaning as defined in the
+Punjab Local Government Ordinance, 2001 (XIII of 2001), the Sindh Local Government Ordinance,
+2001 (XXVII of 2001), the NWFP Local Government Ordinance, 2001 (XIV of 2001) and the
+Balochistan Local Government Ordinance, 2001 (XVIII of 2001);”
+Inserted by the Finance Act, 2002
+The words “set up by the Investment Corporation of Pakistan or by an investment company”
+substituted by the Finance Act, 2003.
+1[(35AA) “NCCPL” means National Clearing Company of Pakistan Limited,
+which is a company incorporated under the 2[Companies Act, 2017
+(XIX of 2017)] and licensed as “Clearing House” by the Securities and
+Exchange Commission of Pakistan,3[or any subsidiary of NCCPL
+notified by the Board for the purpose of this clause]
+4[(35B) “non-banking finance company” means an NBFC as defined in the
+Non-Banking Finance Companies (Establishment and Regulation)
+Rules, 2003;]
+5[ ]
+6[(36) “non-profit organization” means any person other than an individual,
+which is —
+(a) established for religious, educational, charitable, welfare
+7[purposes for general public], or for the promotion of an
+amateur sport 8[excluding recreational clubs where the joining
+fee for membership exceeds one million for any class of new
+members];
+(b) formed and registered 9[by or] under any law as a non-profit
+organization;
+(c) approved by the Commissioner for specified period, on an
+application made by such person in the prescribed form and
+manner, accompanied by the prescribed documents and, on
+Inserted by the Finance Act, 2012.
+The expression “Companies Ordinance, 1984 (XLVII of 1984)” substituted by the Finance Act, 2021.
+Inserted by the Finance Act, 2017
+Clause (35B) substituted by the Finance Act, 2008. The substituted clause (35B) read as follows:
+“ (35B) “non-banking finance company” means an institution notified under the Non-Banking Finance
+Companies (Establishment and Regulation) Rules, 2003.”
+Omitted by Finance Act, 2019. Omitted clause read as follow:
+(35C)“non-filer” means a person who is not a filer;
+Clause (36) substituted by the Finance Act, 2002. The substituted clause (36) read as follows:
+“(36) “non-profit organization” means any person –
+(a) established for religious, charitable or educational purposes, or for the
+promotion of amateur sport;
+(b) which is registered under any law as a non-profit organization and in respect of
+which the Commissioner has issued a ruling certifying that the person is a non-
+profit organization for the purposes of this Ordinance; and
+(c) none of the income or assets of the person confers, or may confer a private
+benefit on any other person”;.
+7 The expressions “or development purposes” substituted through Finance Act,2020 dated 30th June,
+8 Words inserted by Finance Act, 2025.
+9 Words “by or” inserted through Finance Act, 2020 dated 30th June, 2020
+requisition, such other documents as may be required by the
+Commissioner;
+and none of the assets of such person confers, or may confer,
+a private benefit to any other person;]
+(37) “non-resident person” means a non-resident person as defined in
+Section 81;
+(38) “non-resident taxpayer” means a taxpayer who is a non-resident
+person;
+1[(38A) “Officer of Inland Revenue” means any Additional Commissioner
+Inland Revenue, Deputy Commissioner Inland Revenue, Assistant
+Commissioner Inland Revenue, Inland Revenue Officer, Inland
+Revenue Audit Officer,2[District Taxation Officer Inland Revenue,
+Assistant Director Audit,]or any other officer however designated or
+appointed by the Board for the purposes of this Ordinance;]
+3[(38AA) “offshore asset” in relation to a person, includes any movable or
+immovable asset held, any gain, profit, or income derived, or any
+expenditure incurred outside Pakistan;
+(38AB) “offshore evader” means a person who owns, possesses, controls, or
+is the beneficial owner of an offshore asset and does not declare, or
+under declares or provides inaccurate particulars of such asset to the
+Commissioners.;
+(38AC) “offshore enabler” includes any person who, enables, assists, or
+advises any person to plan, design, arrange or manage a transaction
+or declaration relating to an offshore asset, which has resulted or may
+result in tax evasion;]
+4[(38B) “online marketplace” means an information technology platform run
+by e-commerce entity over an electronic network that acts as a
+Substituted by the Finance Act, 2010. The substituted provision has been made effective from
+05.06.2010 by sub-clause (77) of clause 8 of the Finance Act, 2010. Earlier the substitution was
+made through Finance (Amendment) Ordinance, 2009 which was re-promulgated as Finance
+(Amendment) Ordinance, 2010 and remained effective till 05.06.2010. The substituted clause (38A)
+read as follows:
+“(38A) “Officer of Inland Revenue” means any Additional Commissioner Inland Revenue,
+Deputy Commissioner Inland Revenue, Assistant Commissioner Inland Revenue,
+Inland Revenue Officer, Special Officer Inland Revenue or any other officer however
+designated or appointed by the Board for the purposes of this Ordinance.”
+Inserted by the Finance Act, 2017
+New clauses (38AA), (38AB) & (38AC) inserted by Finance Act, 2019
+Inserted by the Finance Act, 2017
+facilitator in transactions that occur between a buyer and a seller 1[and
+includes “online interfaces” that facilitate, for a fee, the direct
+interaction between multiple buyers and multiple sellers via digital
+orders for supply of goods and services, with or without the platform
+taking economic ownership of the goods or providing or rendering the
+services that are being sold.];]
+(39) “Originator” means Originator as defined in the Asset Backed
+Securitization Rules, 1999;
+(40) “Pakistan-source income” means Pakistan-source income as defined
+in section 101;
+2[(40A) “Pension Fund Manager” means an asset management company
+registered under the Non-Banking Finance Companies
+(Establishment and Regulations) Rules, 2003, or a life insurance
+company registered under Insurance Ordinance, 2000 (XXXIX of
+2000), duly authorized by the Securities and Exchange Commission
+of Pakistan and approved under the Voluntary Pension System Rules,
+2005, to manage the Approved Pension Fund;]
+(41) “permanent establishment” in relation to a person, means a 3[ ] 4[ ]
+place of business through which the business of the person is wholly
+or partly carried on, and includes –
+(a) a place of management, branch, office, factory or workshop,
+5[premises for soliciting orders, warehouse, permanent sales
+exhibition or sales outlet,] other than a liaison office except
+where the office engages in the negotiation of contracts (other
+than contracts of purchase);
+(b) a mine, oil or gas well, quarry or any other place of extraction of
+natural resources;
+6[(ba) an agricultural, pastoral or forestry property;]
+7[(bb) virtual business presence in Pakistan including any business
+where transactions are conducted through internet or any other
+Expression inserted by the Finance Act, 2025.
+Inserted by the Finance Act, 2005.
+The word “fixed” inserted by the Finance Act, 2006.
+The word “fixed” omitted by the Finance Act, 2023.
+Inserted by the Finance Act, 2003.
+Inserted by the Finance Act, 2003.
+The sub-clause (bb) inserted by the Finance Act, 2023.
+electronic medium, with or without having any physical
+presence;]
+(c) a building site, a construction, assembly or installation project or
+supervisory activities 1[connected] with such site or project 2[but
+only where such site, project and its 3[connected] supervisory
+activities continue for a period or periods aggregating more than
+ninety days within any twelve-months period] ;
+(d) the furnishing of services, including consultancy services, by
+any person through employees or other personnel 4[or entity]
+engaged by the person for such purpose 5[ ];
+(e) a person acting in Pakistan on behalf of the person
+(hereinafter referred to as the “agent 6[”),] other than an agent
+of independent status acting in the ordinary course of business
+as such, if the agent –
+7[(i) has and habitually exercises an authority to conclude
+contracts on behalf of the other person or habitually
+concludes contracts or habitually plays the principal role
+leading to the conclusion of contracts that are routinely
+concluded without material modification by the person
+and these contracts are─
+(a) in the name of the person; or
+(b) for the transfer of the ownership of or for the
+granting of the right to use property owned by that
+enterprise or that the enterprise has the right to use;
+or
+(c) for the provision of services by that person; or”]
+The word “connect” substituted by the Finance Act, 2010.
+Inserted by the Finance Act, 2006.
+The word “connect” substituted by the Finance Act, 2010.
+Words inserted by the Finance Act, 2023.
+The words “, but only where activities of that nature continue for the same or a connected project
+within Pakistan for a period or periods aggregating more than ninety days within any twelve-month
+period” omitted by the Finance Act, 2003.
+Comma substituted by the Finance Act, 2002
+Paragraph (i) substituted by Finance Act 2018, the substituted Paragraph (i) is read as under:
+“has and habitually exercises an authority to conclude contracts on behalf of the other person;”
+(ii) has no such authority, but habitually maintains a stock-in-
+trade or other merchandise from which the agent regularly
+delivers goods or merchandise on behalf of the other
+person; or
+1[Explanation.—For removal of doubt, it is clarified that an
+agent of independent status acting in the ordinary course
+of business does not include a person acting exclusively
+or almost exclusively on behalf of the person to which it
+is an associate; or ”;]
+(f) any substantial equipment installed, or other asset or property
+capable of activity giving rise to income;
+2[(g) a 3[ ] place of business that is used or maintained by a person if
+the person or an associate of a person carries on business at
+that place or at another place in Pakistan and ─
+(i) that place or other place constitutes a permanent
+establishment of the person or an associate of the person
+under this sub-clause; or
+(ii) business carried on by the person or an associate of the
+person at the same place or at more than one place
+constitute complementary functions that are part of a
+cohesive business operation.
+Explanation.— For the removal of doubt, it is clarified that ─
+(A) the term ”cohesive business operation” includes an overall
+arrangement for the supply of goods, installation,
+construction, assembly, commission, guarantees or
+supervisory activities and all or principal activities are
+undertaken or performed either by the person or the
+associates of the person; and
+(B) supply of goods include the goods imported in the name of
+the associate or any other person, whether or not the title to
+the goods passes outside Pakistan.]
+(42) “person” means a person as defined in section 80;
+Added by the Finance Act, 2018
+Added by the Finance Act, 2018
+The word “fixed” omitted by the Finance Act, 2023.
+1[(42A) “PMEX” means Pakistan Mercantile Exchange Limited a futures
+commodity exchange company incorporated under the 2[Companies
+Act, 2017 (XIX of 2017)] and is licensed and regulated by the
+Securities and Exchange Commission of Pakistan;”]
+(43) “pre-commencement expenditure” means a pre-commencement
+expenditure as defined in section 25;
+(44) “prescribed” means prescribed by rules made under this Ordinance;
+3[(44A) “principal officer” used with reference to a company or association of
+persons includes –
+(a) a director, a manager, secretary, agent, accountant or any
+similar officer; and
+(b) any person connected with the management or administration
+of the company or association of persons upon whom the
+Commissioner has served a notice of treating him as the
+principal officer thereof;]
+(45) “private company” means a company that is not a public company;
+4[ ]
+5[ ]
+(46) “profit on a debt” 6[whether payable or receivable, means] —
+(a) any profit, yield, interest, discount, premium or other amount 7[,]
+owing under a debt, other than a return of capital; or
+Inserted by the Finance Act, 2015.
+The expression “Companies Ordinance, 1984 (XLVII of 1984)” substituted by the Finance Act,
+2021.
+Inserted by the Finance Act, 2003.
+Clause (45A) omitted by the Finance Act, 2008. The omitted clause (45A) read as follows:
+“ (45A) “Private Equity and Venture Capital Fund” means a fund registered with the Securities
+and Exchange Commission of Pakistan under the Private Equity and Venture Capital Fund Rules,
+2007;”
+Clause (45B) omitted by the Finance Act, 2008. The omitted clause (45B) read as follows:
+“(45B) “Private Equity and Venture Capital Fund Management Company” means a company
+licensed by the Securities and Exchange Commission of Pakistan under the Private Equity and
+Venture Capital Fund Rules, 2007;”
+The word “means” substituted by the Finance Act, 2003.
+Comma inserted by the Finance Act, 2002.
+(b) any service fee or other charge in respect of a debt, including
+any fee or charge incurred in respect of a credit facility which
+has not been utilized;
+(47) “public company” means —
+(a) a company in which not less than fifty per cent of the shares are
+held by the Federal Government 1[or Provincial Government];
+2[(ab) a company in which 3[not less than fifty per cent of the] shares
+are held by a foreign Government, or a foreign company owned
+by a foreign Government 4[;]]
+(b) a company whose shares were traded on a registered stock
+exchange in Pakistan at any time in the tax year and which
+remained listed on that exchange 5[ ] at the end of that year; or
+6[(c) a unit trust whose units are widely available to the public and
+any other trust as defined in the Trusts Act, 1882 (II of 1882);]
+7[(47A) “REIT Scheme” means a REIT Scheme as defined in the Real Estate
+Investment Trust Regulations, 2015;”]
+8 [(47B) “Real Estate Investment Trust Management Company 9[RMC]means
+10[RMC] as defined under the Real Estate Investment Trust
+Regulations, 11[2015];]
+Inserted by the Finance Act, 2003.
+Inserted by the Finance Act, 2003.
+Inserted by the Finance Act, 2005.
+The full stop substituted by the Finance Act, 2005.
+The words “and was on the Central Depository System,” omitted by the Finance Act, 2002.
+Clause (c) substituted by the Finance Act, 2003. The substituted clause (c) read as follows:
+“(c) a unit trust whose units are widely available to the public and any other public trust;”
+Clause (47A) substituted by the Finance Act, 2015. The substituted clause read as follows:
+“(47A) “Real Estate Investment Trust (REIT) Scheme” means a REIT Scheme as defined in the
+Real Estate Investment Trust Regulations, 2008;
+Clause (47B) substituted by the Finance Act, 2008. The substituted clause (47B) read as follows:
+“(47B) “Real Estate Investment Trust Management Company” means a company licensed by the
+Security and Exchange Commission of Pakistan under the Real Estate Investment Trust Rules,
+2006.”
+Inserted by the Finance Act, 2015.
+Inserted by the Finance Act, 2015.
+The figure “2008” substituted by the Finance Act, 2015.
+1[(47C) “Rental REIT Scheme” means a Rental REIT Scheme as defined
+under the Real Estate Investment Trust Regulations, 2015;”]
+(48) “recognised provident fund” means a provident fund recognised by the
+Commissioner in accordance with Part I of the Sixth Schedule;
+2[ ]
+(49) “rent” means rent as defined in sub-section (2) of section 15 and
+includes an amount treated as rent under section 16;
+3[(49A) “repealed Ordinance” means Income Tax Ordinance, 1979 (XXXI of
+1979);]
+(50) “resident company” means a resident company as defined in section
+83;
+(51) “resident individual” means a resident individual as defined in section
+82;
+(52) “resident person” means a resident person as defined in section 81;
+(53) “resident taxpayer” means a taxpayer who is a resident person;
+(54) 4[“royalty”]means any amount paid or payable, however described or
+computed, whether periodical or a lump sum, as consideration for —
+(a) the use of, or right to use any patent, invention, design or model,
+secret formula or process, trademark or other like property or
+right;
+(b) the use of, or right to use any copyright of a literary, artistic or
+scientific work, including films or video tapes for use in
+connection with television or tapes in connection with radio
+broadcasting, but shall not include consideration for the sale,
+distribution or exhibition of cinematograph films;
+(c) the receipt of, or right to receive, any visual images or sounds,
+or both, transmitted by satellite, cable, optic fibre or similar
+Inserted by the Finance Act, 2015.
+Clause (48A) omitted by the Finance Act, 2010. The omitted clause (48A) read as follows:
+“(48) “Regional Commissioner” means a person appointed as a Regional Commissioner of Income
+Tax under section 208 and includes a Director-General of Income Tax and Sales Tax.”
+Inserted by the Finance Act, 2002
+The word “royalties” substituted by the Finance Act, 2002.
+technology in connection with television, radio or internet
+broadcasting;
+(d) the supply of any technical, industrial, commercial or scientific
+knowledge, experience or skill;
+(e) the use of or right to use any industrial, commercial or scientific
+equipment;
+(f) the supply of any assistance that is ancillary and subsidiary to,
+and is furnished as a means of enabling the application or
+enjoyment of, any such property or right as mentioned in 1[sub-
+clauses] (a) through (e); 2[and]
+(g) the disposal of any property or right referred to in 3[sub-clauses]
+(a) through (e);
+(55) “salary” means salary as defined in section 12;
+(56) “Schedule” means a Schedule to this Ordinance;
+(57) “securitization” means securitization as defined in the Asset Backed
+Securitization Rules, 1999;
+(58) “share” in relation to a company, includes a modaraba certificate and
+the interest of a beneficiary in a trust (including units in a trust);
+(59) “shareholder” in relation to a company, includes a modaraba
+certificate holder, 4[a unit holder of a unit trust] and a beneficiary of a
+trust;
+5[(59A) “small and medium enterprise” means a person who is engaged in
+manufacturing as defined in clause (iv) of sub-section (7) of section
+153 of the Ordinance and his business turnover in a tax year does
+not exceed two hundred and fifty million rupees:
+Provided that if annual business turnover of a small and medium
+enterprise exceeds two hundred and fifty million rupees, it shall not
+The word “clauses” substituted by the Finance Act, 2002.
+Added by the Finance Act, 2005.
+The word “clauses” substituted by the Finance Act, 2002
+Inserted for “, a unit holder of a unit trust” by the Finance Act, 2002
+5 New clause (59A) inserted by the Finance Act, 2021.
+qualify as small and medium enterprise in the tax year in which
+annual turnover exceeds that turnover or any subsequent tax year.]
+1[2[(59AB)] “Small Company” means a company registered on or after the first
+day of July, 2005, under the 3[Companies Act, 2017 (XIX of 2017)],
+which,—
+(i) has paid up capital plus undistributed reserves not
+exceeding 4[fifty]million rupees;
+5[(ia) has employees not exceeding two hundred and fifty any
+time during the year;]
+(ii) has annual turnover not exceeding two hundred 6[and
+fifty] million rupees; 7[ ]
+(iii) is not formed by the splitting up or the reconstitution of
+company already in existence;] 8[and]
+9[(iv) is not a small and medium enterprise as defined in clause
+(59A);]
+10[(59B) “Special Judge” means the Special Judge appointed under section
+203;]
+(60) “Special Purpose Vehicle” means a Special Purpose Vehicle as
+defined in the Asset Backed Securitization Rules, 1999;
+11[(60A) “specified jurisdiction” means any jurisdiction which has committed to
+automatically exchange information under the Common Reporting
+Standard with Pakistan;]
+(61) “speculation business” means a speculation business as defined in
+section 19;
+Inserted by the Finance Act, 2005.
+2 Clause (59A) re-numbered as clause (59AB) by the Finance ACT, 2021.
+The expression “Companies Ordinance, 1984 (XLVII of 1984)” substituted by the Finance Act,
+2021.
+The word “twenty-five” substituted by the Finance Act, 2015
+Inserted by the Finance Act, 2007.
+Inserted by the Finance Act, 2007.
+7 The word “and “ omitted by the Finance Act, 2021.
+8 The word “and “ added by the Finance Act, 2021.
+9 New sub-clause (iv) added by the Finance Act, 2021.
+Inserted by the Finance Act, 2014.
+(60A)Inserted by the Finance Act, 2019
+1[(61A) “stock fund” means a collective investment scheme or a mutual fund
+where the investible funds are invested by way of equity shares in
+companies, to the extent of more than seventy per cent of the
+investment;]
+(62) “stock-in-trade” means stock-in-trade as defined in section 35;
+2[(62A) “startup” means,—
+(i) a business of a resident individual, AOP or a company that
+commenced on or after first day of July, 2012 and the person
+is engaged in or intends to offer technology driven products or
+services to any sector of the economy provided that the person
+is registered with and duly certified by the Pakistan Software
+Export Board (PSEB) and has turnover of less than one
+hundred million in each of the last five tax years; or
+(ii) any business of a person or class of persons, subject to the
+conditions as the 3[Board with the approval of Federal Minister-
+in-charge] may, by notification in the official Gazette, specify.;]
+4[(62B) “Synchronized Withholding Administration and Payment System
+agent” or “SWAPS agent” means any person or class of persons
+notified by Board to collect or deduct withholding taxes through
+Synchronized Withholding Administration and Payment System;]
+(63) “tax” means any tax imposed under Chapter II, and includes any
+penalty, fee or other charge or any sum or amount leviable or payable
+under this Ordinance;
+(64) “taxable income” means taxable income as defined in section 9;
+5[ ]
+(66) “taxpayer” means any person who derives an amount chargeable to
+tax under this Ordinance, and includes —
+Inserted by the Finance Act, 2014..
+Inserted by the Finance Act, 2017
+3 The words “Federal Government” substituted by the Finance Act, 2021.
+Inserted by the Finance Act, 2022.
+Clause (65) omitted by the Finance Act, 2010. The omitted Clause (65) read as follows:
+“(65) “taxation officer” means any Additional Commissioner of Income Tax, Deputy
+Commissioner of Income Tax, Assistant Commissioner of Income Tax, Income Tax
+Officer, Special Officer or any other officer however designated appointed by the Board
+for the purposes of this Ordinance;”
+(a) any representative of a person who derives an amount
+chargeable to tax under this Ordinance;
+(b) any person who is required to deduct or collect tax under Part V
+of Chapter X 1[and Chapter XII;] or
+(b) any person required to furnish a return of income or pay tax
+under this Ordinance;
+2[(66A) “tax invoice” means an invoice as prescribed under the Income Tax
+Rules, 2002;]
+(67) “tax treaty” means an agreement referred to in section 107;
+(68) “tax year” means the tax year as defined in sub-section (1) of section 74
+and, in relation to a person, includes a special year or a transitional year
+that the person is permitted to use under section 74;
+(69) “total income” means total income as defined in section 10;
+(70) “trust” means a “trust” as defined in section 80;
+3[(70A) “turnover” means turnover as defined in sub-section (3) of section 113;]
+(71) “underlying ownership” means an underlying ownership as defined in
+section 98;
+(72) “units” means units in a unit trust;
+(73) “unit trust” means a unit trust as defined in section 80; and
+4[(73A) “unspecified jurisdiction” means a jurisdiction which is not a specified
+jurisdictions.]
+5[(74) “Venture Capital Company” and “Venture Capital Fund” shall have the
+same meanings as are assigned to them under the 6[Non-Banking
+Finance 7[Companies] (Establishment and Regulation) Rules, 2003];
+8[(75) “whistleblower” means whistleblower as defined in section 227B;”]
+Inserted by the Finance Act, 2002
+Inserted by the Finance Act, 2022.
+Inserted by the Finance Act, 2009.
+(73A) inserted through Finance Act, 2019.
+Added by Finance Act, 2002
+The words, brackets, comma and figure “Venture Capital Company and Venture Capital Fund
+Rules, 2001” substituted by the Finance Act, 2004.
+The word “Company” substituted by the Finance Act, 2005.
+Inserted by the Finance Act, 2015.
+3. Ordinance to override other laws.—The provisions of this Ordinance shall
+apply notwithstanding anything to the contrary contained in any other law for the
+time being in force.

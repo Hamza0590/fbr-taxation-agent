@@ -1,0 +1,622 @@
+PART II
+ASSESSMENTS
+1[120. Assessments.—(1) Where a taxpayer has furnished a complete return of
+income (other than a revised return under sub-section (6) of section 114) for a tax
+year ending on or after the 1st day of July, 2002,—
+(a) the Commissioner shall be taken to have made an assessment of
+taxable income for that tax year, and the tax due thereon 2[equal to
+the respective amounts adjusted under sub-section (2A)] 3[ ] ; and
+(b) the return shall be taken for all purposes of this Ordinance to be an
+assessment order issued to the taxpayer by the Commissioner on the
+day the 4[adjustments were made under sub-section (2A)] 5[ ] 6[return
+was furnished] 7[:
+Provided that until the date specified under the fourth proviso to
+sub-section (2A) is notified, this subsection shall be in force as if sub-
+section (2A) is not in operation:
+Provided further that once the date under the fourth proviso to
+sub-section (2A) is notified, clauses (a) and (b) shall only apply when
+the provisions of sub-section (2A), if invoked, are first complied with:
+Provided further once compliance is made under the second
+proviso,—
+(i) the adjusted amount under sub-section (2A) shall be construed
+to be the tax payable and due under clause (a); and
+Section 120 substituted by the Finance Act, 2003. The substituted section 120 read as follows:
+“120. Assessments.- Where a taxpayer has furnished a return of income (other than a revised return
+under sub-section (6) of section 114) for a tax year ending on or after the 1st day of July, 2002, –
+(a) the Commissioner shall be taken to have made an assessment of the taxable
+income of the taxpayer for the year and the tax due thereon, equal to those
+respective amounts specified in the return; and
+(b) the taxpayer’s return shall be taken for all purposes of this Ordinance to be an
+assessment order issued to the taxpayer by the Commissioner on the day the
+return was furnished.”
+The expression inserted by the Finance Act, 2025.
+The expression “, equal to the respective amounts adjusted under sub-section (2A)” omitted by the
+Finance Act, 2021. Earlier this omission was made through Income Tax (Amendment) Ordinance,
+2021.
+The expression inserted by the Finance Act, 2025.
+The expressions “return was furnished” substituted through Finance Act, 2020
+The expression “adjustments were made under sub-section (2A)” substituted by the Finance Act,
+2021. ” substituted by the Finance Act, 2021. Earlier the substitution was made through Income Tax
+(Amendment) Ordinance, 2021.
+Full stop substituted and provisos added by the Finance Act, 2021. Earlier the substitution and
+addition was made through Income Tax (Amendment) Ordinance, 2021.
+(ii) the date of the compliance under sub-section (2A) shall be the
+date for the purposes of clause (b).]
+1[(1A) Notwithstanding the provisions of sub-section (1), the Commissioner
+may 2[conduct audit of the income tax affairs of a person] under section 177 and
+all the provisions of that section shall apply accordingly.]
+(2) A return of income shall be taken to be complete if it is in accordance
+with the provisions of sub-section (2) of section 114.
+3[(2A) A return of income furnished under sub-section (2) of section 114 shall
+be processed through automated system to arrive at correct amounts of total
+income, taxable income and tax payable by making adjustments for-
+(i) any arithmetical error in the return;
+(ii) any incorrect claim, if such incorrect claim is apparent from any
+information in the return;
+(iii) disallowance of any loss, deductible allowance or tax credit under
+Parts VIII, IX and X respectively of Chapter III; and
+(iv) disallowance of carry forward of any loss under clause (b) of sub-
+section (I)of section 182A:
+Provided that no such adjustments shall be made unless a
+system generated notice is given to the taxpayer specifying the
+adjustments intended to be made:
+Provided further that the response received from the taxpayer,
+if any, shall be considered before making any adjustment, and in a
+case where no response is received within thirty days of the issue of
+such notice, adjustments shall be made.
+Provided also that where no such adjustments have been made
+within six month of filing of return, the amounts specified in the return
+as declared by the taxpayer shall be deemed to have been taken as
+Inserted by the Finance Act, 2005.
+The words “select a person for an audit of his income tax affairs” substituted by the Finance Act, 2010.
+The substituted provision has been made effective from 05.06.2010 by sub-clause (77) of clause 8
+of the Finance Act, 2010. Earlier the substitution was made through Finance (Amendment)
+Ordinance, 2009 which was re-promulgated as Finance (Amendment) Ordinance, 2010 and
+remained effective till 05.06.2010.
+3 New sub-section (2A) inserted through Finance Act, 2020 dated 30th June, 2020
+adjusted amounts on the day the return was filed and the taxpayer
+shall be intimated automatically through Iris] 1[:
+Provided also that the provisions of this sub-section shall apply
+from the date notified by the Federal Board of Revenue in the official
+Gazette.]
+(3) Where the return of income furnished is not complete, the
+Commissioner shall issue a notice to the taxpayer informing him of the deficiencies
+(other than incorrect amount of tax payable on taxable income, as specified in the
+return, or short payment of tax payable) and directing him to provide such
+information, particulars, statement or documents by such date specified in the
+notice.
+(4) Where a taxpayer fails to fully comply, by the due date, with the
+requirements of the notice under sub-section (3), the return furnished shall be
+treated as an invalid return as if it had not been furnished.
+(5) Where, in response to a notice under sub-section (3), the taxpayer
+has, by the due date, fully complied with the requirements of the notice, the return
+furnished shall be treated to be complete on the day it was furnished and the
+provisions of sub-section (1) shall apply accordingly.
+(6) No notice under sub-section (3) shall be issued after the 2[expiry of
+one hundred and eighty days from the end of the financial year in which return was
+furnished], and the provisions of sub-section (1) shall apply accordingly.]
+3[(7) For the purposes of this section,-
+(a) “arithmetical error” includes any wrong or incorrect calculation
+of tax payable including any minimum or final tax payable.
+(b) “an incorrect claim apparent from any information in the return”
+shall mean a claim, on the basis of an entry, in the return,-
+(i) of an item, which is inconsistent with another entry of the
+same or some other item in such return;
+(ii) regarding any tax payment which is not verified from the
+collection system; or
+(iii) in respect of a deduction, where such deduction exceeds
+specified statutory limit which may have been expressed
+as monetary amount or percentage or ratio or fraction.]
+Full stop substituted and proviso added by the Finance Act, 2021. Earlier the substitution and
+addition was made through Income Tax (Amendment) Ordinance, 2021.
+The words “end of the financial year in which return was furnished” the Finance Act, 2012.
+New sub-section 7 added through Finance Act, 2020
+1[ ]
+2[120B. Restriction of proceedings.- (1) Where any person entitled to declare
+undisclosed assets, expenditure and undisclosed sales under the Assets
+Declaration Act, 2019 declares such assets, expenditures or sales to pay tax, no
+proceedings shall be undertaken under this Ordinance in respect of such
+declaration.
+(2) Notwithstanding anything contained in any other law, for the time
+being in force, sub-section (3) of section 216, except the provisions of clauses (a)
+and (g) of sub-section (3) of section 216, particulars of the persons making
+declaration under the Assets Declaration Act, 2019 or any information received in
+any declaration made under the said Act shall be confidential.]
+3[121. Best judgement assessment.— (1) Where a person fails to —
+Section 120A omitted by the Finance Act, 2013. The omitted section 120A read as follows:
+“120A.Investment Tax on income.— (1) Subject to this Ordinance, the Board may make a scheme
+of payment of investment tax in respect of undisclosed income, representing any amount or
+investment made in movable or immovable assets.
+(2) Where any person declares undisclosed income under sub-section (1) in accordance with
+the scheme and the rules, the tax on such income called investment tax shall be charged at such rate
+as may be prescribed.
+(3) Where a person has paid tax on his undisclosed income in accordance with the scheme
+and the rules, he shall –
+(a) be entitled to incorporate in his books of account such undisclosed income in tangible form;
+and
+(b) not be liable to pay any tax, charge, levy, penalty or prosecution in respect of such income
+under this Ordinance.
+(4) For the purposes of this section —
+(i) “undisclosed income” means any income, including any investment to be deemed
+as income under section 111 or any other deemed income, for any year or years,
+which was chargeable to tax but was not so charged; and
+(ii) “investment tax” means tax chargeable on the undisclosed income under the
+scheme under sub-section (1) and shall have the same meaning as given in clause
+(63) of section 2 of the Income Tax Ordinance, 2001.”
+New Section (120B) inserted though Finance Act, 2019.
+Section 121 substituted by the Finance Act, 2003. The substituted section 121 read as follows:
+“121. Assessment of persons who have not furnished a return.- (1) Where a person
+required by the Commissioner through a notice] to furnish a return of income for a tax year fails to
+do so by the due date, the Commissioner may, based on any available information and to the best
+of the Commissioner’s judgement, make an assessment of the taxable income of the person and
+the tax due thereon for the year.
+(2) As soon as possible after making an assessment under this section, the Commissioner
+shall issue, in writing, an assessment order to the taxpayer stating –
+(a) the taxable income of the taxpayer for the year;
+(b) the amount of tax due;
+(c) the amount of tax paid, if any; and
+(d) the time, place, and manner of appealing the assessment order.
+(3) An assessment order shall only be issued within five years after the end of the tax year,
+or the income year, to which it relates.”
+1[ ]
+2[ ]
+3[(ab) furnish return of income in response to notice under sub-
+section (3) or sub-section (4) of section 114; or”;]
+4[(ac) furnish return of income in response to notice under sub-section
+(3) of section 117; or]
+(b) furnish a return as required under section 143 or section 144;
+or
+(c) furnish the statement as required under section 116; or
+(d) produce before the Commissioner, or 5[a special audit panel
+appointed under sub-section (11) of section 177 or]any person
+employed by a firm of chartered accountants 6[or a firm of cost
+and management accountants] under section 177, accounts,
+documents and records required to be maintained under section
+174, or any other relevant document or evidence that may be
+required by him for the purpose of making assessment of
+income and determination of tax due thereon,
+the Commissioner may, based on any available information or material and to the
+best of his judgement, make an assessment of the taxable income 7[or income] of
+the person and the tax due thereon 8[and the assessment, if any, treated to have
+been made on the basis of return or revised return filed by the taxpayer shall be of
+no legal effect].
+Omitted by the Finance Act, 2010. The omitted clause (a) read as follows:
+“(a) furnish a return of income as required by a notice under sub-section (3) or sub-section (4)
+of section 114; or
+2 Clause “(aa)” omitted through Finance Act, 2020 dated 30th June, 2020 the omitted clause read as
+follows: “(aa) furnish a statement as required by a notice under sub-section (5) of section 115; or”
+Inserted by the Finance Act, 2017.
+Clause (ac) inserted by the Finance Act, 2024.
+Inserted by the Finance Act, 2015
+Inserted by the Finance Act, 2010.
+Inserted by the Finance Act, 2010.
+Inserted by the Finance Act, 2012.
+1[(1A) For the purposes of making a best judgment assessment under sub-
+section (1), the Commissioner may determine taxable income on the basis of
+sectoral benchmark ratios prescribed by the Board.
+Explanation.- The expression “sectoral benchmark ratios” means standard
+business sector ratios notified by the Board on the basis of comparative cases and
+includes financial ratios, production ratios, gross profit ratio, net profit ratio,
+recovery ratio, wastage ratio and such other ratios in respect of such sectors as
+may be prescribed.]
+(2) As soon as possible after making an assessment under this section,
+the Commissioner shall issue the assessment order to the taxpayer stating—
+(a) the taxable income;
+(b) the amount of tax due;
+(c) the amount of tax paid, if any; and
+(d) the time, place and manner of appealing the assessment order.
+(3) An assessment order under this section shall only be issued within
+2[six] years after the end of the tax year or the income year to which it relates 3[:]
+4[Provided that where notice for furnishing a return of income under
+sub-section (4) of section 114 is issued in respect of one or more of the last
+ten completed tax years in pursuance of proviso to sub-section (5) of section
+114 an assessment order under this section shall only be issued within two
+years from the end of tax year in which such notice is issued.]
+122. Amendment of assessments.— (1) Subject to this section, the
+Commissioner may amend an assessment order treated as issued under section
+120 or issued under section 1215[, 6[ ] 7[or 8[ ], by making such alterations or
+additions as the Commissioner considers necessary 9[ ].
+Sub-section (1A) inserted by the Finance Act, 2024.
+The word “five” substituted by the Finance Act, 2022.
+Full stop substituted by the Finance Act 2018.
+Added by the Finance Act, 2018.
+Inserted by the Finance Act, 2012.
+The expression “or issued under section 122C,”omitted by the Finance Act, 2017
+Inserted by the Finance Act, 2002
+The words, commas and the figures “issued under section 59, 59A, 62, 63 or 65 of the repealed
+Ordinance “ omitted by the Finance Act, 2012.
+The words “to ensure that the taxpayer is liable for correct amount of tax for the tax year to which the
+assessment order relates” omitted by the Finance Act, 2003.
+1[(2) No order under sub-section (1) shall be amended by the
+Commissioner after the expiry of five years from the end of the financial year in
+which the Commissioner has issued or treated to have issued the assessment
+order to the taxpayer.]
+(3) Where a taxpayer furnishes a revised return under sub-section (6)
+2[or (6A)] of section 114 —
+(a) the Commissioner shall be treated as having made an amended
+assessment of the taxable income and tax payable thereon as
+set out in the revised return; and
+(b) the taxpayer’s revised return shall be taken for all purposes of
+this Ordinance to be an amended assessment order issued to
+the taxpayer by the Commissioner on the day on which the
+revised return was furnished.
+(4) Where an assessment order (hereinafter referred to as the “original
+assessment”) has been amended under sub-section (1) 3[,] (3) 4[or (5A)], the
+Commissioner may further amend,5[as many times as may be necessary,] the
+original assessment within the later of —
+(a) five years 6[from the end of the financial year in which] the
+Commissioner has issued or is treated as having issued the
+original assessment order to the taxpayer; or
+(b) one year 7[from the end of the financial year in which] the
+Commissioner has issued or is treated as having issued the
+amended assessment order to the taxpayer.
+Sub-section (2) substituted by the Finance Act, 2009. The substituted sub-section (2) read as
+follows:
+“(2) An assessment order shall only be amended under subsection (1) within five years after the
+Commissioner has issued or is treated as having issued the assessment order on the taxpayer.”
+Substituted by the Finance Act, 2010. The substituted provision has been made effective from
+05.06.2010 by sub-clause (77) of clause 8 of the Finance Act, 2010. Earlier the substitution was
+made through Finance (Amendment) Ordinance, 2009 which was re-promulgated as Finance
+(Amendment) Ordinance, 2010 and remained effective till 05.06.2010.
+The word “or” substituted by the Finance Act, 2010.
+Inserted by the Finance Act, 2010. Amendment made in sub-section (4) has been validated through
+sub-clause (18)(b) of clause (8) of Finance Act, 2010, with effect from the first day of July, 2003.
+Inserted by the Finance Act, 2002
+The word “after” substituted by the Finance Act, 2009.
+The word “after” substituted by the Finance Act, 2009.
+1[(4A) In respect of an assessment made under the repealed Ordinance,
+nothing contained in sub-section (2) or, as the case may be, sub-section (4) shall
+be so construed as to have extended or curtailed the time limit specified in section
+65 of the aforesaid Ordinance in respect of an assessment order passed under
+that section and the time-limit specified in that section shall apply accordingly.]
+2[(5) An assessment order in respect of tax year, or an assessment year,
+shall only be amended under sub-section (1) and an amended assessment for that
+year shall only be further amended under sub-section (4) where, on the basis of
+3[audit or on the basis of definite information] the Commissioner is satisfied that —
+(i) any income chargeable to tax has escaped assessment; or
+(ii) total income has been under-assessed, or assessed at too low
+a rate, or has been the subject of excessive relief or refund; or
+(iii) any amount under a head of income has been mis-classified.]
+4[(5A) Subject to sub-section (9), the Commissioner may 5[, ] 6[ ] amend, or
+further amend, an assessment order, if he considers that the assessment order is
+erroneous in so far it is prejudicial to the interest of revenue.]
+Inserted by the Finance Act, 2003. Earlier sub-section (4A) was inserted by S.R.O. 633(I)/2002, dated
+14.09.2002 which stands rescinded by SRO 608(I)/2003, dated 24.06.2003 with effect from
+01.07.2003. The said sub-section (4A) read as follows:
+“(4A) An amended assessment shall only be made within six years of the date of original
+assessment.”
+Sub-section (5) substituted by the Finance Act, 2003. The substituted sub-section (5) read as follows:
+“(5) An assessment order shall only be amended under sub-section (1) and an amended
+assessment shall only be amended under subsection (4) where the Commissioner –
+(a) is of the view that this Ordinance or the repealed Ordinance] has been incorrectly
+applied in making the assessment (including the misclassification of an amount
+under a head of income, incorrect payment of tax with the return of income, an
+incorrect claim for tax relief or rebate, an incorrect claim for exemption of any
+amount or an incorrect claim for a refund); or
+(b) has definite information acquired from an audit or otherwise that the income has
+been concealed or inaccurate particulars of income have been furnished or the
+assessment is otherwise incorrect.”
+Expressions “definite information acquired from an audit or otherwise,” substituted through Finance
+Act, 2020 dated 30th June, 2020
+Inserted by the Finance Act, 2003. Earlier sub-section (5A) was inserted by S.R.O. 633(I)/2002, dated
+14.09.2002 which stands rescinded by SRO 608(I)/2003, dated 24.06.2003 with effect from
+01.07.2003. The said sub-section (5A) read as follows:
+“(5A) Where a person does not produce accounts and records, or details of expenditure,
+assets and liabilities or any other information required for the purposes of audit under section177,
+or does not file wealth statement under section 116, the Commissioner may, based on any available
+information and to the best of Commissioner’s judgement; make an amended assessment.”
+Added by Finance Act, 2012.
+The expression “after making, or causing to be made, such enquiries as he deems necessary,”
+omitted by the Finance Act, 2021.
+1[(5AA) In respect of any subject matter which was not in dispute in an appeal the
+Commissioner shall have and shall be deemed always to have had the powers to amend
+or further amend an assessment order under sub-section (5A).]
+2[(5B) Any amended assessment order under sub-section (5A) may be passed
+within the time-limit specified in sub-section (2) or sub-section (4), as the case may be.]
+(6) As soon as possible after making an amended assessment under 3[sub-
+section (1), sub-section (4) or sub-section (5A)], the Commissioner shall issue an
+amended assessment order to the taxpayer stating –
+(a) the amended taxable income of the taxpayer;
+(b) the amended amount of tax due;
+(c) the amount of tax paid, if any; and
+(d) the time, place, and manner of appealing the amended assessment.
+(7) An amended assessment order shall be treated in all respects as an
+assessment order for the purposes of this Ordinance, other than for the purposes
+of sub-section (1).
+(8) For the purposes of this section, “definite information” includes information
+on sales or purchases of any goods made by the taxpayer, 4[receipts of the taxpayer
+from services rendered or any other receipts that may be chargeable to tax under this
+Ordinance,]and on the acquisition, possession or disposal of any money, asset, valuable
+article or investment made or expenditure incurred by the taxpayer.
+5[(9) No assessment shall be amended, or further amended, under this section
+unless the taxpayer has been provided with an opportunity of being heard] 6[:
+7[Provided that order under this section shall be made within one year of issuance
+of show cause notice or within such extended period as the Commissioner may, for
+1 Added by the Finance Act, 2010.
+2 Inserted by the Finance Act, 2003.
+3 The words, brackets and figures “sub-section (1) or (4)” substituted by the Finance Act, 2003.
+4 Inserted by the Finance Act, 2002
+5 Added by the Finance Act, 2002
+6 Full stop substituted and two provisos added by the Finance Act, 2021.
+7 Provisos substituted by the Finance Act, 2025.Substituted provisos read as follows:
+“Provided that order under this section shall be made within one hundred and 7[eighty] days of issuance of
+show cause notice or within such extended period as the Commissioner may, for reasons to be recorded in
+writing, so however, such extended period shall in no case exceed ninety days. This proviso shall be applicable
+to a show cause notice issued on or after the first day of July, 2021.
+Provided further that any period during which the proceedings are adjourned on account of a stay order or
+Alternative Dispute Resolution proceedings or agreed assessment proceedings under section 122D or the
+time taken through adjournment by the taxpayer not exceeding sixty days shall be excluded from the
+computation of the period specified in the first proviso.]”
+reasons to be recorded in writing, so however, such extended period shall in no case
+exceed ninety days. This proviso shall be applicable to a show cause notice issued on
+or after the first day of July, 2021:
+Provided further that any period during which the proceedings are adjourned on
+account of a stay order or Alternative Dispute Resolution proceedings or agreed
+assessment proceedings under section 122D or the time taken through adjournment by
+the taxpayer not exceeding sixty days shall be excluded from the computation of the
+period specified in the first proviso.] ]
+1[122A. Revision by the Commissioner.—(1) The Commissioner may 2[ 3[, suomoto,]
+] call for the record of any proceeding under this Ordinance or under the repealed
+Ordinance in which an order has been passed by any 4[Officer of Inland Revenue] 5[ ] .
+(2) Subject to sub-section (3), where, after making such inquiry as is
+necessary, Commissioner considers that the order requires revision, the Commissioner
+may 6[suomoto] make such revision to the order as the Commissioner deems fit.
+(3) An order under sub-section (2) shall not be prejudicial to the person to
+whom the order relates.
+(4) The Commissioner shall not revise any order under sub-section (2) if—
+(a) an appeal against the order lies to the Commissioner (Appeals) or
+to the Appellate Tribunal, the time within which such appeal may be
+made has not expired; or
+(b) the order is pending in appeal before the Commissioner (Appeals)
+or has been made the subject of an appeal to the Appellate
+Tribunal.]
+7[(5) If any order is remanded back to any lower authority by the Commissioner
+for modification, alteration, implementation of directions or de novo proceedings, the
+order giving effect to the directions of the Commissioner shall be issued within one
+hundred and twenty days.]
+Added by the Finance Act, 2003.
+Inserted by the Finance Act, 2004.
+The word “suomoto” substituted by the Finance Act, 2005.
+The words “Taxation Officer” substituted by the Finance Act, 2010. The substituted provision has been
+made effective from 05.06.2010 by sub-clause (77) of clause 8 of the Finance Act, 2010. Earlier the
+substitution was made through Finance (Amendment) Ordinance, 2009 which was re-promulgated
+as Finance (Amendment) Ordinance, 2010 and remained effective till 05.06.2010.
+5 The expression “other than the Commissioner (Appeals) 5[if the value of the assessment or, as the
+case may be, refund of the tax does not exceed twenty million rupees,]” omitted by the Finance Act,
+2024.
+Words added by Finance Act, 2004.
+Added by the Finance Act, 2021.
+1[122B. Revision by the 2[Chief Commissioner].—(1) The 3[Chief Commissioner]
+may, either of his own motion or on an application made by the taxpayer for
+revision, call for the record of any proceedings relating to issuance of an exemption
+or lower rate certificate with regard to collection or deduction of tax at source under
+this Ordinance, in which an order has been passed by any authority subordinate
+to him.
+(2) Where, after making such inquiry as is necessary, 4[Chief Commissioner]
+considers that the order requires revision, the 5[Chief Commissioner] may, after
+providing reasonable opportunity of being heard to the taxpayer, make such order as
+he may deem fit in the circumstances of the case.]
+6[7[ ] ]
+Added by the Finance Act, 2006.
+The words “Regional Commissioner” Substituted by “Chief Commissioner” by Finance Act, 2014.
+The words “Regional Commissioner” Substituted by “Chief Commissioner” by Finance Act, 2014.
+The words “Regional Commissioner” Substituted by “Chief Commissioner” by Finance Act, 2014
+The words “Regional Commissioner” Substituted by “Chief Commissioner” by Finance Act, 2014
+Substituted by the Finance Act, 2010. The substituted provision has been made effective from 05.06.2010 by
+sub-clause (77) of clause 8 of the Finance Act, 2010. Earlier the substitution was made through Finance
+(Amendment) Ordinance, 2009 which was re-promulgated as Finance (Amendment) Ordinance, 2010 and
+remained effective till 05.06.2010. The substituted section “122C” read as follows:
+“122C. Provisional assessment. — (1) Where in response to a notice under sub-section (3) or sub-section
+(4) of section 114 a person fails to furnish return of income for any tax year, the Commissioner may, based
+on any available information or material and to the best of his judgment, make a provisional assessment of
+the taxable income of the person and issue a provisional assessment order specifying the taxable income
+assessed and the tax due thereon.
+(2) Notwithstanding anything contained in this Ordinance, the provisional assessment completed
+under sub-section (1) shall be treated as the final assessment after the expiry of sixty days from the date of
+service of order of provisional assessment and the provisions of this Ordinance shall apply accordingly:
+Provided that the provisions of sub-section (2) shall not apply if return of income along with wealth
+statement, wealth reconciliation statement and other documents required under sub-section (2A) of
+section 116 are filed by the person for the relevant tax year during the said period of sixty days.”
+Section 122C omitted by Finance Act 2017,the omitted section 122C is read as under:
+“122C. Provisional assessment.— (1) Where in response to a notice under sub-section (3) or sub-section (4)
+of section 114 a person fails to furnish return of income for any tax year, the Commissioner may, based on any
+available information or material and to the best of his judgment, make a provisional assessment of the taxable
+income or income of the person and issue a provisional assessment order specifying the taxable income or
+income assessed and the tax due thereon.
+(2) Notwithstanding anything contained in this Ordinance, the provisional assessment order completed
+under sub-section (1) shall be treated as the final assessment order after the expiry of 7[forty-five] days from the
+date of service of order of provisional assessment and the provisions of this Ordinance shall apply accordingly:
+7[“Provided that the provisions of this sub-section shall not apply, if—
+(a) return of income along with wealth statement, wealth reconciliation statement and other
+documents required under sub-section (2A) of section 116 are filed by the person being an
+individual or an association of persons for the relevant tax year during the said period of forty-
+five days; and
+(b) the individual or an association of persons presents accounts and documents for
+conducting audit of income tax affairs for that tax year:
+Provided further that the provisions of sub-section (2) shall not apply—
+1[122D. Agreed assessment in certain cases.- (1) Where a taxpayer, in
+response to a notice under sub-section (9) of section 122, intends to settle his
+case, he may file offer of settlement in the prescribed form before the assessment
+oversight committee, hereinafter referred to as the Committee, in addition to filing
+reply to the Commissioner.
+(2) The Committee after examining the aforesaid offer may call for the
+record of the case and after affording opportunity of being heard to the taxpayer,
+may decide to accept or modify the offer of the taxpayer through consensus and
+communicate its decision to the taxpayer.
+(3) Where the taxpayer is stratified with the decision of the Committee,-
+(a) the taxpayer shall deposit the amount of tax payable including any
+amount of penalty and default surcharge as per decision of the
+Committee;
+(b) the Commissioner shall amend assessment in accordance with the
+decision of the Committee after tax payable including any amount of
+penalty and default surcharge as per decision of the Committee has
+been paid;
+(c) the taxpayer shall waive the right to prefer appeal against such amended
+assessment; and
+(d) no further proceedings shall be undertaken under this Ordinance in
+respect of issues decided by the Committee unless the tax as per clause
+(c) has not been deposited by the taxpayer.
+(4) Where the Committee has not been able to arrive at a consensus or
+where the taxpayer is not satisfied with the decision of the Committee, the case
+shall be referred back to the Commissioner for decision on the basis of reply of the
+taxpayer in response to notice under sub-section (9) of section 122
+notwithstanding proceedings or decision, if any, of the Committee.
+(5) The Committee shall comprise the following income tax authorities
+having jurisdiction over the taxpayer, namely:-
+(a) the Chief Commissioner Inland Revenue;
+(b) the Commissioner Inland Revenue; and
+(c) the Additional Commissioner Inland Revenue.
+(a) to a company, if return of income tax alongwith audited accounts or final accounts, as the
+case may be, for the relevant tax year are filed by the company electronically during the
+said period of forty-five days; and
+(b) if the company presents accounts and documents for conducting audit of its income tax
+affairs for that tax year.”
+1 New Section 122D inserted through Finance Act, 2020 dated 30th June, 2020
+(6) This section shall not apply in cases involving concealment of income
+or where interpretation of question of law is involved having effect on other cases.
+(7) The Board may make rules regulating the procedure of the Committee
+and for any matter connected with, or incidental to the proceedings of the
+Committee.]
+123. Provisional assessment in certain cases.— (1) Where a concealed asset
+of any person is impounded by any department or agency of the Federal Government
+or a Provincial Government, the Commissioner may, at any time before issuing any
+assessment order under section 121 or any amended assessment order under section
+122, issue to the person a provisional assessment order or provisional amended
+assessment order, as the case may be, for the last completed tax year of the person
+taking into account the concealed asset.
+1[(1A) Where an offshore asset of any person, not declared earlier, is
+discovered by the Commissioner or any department or agency of the Federal
+Government or a Provincial Government, the Commissioner may at any time
+before issuing any assessment order under section 121 or amended assessment
+order under section 122, issue to the person a provisional assessment order or
+provisional amended assessment order, as the case may be, for the last completed
+tax year of the person taking into account the offshore asset discovered.]
+(2) The Commissioner shall finalise a provisional assessment order or a
+provisional amended assessment order as soon as practicable 2[ ].
+(3) In this section, “concealed asset” means any property or asset which,
+in the opinion of the Commissioner, was acquired from any income subject to tax
+under this Ordinance.
+124. Assessment giving effect to an order. — (1) Except where sub-section
+(2) applies, where, in consequence of, or to give effect to, any finding or direction
+in any order made under Part III of this Chapter by the Commissioner (Appeals),
+3[if the value of the assessment or, as the case may be, refund of the tax does not
+exceed twenty million rupees,] Appellate Tribunal, High Court, or Supreme Court
+an assessment order or amended assessment order is to be issued to any person,
+the Commissioner shall issue the order within two years from the end of the
+financial year in which the order of the Commissioner (Appeals), 4[if the value of
+the assessment or, as the case may be, refund of the tax does not exceed twenty
+million rupees,] Appellate Tribunal, High Court or Supreme Court, as the case may
+be, was served on the Commissioner.
+New subsection 1A inserted through Finance Supplementary (Second Amendment) Act, 2019
+The words “after making it” omitted by the Finance Act, 2003.
+3 Inserted through The Tax Laws (Amendment) Act, 2024.
+4 Inserted through The Tax Laws (Amendment) Act, 2024.
+(2) Where, by an order made under Part III of this Chapter by the 1[ ]
+Appellate Tribunal, High Court, or Supreme Court, an assessment order is set
+aside 2[wholly or partly,] and the Commissioner 3[or Commissioner (Appeals), as
+the case may be,] 4[if the value of the assessment or, as the case may be, refund
+of the tax does not exceed twenty million rupees,] is directed to 5[pass] a new
+assessment order, the Commissioner 6[or Commissioner (Appeals), as the case
+may be,] 7[if the value of the assessment or, as the case may be, refund of the tax
+does not exceed twenty million rupees,] shall 8[pass] the new order within 9[one
+year from the end of the financial year in which] the Commissioner 10[or
+Commissioner (Appeals), as the case may be,] 11[if the value of the assessment
+or, as the case may be, refund of the tax does not exceed twenty million rupees,]
+is served with the order 12[:]
+13[Provided that limitation under this sub-section shall not
+apply, if an appeal or reference has been preferred, against the order
+14[ ], passed by 15[ ] Appellate Tribunal or a High Court.]
+(3) Where an assessment order has been set aside or modified, the
+proceedings may commence from the stage next preceding the stage at which
+such setting aside or modification took place and nothing contained in this
+Ordinance shall render necessary the re-issue of any notice which had already
+been issued or the re-furnishing or re-filing of any return, statement, or other
+particulars which had already been furnished or filed.
+(4) Where direct relief is provided in an order under section 129 or 132,
+the Commissioner shall issue appeal effect orders within two months of the date
+the Commissioner is served with the order.
+The words “Commissioner (Appeals)” omitted by the Finance Act, 2010.
+Inserted by the Finance Act, 2003.
+Inserted by the Finance Act, 2008.
+4 Inserted through The Tax Laws (Amendment) Act, 2024.
+The word “make” substituted by the Finance Act, 2010.
+Inserted by the Finance Act, 2008.
+7 Inserted through The Tax Laws (Amendment) Act, 2024.
+The word “make” substituted by the Finance Act, 2010.
+The words “six months from the date” substituted by the Finance Act, 2002.
+Inserted by the Finance Act, 2008.
+11 Inserted through Tax Laws (Amendment) Act, 2024.
+The full stop substituted by the Finance Act, 2005.
+Inserted by the Finance Act, 2005.
+The words “setting aside the assessment” omitted by the Finance Act, 2010.
+The words “a Commissioner (Appeals)” omitted by the Finance Act, 2010.
+1[(4A) Where the Commissioner (Appeals), Appellate Tribunal, High Court
+or Supreme Court has confirmed the tax payable as determined in the order
+appealed against no appeal effect order will be required to be issued and the
+Commissioner shall proceed to effect recovery.
+(4B) Subject to the provisions of sub-section (2) where the Appellate
+Tribunal, High Court or Supreme Court has partly set aside the order and
+confirmed or modified the order on some other issues that were subject matter of
+the appeal, the Commissioner shall issue an appeal effect order on the prescribed
+form determining the tax payable as a result of the confirmation or modification by
+the Appellate Tribunal, High Court or Supreme Court and excluding the tax payable
+on the matters that have been set aside or remanded and the tax payable on the
+basis of the issues that have been confirmed or modified shall be paid or recovered
+under the provisions of the Ordinance.]
+(5) Where, by any order referred to in sub-section (1), any income is
+excluded —
+(a) from the computation of the taxable income of a taxpayer for
+any year and held to be included in the computation of the
+taxable income of the taxpayer for another year; or
+(b) from the computation of the taxable income of one taxpayer and
+held to be included in the computation of the taxable income of
+another taxpayer,
+the assessment or amended assessment relating to that other tax year or other
+taxpayer, as the case may be, shall be treated as an assessment or amended
+assessment to be made in consequence of, or to give effect to, a finding or
+direction contained in such order.
+(6) Nothing in this Part shall prevent the issuing of an assessment order
+or an amended assessment order to give effect to an order made under Part III of
+this Chapter by the Commissioner (Appeals), 2[if the value of the assessment or,
+as the case may be, refund of the tax does not exceed twenty million rupees,]
+Appellate Tribunal, High Court, or Supreme Court.
+3[(7) The provisions of this section shall in like manner apply to any order
+issued by any High Court or the Supreme Court in exercise of original or appellate
+jurisdiction.]
+Sub-sections (4A) and (4B) inserted by the Finance Act, 2025.
+2 Inserted through Tax Laws (Amendment) Act, 2024.
+Added by the Finance Act, 2003.
+1[124A. Powers of tax authorities to modify orders, etc.—(1) Where a question
+of law has been decided by a High Court or the Appellate Tribunal in the case of a
+taxpayer, on or after first day of July 2002, the Commissioner may, notwithstanding
+that he has preferred an appeal against the decision of the High Court or made an
+application for reference against the order of the Appellate Tribunal, as the case
+may be, follow the said decision in the case of the said taxpayer in so far as it
+applies to said question of law arising in any assessment pending before the
+Commissioner until the decision of the High Court or of the Appellate Tribunal is
+reversed or modified.
+(2) In case the decision of High Court or the Appellate Tribunal, referred
+to in sub-section (1), is reversed or modified, the Commissioner may,
+notwithstanding the expiry of period of limitation prescribed for making any
+assessment or order, within a period of one year from the date of receipt of
+decision, modify the assessment or order in which the said decision was applied
+so that it conforms to the final decision.]
+125. Assessment in relation to disputed property.— Where the ownership of
+any property the income from which is chargeable to tax under this Ordinance is
+in dispute in any Civil Court in Pakistan, an assessment order or amended
+assessment order in respect of such income may be issued at any time within one
+year after the end of the financial year in which the decision of the Court is made.
+126. Evidence of assessment.— (1) The production of an assessment order
+or a certified copy of an assessment order shall be conclusive evidence of the due
+making of the assessment and, except in proceedings under Part III of this Chapter
+relating to the assessment, that the amount and all particulars of the assessment
+are correct.
+(2) Any 2[order] of assessment or other document purporting to be made,
+issued, or executed under this Ordinance may not be –
+(a) quashed or deemed to be void or voidable for want of form; or
+(b) affected by reason of any mistake, defect, or omission therein,
+if it is, in substance and effect, in conformity with this Ordinance and the person
+assessed, or intended to be assessed or affected by the document, is designated
+in it according to common understanding.
+Inserted by the Finance Act, 2002.
+The word “notice” substituted by the Finance Act, 2003.

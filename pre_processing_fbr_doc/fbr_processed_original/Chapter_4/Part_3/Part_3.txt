@@ -1,0 +1,169 @@
+PART III
+ASSETS
+75. Disposal and acquisition of assets.—(1) A person who holds an asset shall
+be treated as having made a disposal of the asset at the time the person parts with
+the ownership of the asset, including when the asset is —
+(a) sold, exchanged, transferred or distributed; or
+(b) cancelled, redeemed, relinquished, destroyed, lost, expired or
+surrendered.
+(2) The transmission of an asset by succession or under a will shall be
+treated as a disposal of the asset by the deceased at the time asset is transmitted.
+(3) The application of a business asset to personal use shall be treated as a
+disposal of the asset by the owner of the asset at the time the asset is so applied.
+3[(3A) Where a business asset is discarded or ceases to be used in
+business, it shall be treated to have been disposed of.]
+(4) A disposal shall include the disposal of a part of an asset.
+(5) A person shall be treated as having acquired an asset at the time the
+person begins to own the asset, including at the time the person is granted any right.
+The words “Central Board of Revenue” substituted by the Finance Act, 2007.
+The words “Central Board of Revenue” substituted by the Finance Act, 2007.
+Inserted by the Finance Act, 2003.
+(6) The application of a personal asset to business use shall be treated
+as an acquisition of the asset by the owner at the time the asset is so applied.
+(7) In this section, -
+“business asset” means an asset held wholly or partly for use in a
+business, including stock-in-trade and a depreciable asset; and
+“personal asset” means an asset held wholly for personal use.
+1[75A. Purchase of assets through banking channel 2[or digital means].- (1)
+Notwithstanding anything contained in any other law, for the time being in force,
+no person shall purchase-
+(a) immovable property having fair market value greater than five million
+Rupees; or
+(b) any other asset having fair market value more than one million Rupees,
+otherwise than by a crossed cheque drawn on a bank or through crossed
+demand draft or crossed pay order or any other crossed banking
+instrument 3[or through digital means] showing transfer of amount from
+one bank account to another bank account.
+(2) For the purposes of this section in case of immovable property, fair
+market value means value notified by the Board under sub-section (4) of section
+68 or value fixed by the provincial authority for the purposes of stamp duty,
+whichever is higher.
+(3) In case the transaction is not undertaken in the manner specified in
+sub-section (1), -
+(a) such asset shall not be eligible for any allowance under sections 22, 23,
+24 and 25 of this Ordinance; and
+(b) such amount shall not be treated as cost in terms of section 76 of this
+Ordinance for computation of any gain on sale of such asset.]
+76. Cost.—(1) Except as otherwise provided in this Ordinance, this section shall
+establish the cost of an asset for the purposes of this Ordinance.
+(2) Subject to sub-section (3), the cost of an asset purchased by a person
+shall be the sum of the following amounts, namely:—
+New section 75A inserted by the Finance Act, 2019.
+Words inserted by the Finance Act, 2025.
+Words inserted by the Finance Act, 2025.
+(a) The total consideration given by the person for the asset,
+including the fair market value of any consideration in kind
+determined at the time the asset is acquired;
+(b) any incidental expenditure incurred by the person in acquiring
+and disposing of the asset; and
+(c) any expenditure incurred by the person to alter or improve the
+asset,
+but shall not include any expenditure under clauses (b) and (c) that has been fully
+allowed as a deduction under this Ordinance.
+(3) The cost of an asset treated as acquired under sub-section (6) of
+section 75 shall be the fair market value of the asset determined at the date it is
+applied to business use.
+(4) The cost of an asset produced or constructed by a person shall be the
+total costs incurred by the person in producing or constructing the asset plus any
+expenditure referred to 1[in] clauses (b) and (c) of sub-section (2) incurred by the
+person.
+(5) Where an asset has been acquired by a person with a loan denominated
+in a foreign currency and, before full and final repayment of the loan, there is an
+increase or decrease in the liability of the person under the loan as expressed in
+Rupees, the amount by which the liability is increased or reduced shall be added to or
+deducted from the cost of the asset, as the case may be.
+2[Explanation.-Difference, if any, on account of foreign currency fluctuation,
+shall be taken into account in the year of occurrence for the purposes of
+depreciation.]
+(6) In determining whether the liability of a person has increased or
+decreased for the purposes of sub-section (5), account shall be taken of the
+person’s position under any hedging agreement relating to the loan.
+(7) Where a part of an asset is disposed of by a person, the cost of the
+asset shall be apportioned between the part of the asset retained and the part
+disposed of in accordance with their respective fair market values determined at
+the time the person acquired the asset.
+(8) Where the acquisition of an asset by a person is the derivation of an
+amount chargeable to tax, the cost of the asset shall be the amount so charged
+plus any amount paid by the person for the asset.
+Inserted by the Finance Act, 2003.
+Added by the Finance Act, 2009.
+(9) Where the acquisition of an asset by a person is the derivation of an
+amount exempt from tax, the cost of the asset shall be the exempt amount plus
+any amount paid by the person for the asset.
+(10) The cost of an asset does not include the amount of any grant,
+subsidy, rebate, commission or any other assistance (other than a loan repayable
+with or without profit) received or receivable by a person in respect of the
+acquisition of the asset, except to the extent to which the amount is chargeable to
+tax under this Ordinance.
+1[(11) Notwithstanding anything contained in this section, the Board may
+prescribe rules for determination of cost for any asset.]
+77. Consideration received.—(1) The consideration received by a person on
+disposal of an asset shall be the total amount received by the person for the asset
+2[or the fair market value thereof, whichever is the higher], including the fair market
+value of any consideration received in kind determined at the time of disposal.
+(2) Where an asset has been lost or destroyed by a person, the
+consideration received for the asset shall include any compensation, indemnity or
+damages received by the person under —
+(a) an insurance policy, indemnity or other agreement;
+(b) a settlement; or
+(c) a judicial decision.
+(3) The consideration received for an asset treated as disposed of under
+sub-section (3) 3[or (3A)] of section 75 shall be the fair market value of the asset
+determined at the time it is applied to personal use 4[or discarded or ceased to be
+used in business, as the case may be].
+(4) The consideration received by a scheduled bank, financial institution,
+modaraba, or leasing company approved by the Commissioner (hereinafter
+referred to as a “leasing company”) in respect of an asset leased by the company
+to another person shall be the residual value received by the leasing company on
+maturity of the lease agreement subject to the condition that the residual value
+plus the amount realized during the term of the lease towards the cost of the asset
+is not less than the original cost of the asset.
+(5) Where two or more assets are disposed of by a person in a single
+transaction and the consideration received for each asset is not specified, the total
+Added by the Finance Act, 2012.
+Inserted by the Finance Act, 2003.
+Inserted by the Finance Act, 2003.
+Inserted by the Finance Act, 2003.
+consideration received by the person shall be apportioned among the assets
+disposed of in proportion to their respective fair market values determined at the
+time of the transaction.
+1[(6) Notwithstanding anything contained in this section, the Board may
+prescribe rules for determination of consideration received for any asset.]
+78. Non-arm’s length transactions.— Where an asset is disposed of in a non-
+arm’s length transaction —
+(a) the person disposing of the asset shall be treated as having received
+consideration equal to the fair market value of the asset determined at
+the time the asset is disposed; and
+(b) the person acquiring the asset shall be treated as having a cost equal
+to the amount determined under clause (a).
+79. Non-recognition rules.— (1) For the purposes of this Ordinance and
+subject to sub-section (2), no gain or loss shall be taken to arise on the disposal of
+an asset –
+(a) between spouses under an agreement to live apart;
+(b) by reason of the transmission of the asset to an executor or beneficiary
+on the death of a person;
+(c) by reason of a gift of the asset 2[to a relative, as defined in sub-section
+(5) of section 85];
+(d) by reason of the compulsory acquisition of the asset under any law
+where the consideration received for the disposal is reinvested by the
+recipient in an asset of a like kind within one year of the disposal;
+(e) by a company to its shareholders on liquidation of the company; or
+(f) by an association of persons to its members on dissolution of the
+association where the assets are distributed to members in accordance
+with their interests in the capital of the association.
+(2) Sub-section (1) shall not apply where the person acquiring the asset
+is a non-resident person at the time of the acquisition 3[in respect of disposal of an
+asset as mentioned in clauses (d), (e) and (f) of sub-section (1)].
+(3) Where clause (a), (b), (c), (e) or (f) of sub-section (1) applies, the
+person acquiring the asset shall be treated as —
+(a) acquiring an asset of the same character as the person
+disposing of the asset; and
+Added by the Finance Act, 2012.
+Inserted by the Finance Act, 2018.
+3 Inserted by the Finance Act, 2021.
+(b) acquiring the asset for a cost equal to the cost of the asset for
+the person disposing of the asset at the time of the disposal.
+(4) The person’s cost of a replacement asset referred to in clause (d) of
+sub-section (1) shall be the cost of the asset disposed of plus the amount by which
+any consideration given by the person for the replacement asset exceeds the
+consideration received by the person for the asset disposed of.

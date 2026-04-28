@@ -1,0 +1,144 @@
+Division IV
+Tax Accounting
+32. Method of accounting.—1[(1) Subject to this Ordinance, a person’s income
+chargeable to tax shall be computed in accordance with the method of accounting
+regularly employed by such person.]
+(2) Subject to sub-section (3), a company shall account for income
+chargeable to tax under the head “Income from Business” on an accrual basis,
+while other persons may account for such income on a cash or accrual basis.
+(3) The 2[Board] may prescribe that any class of persons shall account
+for income chargeable to tax under the head “Income from Business” on a cash or
+accrual basis.
+(4) A person may apply, in writing, for a change in the person’s method
+of accounting and the Commissioner may, by 3[order] in writing, approve such an
+application but only if satisfied that the change is necessary to clearly reflect the
+person’s income chargeable to tax under the head “Income from Business”.
+(5) If a person’s method of accounting has changed, the person shall
+make adjustments to items of income, deduction, or credit, or to any other items
+affected by the change so that no item is omitted and no item is taken into account
+more than once.
+33. Cash-basis accounting.—A person accounting for income chargeable to
+tax under the head “Income from Business” on a cash basis shall derive income
+when it is received and shall incur expenditure when it is paid.
+34. Accrual-basis accounting.—(1) A person accounting for income
+chargeable to tax under the head “Income from Business” on an accrual basis shall
+derive income when it is due to the person and shall incur expenditure when it is
+payable by the person.
+(2) Subject to this Ordinance, an amount shall be due to a person when
+the person becomes entitled to receive it even if the time for discharge of the
+entitlement is postponed or the amount is payable by instalments.
+Sub-section (1) substituted by the Finance Act, 2003. The substituted sub-section (1) read as follows:
+“(1) A person’s income chargeable to tax under the head “Income from Business” shall be
+computed in accordance with the method of accounting regularly employed by the person.”
+The words “Central Board of Revenue” substituted by the Finance Act, 2007.
+Substituted for the word “notice” by the Finance Act, 2003.
+(3) Subject to this Ordinance, an amount shall be payable by a person
+when all the events that determine liability have occurred and the amount of the
+liability can be determined with reasonable accuracy 1[ ].
+2[ ]
+(5) Where a person has been allowed a deduction for any expenditure
+incurred in deriving income chargeable to tax under the head “Income from
+Business” and the person has not paid the liability or a part of the liability to which
+the deduction relates within three years of the end of the tax year in which the
+deduction was allowed, the unpaid amount of the liability shall be chargeable to
+tax under the head “Income from Business” in the first tax year following the end
+of the three years.
+3[(5A) Where a person has been allowed a deduction in respect of a trading
+liability and such person has derived any benefit in respect of such trading liability,
+the value of such benefit shall be chargeable to tax under 4[the] head “Income from
+Business” for the tax year in which such benefit is received.]
+(6) Where an unpaid liability is chargeable to tax as a result of the
+application of sub-section (5) and the person subsequently pays the liability or a
+part of the liability, the person shall be allowed a deduction for the amount paid in
+the tax year in which the payment is made.
+35. Stock-in-trade.— (1) For the purposes of determining a person’s income
+chargeable to tax under the head “Income from Business” for a tax year, the cost
+of stock-in-trade disposed of by the person in the year shall be computed in
+accordance with the following formula, namely:—
+(A + B) – C
+where —
+A is the opening value of the person’s stock-in-trade for the year;
+B is cost of stock-in-trade acquired by the person in the year; and
+The comma and words “, but not before economic performance occurs” omitted by the Finance Act, 2004.
+Sub-section (4) omitted by the Finance Act, 2004. The omitted sub-section (4) read as follows:
+“(4) For the purposes of sub-section (3), economic performance shall occur -
+(a) in the case of the acquisition of services or assets, at the time the services or
+assets are provided;
+(b) in the case of the use of assets, at the time the assets are used; and
+(c) in any other case, at the time payment is made in full satisfaction of the
+liability.”
+Inserted by the Finance Act, 2003.
+Inserted by the Finance Act, 2005.
+C is the closing value of stock-in-trade for the year.
+(2) The opening value of stock-in-trade of a person for a tax year shall be —
+(a) the closing value of the person’s stock-in-trade at the end of the
+previous year; or
+(b) where the person commenced to carry on business in the year,
+the fair market value of any stock-in-trade acquired by the
+person prior to the commencement of the business.
+(3) The fair market value of stock-in-trade referred to in clause (b) of sub-
+section (2) shall be determined at the time the stock-in-trade is ventured in the
+business.
+(4) The closing value of a person’s stock-in-trade for a tax year shall be
+the lower of cost or 1[net realisable]value of the person’s stock-in-trade on hand at
+the end of the year.
+(5) A person accounting for income chargeable to tax under the head
+“Income from Business” on a cash basis may compute the person’s cost of stock-
+in-trade on the prime-cost method or absorption-cost method, and a person
+accounting for such income on an accrual basis shall compute the person’s cost
+of stock-in-trade on the absorption-cost method.
+(6) Where particular items of stock-in-trade are not readily identifiable, a
+person may account for that stock on the first-in-first-out method or the average-
+cost method but, once chosen, a stock valuation method may be changed only
+with the written permission of the Commissioner and in accordance with any
+conditions that the Commissioner may impose.
+(7) In this section, —
+“absorption-cost method” means the generally accepted accounting
+principle under which the cost of an item of stock-in-trade is the sum
+of direct material costs, direct labour costs, and factory overhead
+costs;
+“average-cost method” means the generally accepted accounting
+principle under which the valuation of stock-in-trade is based on a
+weighted average cost of units on hand;
+“direct labour costs” means labour costs directly related to the
+manufacture or production of stock-in-trade;
+Substituted for the words “fair market” by the Finance Act, 2002
+“direct material costs” means the cost of materials that become an
+integral part of the stock-in-trade manufactured or produced, or which
+are consumed in the manufacturing or production process;
+“factory overhead costs” means the total costs of manufacturing or
+producing stock-in-trade, other than direct labour and direct material
+costs;
+“first-in-first-out method” means the generally accepted accounting
+principle under which the valuation of stock-in-trade is based on the
+assumption that stock is sold in the order of its acquisition;
+“prime-cost method” means the generally accepted accounting
+principle under which the cost of stock-in-trade is the sum of direct
+material costs, direct labour costs, and variable factory overhead
+costs;
+“stock-in-trade” means anything produced, manufactured, purchased,
+or otherwise acquired for manufacture, sale or exchange, and any
+materials or supplies to be consumed in the production or
+manufacturing process, but does not include stocks or shares; and
+“variable factory overhead costs” means those factory overhead costs
+which vary directly with changes in volume of stock-in-trade
+manufactured or produced.
+36. Long-term contracts.— (1) A person accounting for income chargeable to
+tax under the head “Income from Business” on an accrual basis shall compute
+such income arising for a tax year under a long-term contract on the basis of the
+percentage of completion method.
+(2) The percentage of completion of a long-term contract in a tax year
+shall be determined by comparing the total costs allocated to the contract and
+incurred before the end of the year with the estimated total contract costs as
+determined at the commencement of the contract.
+(3) In this section, —
+“long-term contract” means a contract for manufacture, installation, or
+construction, or, in relation to each, the performance of related
+services, which is not completed within the tax year in which work
+under the contract commenced, other than a contract estimated to be
+completed within six months of the date on which work under the
+contract commenced; and
+“percentage of completion method” means the generally accepted
+accounting principle under which revenue and expenses arising under
+a long-term contract are recognised by reference to the stage of
+completion of the contract, as modified by sub-section (2).
