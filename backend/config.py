@@ -2,6 +2,21 @@ from pydantic_settings import BaseSettings
 from functools import lru_cache
 
 
+class CORSSettings(BaseSettings):
+    allowed_origins: str = "http://localhost:5173,http://localhost:3000,http://127.0.0.1:5173"
+
+    model_config = {
+        "env_prefix": "CORS_",
+        "env_file": ".env",
+        "extra": "ignore",
+    }
+
+
+@lru_cache
+def get_cors_settings() -> CORSSettings:
+    return CORSSettings()
+
+
 class BackendSettings(BaseSettings):
     # ── Pipeline behaviour ──────────────────────────────────────────────────────
     max_clarification_turns: int = 5

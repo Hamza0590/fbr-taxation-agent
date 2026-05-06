@@ -163,6 +163,23 @@ def build_retrieval_query(data: "TaxpayerData") -> str:
         if wt_parts:
             lines.append(f"\nWithholding Taxes Paid:\n- {chr(10)+'- '.join(wt_parts)}")
 
+    # ── Taxpayer-type specific retrieval hints ────────────────────────────────
+    taxpayer_type_val = str(data.taxpayer_type).lower() if data.taxpayer_type else "individual"
+    if "aop" in taxpayer_type_val:
+        lines.append(
+            "\nAOP (Association of Persons) taxpayer — must retrieve: "
+            "AOP Association of Persons Section 92 Section 93 Section 94 "
+            "minimum tax Section 113 AOP turnover threshold PKR 100M "
+            "Division I Non-Salaried AOP Slabs First Schedule."
+        )
+    elif "company" in taxpayer_type_val:
+        lines.append(
+            "\nCompany taxpayer — must retrieve: "
+            "company corporate tax Section 113 Fourth Schedule "
+            "corporate rate 29 percent small company 20 percent "
+            "paid-up capital turnover threshold super tax Section 4C."
+        )
+
     # ── Closing instruction ───────────────────────────────────────────────────
     heads_str = ", ".join(income_heads) if income_heads else "general income"
     lines.append(

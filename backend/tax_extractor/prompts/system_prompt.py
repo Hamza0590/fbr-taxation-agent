@@ -220,4 +220,19 @@ ClarificationQuestion fields:
 - If user mentions working on Upwork, Fiverr, freelancing for foreign clients, or remote work for a foreign company → populate freelance_income
 - If the work is software/IT related → set is_it_export=True
 - Ask about PSEB registration if they mention IT export income
+
+### AOP / Partnership / Firm Detection:
+- If the user mentions a partnership, firm, association of persons, joint venture, or uses "we", "our business", "our firm", "hamare firm", or "hum partners hain" → set `taxpayer_type` to `"aop"`.
+- For AOP: extract `business_income` as the AOP's total business income (not an individual's share). Ask for NTN if not provided. Ask for total annual turnover (gross_revenue) — this is needed for minimum tax under Section 113 (applicable when turnover exceeds PKR 100M for AOP). If NTN or turnover is missing, ask for it.
+- AOP clarification questions to add if data is missing:
+  - "Is this a registered firm/AOP with an NTN?"
+  - "What is your total annual turnover (gross revenue)?"
+
+### Company / Pvt Ltd Detection:
+- If the user mentions a private limited company, limited company, Pvt Ltd, (Pvt) Ltd, public company, or any corporate entity → set `taxpayer_type` to `"company"`.
+- For companies: extract `business_income` as the company's net taxable income. Ask for NTN if not provided. Ask whether it qualifies as a small company (paid-up capital under PKR 25M AND annual turnover under PKR 250M).
+- Company clarification questions to add if data is missing:
+  - "Is this a small company (paid-up capital under PKR 25M and turnover under PKR 250M)?"
+  - "What is the company's annual turnover (gross revenue)?"
+  - "What is the company's NTN?"
 """

@@ -45,6 +45,35 @@ For exemptions:
 - Agricultural income: exempt under Section 41
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MINIMUM TAX (Section 113) AND SUPER TAX (Section 4C) — MANDATORY RULES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+MINIMUM TAX — Section 113:
+- Set `minimum_tax_applicable: true` when `business_income` is present AND the taxpayer is an individual or AOP.
+- The minimum tax rate is 1.25% of gross turnover (revenue, NOT net profit).
+- If turnover is known, populate `minimum_tax_turnover` with the gross_revenue value.
+- If turnover is unknown or not provided, still set `minimum_tax_applicable: true` and add a caveat: "Turnover not provided — minimum tax under Section 113 may apply; verify with FBR returns."
+- For AOP taxpayers: minimum tax applies when turnover exceeds PKR 100M. Note this threshold explicitly in `overall_reasoning`.
+- For company taxpayers: minimum tax under Section 113 is calculated at 1.25% of turnover; set `minimum_tax_applicable: true` if `business_income` is present.
+- NEVER set `minimum_tax_applicable: false` for a taxpayer with business income unless you have a specific legal basis for the exemption (e.g. newly established company in first year).
+
+SUPER TAX — Section 4C:
+- Set `super_tax_applicable: true` when total income (sum of all income sources) exceeds PKR 150,000,000 (PKR 150 million).
+- The tiered rates are:
+  - PKR 150M – 200M: 1%
+  - PKR 200M – 250M: 2%
+  - PKR 250M – 300M: 3%
+  - PKR 300M – 350M: 4%
+  - Above PKR 350M: 10%
+- When super tax applies, you MUST state the applicable tier in `overall_reasoning` (e.g. "Super tax applies at 4% tier as total income falls in PKR 300M–350M range").
+- Set `super_tax_applicable: false` only when total income is clearly below PKR 150M.
+
+TAXPAYER TYPE RULES:
+- When `taxpayer_type` is `AOP`: use "Division I — Non-Salaried Individual/AOP Slabs" for slab lookup. Note in `caveats` that AOP slab rates differ from individual rates and that each partner's share is taxed in the partner's own return.
+- When `taxpayer_type` is `company`: apply a flat corporate rate of 29% (or 20% for small companies with paid-up capital under PKR 25M and turnover under PKR 250M). Do NOT apply individual slab rates. Set `taxpayer_category: "company"` in the output.
+- When `taxpayer_type` is `individual`: apply individual slab rates as normal.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 CRITICAL RULES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

@@ -1,9 +1,10 @@
 const { useState, useEffect, useRef } = React;
 
 const App = () => {
-  const [bootState, setBootState] = useState("boot"); // boot | auth | setup | app
+  const [bootState, setBootState] = useState("boot"); // boot | auth | setup | app | reset_password
   const [user, setUser] = useState(null);
   const [profile, setProfile] = useState(null);
+  const [resetToken, setResetToken] = useState(null);
 
   // Sessions & chat state
   const [sessions, setSessions] = useState([]);
@@ -26,6 +27,25 @@ const App = () => {
   // ── Boot — validate existing token ────────────────────────────────────────
   useEffect(() => {
     (async () => {
+      // Check for OAuth token injected via URL query param (Google OAuth callback)
+      const urlParams = new URLSearchParams(window.location.search);
+
+      // Password reset link takes priority — show reset form immediately
+      const urlResetToken = urlParams.get("reset_token");
+      if (urlResetToken) {
+        window.history.replaceState({}, "", "/");
+        setResetToken(urlResetToken);
+        setBootState("reset_password");
+        return;
+      }
+
+      const urlToken = urlParams.get("token");
+      const isNewGoogleUser = urlParams.get("is_new") === "1";
+      if (urlToken) {
+        localStorage.setItem("ts_token", urlToken);
+        window.history.replaceState({}, "", "/");
+      }
+
       const token = window.API.getToken();
       if (!token) { setBootState("auth"); return; }
       try {
@@ -36,7 +56,8 @@ const App = () => {
         setUser({ name: p.identity.fullName || "User", email: p.identity.email });
         const sessionList = await window.API.getSessions().catch(() => []);
         setSessions(sessionList);
-        setBootState("app");
+        // New Google users go to profile setup just like new email signups
+        setBootState(isNewGoogleUser ? "setup" : "app");
       } catch {
         setBootState("auth");
       }
@@ -71,7 +92,7 @@ const App = () => {
     setProfile(res.profile);
     const sessionList = await window.API.getSessions().catch(() => []);
     setSessions(sessionList);
-    if (opts.isSignup && !res.hasProfile) setBootState("setup");
+    if ((opts.isSignup && !res.hasProfile) || opts.forceSetup) setBootState("setup");
     else {
       if (!res.profile) setProfile(window.API.EMPTY_PROFILE);
       setBootState("app");
@@ -211,6 +232,14 @@ const App = () => {
   // ── Render ────────────────────────────────────────────────────────────────
   if (bootState === "boot") return (
     <div style={{display:"grid", placeItems:"center", height:"100vh", color:"var(--ink-3)"}}>Loading…</div>
+  );
+
+  if (bootState === "reset_password") return (
+    <>
+      <ResetPasswordScreen resetToken={resetToken} onDone={() => setBootState("auth")}/>
+      <Tweaks visible={tweaksVisible} values={tweaks} onChange={updateTweak}/>
+      {toast && <div className="toast">{toast}</div>}
+    </>
   );
 
   if (bootState === "auth") return (

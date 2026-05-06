@@ -62,7 +62,37 @@ const Workspace = ({ user, profile, messages, onSendMessage, streaming, streamLa
   const [useProfile, setUseProfile] = React.useState(true);
   const [structuredOpen, setStructuredOpen] = React.useState(false);
   const [structured, setStructured] = React.useState(null);
+  const [voiceActive, setVoiceActive] = React.useState(false);
   const messagesEndRef = React.useRef(null);
+  const recognitionRef = React.useRef(null);
+
+  const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+  const speechSupported = !!SpeechRecognition;
+
+  const toggleVoice = () => {
+    if (voiceActive) {
+      recognitionRef.current && recognitionRef.current.stop();
+      setVoiceActive(false);
+      return;
+    }
+    const recognition = new SpeechRecognition();
+    recognition.lang = "en-US";
+    recognition.interimResults = false;
+    recognition.maxAlternatives = 1;
+    recognition.onresult = (e) => {
+      const transcript = e.results[0][0].transcript;
+      setPrompt(transcript);
+      setVoiceActive(false);
+    };
+    recognition.onerror = (e) => {
+      console.error("SpeechRecognition error:", e.error);
+      setVoiceActive(false);
+    };
+    recognition.onend = () => setVoiceActive(false);
+    recognitionRef.current = recognition;
+    recognition.start();
+    setVoiceActive(true);
+  };
 
   React.useEffect(() => {
     if (messagesEndRef.current) {
@@ -188,6 +218,16 @@ const Workspace = ({ user, profile, messages, onSendMessage, streaming, streamLa
               {structured && (
                 <button className="tool-btn" onClick={() => setStructured(null)} style={{padding:"6px 8px"}}>
                   <Icon name="x" size={12}/>
+                </button>
+              )}
+              {speechSupported && (
+                <button
+                  className={`tool-btn${voiceActive ? " voice-active" : ""}`}
+                  onClick={toggleVoice}
+                  title={voiceActive ? "Stop recording" : "Speak your question"}
+                  disabled={streaming}
+                >
+                  <Icon name="mic" size={14}/>
                 </button>
               )}
               <button className="send-btn" onClick={() => submit()} disabled={!prompt.trim() || streaming}>

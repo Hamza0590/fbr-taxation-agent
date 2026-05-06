@@ -26,7 +26,7 @@
 | LLMs | Groq API (llama-3.1-8b-instant, gpt-oss-20b/120b via OpenRouter) |
 | Database | Supabase (PostgreSQL) |
 | Frontend | Vanilla React 18 via Babel standalone (no build step) |
-| Auth | JWT (python-jose) + bcrypt |
+| Auth | JWT (python-jose) + bcrypt + Google OAuth 2.0 |
 | Document retrieval | Custom tree-index over FBR markdown (~250k chars) |
 
 ---
@@ -36,21 +36,23 @@
 ```
 Tax_Sathi/
 ├── .env                                          # All credentials + LLM config (see Section 4)
+├── .env.example                                  # Template — copy to .env and fill values
+├── .gitignore                                    # Excludes .env, __pycache__, *.pyc, .pytest_cache/
 ├── PROJECT_CONTEXT.md                            # This file
-├── supabase_schema.sql                           # DB schema reference
+├── supabase_schema.sql                           # DB schema + migration ALTER TABLE statements
 │
 ├── backend-prompts/                              # Engineering reference prompts (used to build modules)
 │   └── *.md
 │
 ├── backend/
 │   ├── main.py                                   # FastAPI app factory + all router mounts
-│   ├── config.py                                 # BackendSettings: max_clarification_turns + pipeline node LLM config
+│   ├── config.py                                 # BackendSettings (PIPELINE_ prefix) + CORSSettings (CORS_ prefix)
 │   ├── database.py                               # Supabase client singleton
 │   ├── requirements.txt
 │   │
 │   ├── auth/
-│   │   ├── router.py                             # POST /signup, /login, GET /me
-│   │   ├── models.py                             # SignupRequest, LoginRequest, AuthResponse, TokenData
+│   │   ├── router.py                             # POST /signup, /login, /cnic-login, GET /me, /google/login, /google/callback
+│   │   ├── models.py                             # SignupRequest, LoginRequest, CNICLoginRequest, AuthResponse, TokenData
 │   │   └── utils.py                              # bcrypt hashing, JWT create/validate, get_current_user dependency
 │   │
 │   ├── profile/
@@ -87,7 +89,7 @@ Tax_Sathi/
 │   │   ├── extractor.py                          # extract_tax_data(message, history) → ExtractionResponse
 │   │   ├── config.py                             # TAX_EXTRACTOR_* env vars
 │   │   ├── router.py                             # POST /api/v1/tax-extractor (debug standalone)
-│   │   ├── prompts/system_prompt.py              # LLM system prompt for extraction
+│   │   ├── prompts/system_prompt.py              # LLM system prompt — includes AOP/company detection rules
 │   │   └── models/
 │   │       ├── taxpayer.py                       # TaxpayerData (identity + all income sources)
 │   │       ├── income.py                         # SalaryIncome, BusinessIncome, RentalIncome, etc.
@@ -103,18 +105,18 @@ Tax_Sathi/
 │   │   ├── models.py                             # RetrievedSection, RetrievalResult
 │   │   ├── tree_index.py                         # Load & query hierarchical FBR document tree (JSON)
 │   │   ├── content_fetcher.py                    # Fetch markdown content by line range
-│   │   ├── query_builder.py                      # build_retrieval_query(TaxpayerData) → str
-│   │   └── prompts/tree_reasoning.py             # TREE_REASONING_PROMPT + CROSS_REF_PROMPT
+│   │   ├── query_builder.py                      # build_retrieval_query(TaxpayerData) → str (AOP/company aware)
+│   │   └── prompts/tree_reasoning.py             # TREE_REASONING_PROMPT — includes AOP/company node rules
 │   │
 │   ├── tax_interpreter/                          # Module 3: LLM classifies income/deductions/credits
 │   │   ├── interpreter.py                        # interpret_tax_situation(data, retrieval) → TaxComputationPlan
 │   │   ├── config.py                             # TAX_INTERPRETER_* env vars
 │   │   ├── router.py                             # POST /api/v1/tax-interpreter (debug standalone)
 │   │   ├── models.py                             # TaxComputationPlan, IncomeClassification, etc.
-│   │   └── prompts/system_prompt.py              # LLM system prompt for legal interpretation
+│   │   └── prompts/system_prompt.py              # LLM prompt — explicit minimum tax + super tax + AOP/company rules
 │   │
 │   ├── tax_calculator/                           # Module 4: Pure arithmetic, zero LLM calls
-│   │   ├── calculator.py                         # calculate_tax(plan) → TaxCalculationResult
+│   │   ├── calculator.py                         # calculate_tax(plan) → TaxCalculationResult (+ min/super tax safeguards)
 │   │   ├── router.py                             # POST /api/v1/tax-calculator (debug standalone)
 │   │   └── models.py                             # TaxCalculationResult, IncomeHeadBreakdown, etc.
 │   │
@@ -136,16 +138,16 @@ Tax_Sathi/
 │       ├── app.jsx                               # ★ Root: boot → auth → setup → app state machine
 │       ├── api.jsx                               # ★ All backend API calls (window.API)
 │       ├── data.jsx                              # Static data: SUGGESTIONS, CALENDAR, FBR_CATEGORIES
-│       ├── auth.jsx                              # AuthScreen (login/signup with sliding pill tab)
+│       ├── auth.jsx                              # AuthScreen (login/signup + Google OAuth + CNIC mini-form)
 │       ├── setup.jsx                             # ProfileSetup (4-step wizard after signup)
-│       ├── workspace.jsx                         # Main chat UI: message bubbles + prompt input
+│       ├── workspace.jsx                         # Main chat UI: message bubbles + prompt input + mic button
 │       ├── sidebar.jsx                           # Session list, nav items, user footer
-│       ├── output.jsx                            # ★ CanvasView: all 5 pipeline trace sections
+│       ├── output.jsx                            # ★ CanvasView: all 5 pipeline trace sections + clipboard copy
 │       ├── trace.jsx                             # TraceDrawer: backend trace side panel
 │       ├── structured.jsx                        # StructuredModal: structured income/deduction entry
 │       ├── calendar.jsx                          # TaxCalendarModal
 │       ├── profile.jsx                           # ProfileModal (identity + income + deductions)
-│       ├── icons.jsx                             # All SVG icons (Icon component)
+│       ├── icons.jsx                             # All SVG icons (Icon component) — includes eye, eyeOff, mic
 │       └── tweaks.jsx                            # TweaksPanel: theme/layout/density controls
 │
 └── pre_processing_fbr_doc/
@@ -213,9 +215,21 @@ PIPELINE_GENERAL_LLM_MAX_TOKENS=300
 PIPELINE_FOLLOWUP_LLM_MODEL=groq/llama-3.3-70b-versatile
 PIPELINE_FOLLOWUP_LLM_TEMPERATURE=0.3
 PIPELINE_FOLLOWUP_LLM_MAX_TOKENS=800
+
+# ── Google OAuth ──────────────────────────────────────────────────────────────
+GOOGLE_CLIENT_ID=<google-oauth-client-id>
+GOOGLE_CLIENT_SECRET=<google-oauth-client-secret>
+GOOGLE_REDIRECT_URI=http://localhost:8000/api/v1/auth/google/callback
+GOOGLE_FRONTEND_REDIRECT=http://localhost:3000
+
+# ── CORS ──────────────────────────────────────────────────────────────────────
+CORS_ALLOWED_ORIGINS=http://localhost:5173,http://localhost:3000,http://127.0.0.1:5173
 ```
 
-Config classes: each module has `backend/<module>/config.py` with a `pydantic_settings.BaseSettings` subclass that reads its own env prefix. The pipeline nodes read from `backend/config.py` (`BackendSettings`, prefix `PIPELINE_`).
+Config classes:
+- Each module has `backend/<module>/config.py` with a `pydantic_settings.BaseSettings` subclass reading its own env prefix.
+- `backend/config.py` has `BackendSettings` (prefix `PIPELINE_`) and `CORSSettings` (prefix `CORS_`).
+- `backend/auth/router.py` has `GoogleOAuthSettings` (prefix `GOOGLE_`) with `@lru_cache`.
 
 ---
 
@@ -275,7 +289,7 @@ class TaxSathiState(TypedDict, total=False):
     router_reasoning: str
 
     # Tax calculation pipeline
-    taxpayer_data: dict | None          # TaxpayerData serialised
+    taxpayer_data: dict | None
     extraction_status: Literal["complete", "needs_clarification", "not_started"]
     clarification_questions: list[dict]
     clarification_turn: int
@@ -283,7 +297,7 @@ class TaxSathiState(TypedDict, total=False):
     interpretation_result: dict | None
     calculation_result: dict | None
 
-    # Canvas traces (one per stage, consumed by response_node)
+    # Canvas traces
     extraction_trace: dict | None
     retrieval_trace: dict | None
     interpretation_trace: dict | None
@@ -293,54 +307,18 @@ class TaxSathiState(TypedDict, total=False):
     retrieved_sections_for_qa: list[dict]
     qa_answer: str | None
 
-    # Output (set by terminal nodes, read by response_node)
+    # Output
     assistant_message: str
     response_stage: Literal["clarification_needed", "extraction_complete", "qa_response", "general_response"]
     turn_number: int
-
-    # Assembled final response (read by pipeline/router.py after graph.ainvoke())
     final_response: dict | None
-
     error: str | None
     current_node: str
-```
-
-### Node Responsibilities
-
-| Node | File | What it does |
-|---|---|---|
-| `router_node` | `nodes/router_node.py` | Calls LLM (fast model), writes `intent` + `router_reasoning` |
-| `extraction_node` | `nodes/extraction_node.py` | Calls `extract_tax_data()`, writes `taxpayer_data`, `extraction_status`, `extraction_trace`, `clarification_questions` |
-| `retrieval_node` | `nodes/retrieval_node.py` | Calls `retrieve_relevant_sections()`, writes `retrieval_result`, `retrieval_trace` |
-| `interpretation_node` | `nodes/interpretation_node.py` | Calls `interpret_tax_situation()`, writes `interpretation_result`, `interpretation_trace` |
-| `calculation_node` | `nodes/calculation_node.py` | Calls `calculate_tax()`, writes `calculation_result`, `calculation_trace`, `assistant_message` |
-| `fbr_qa_node` | `nodes/fbr_qa_node.py` | Uses tree-index for retrieval, calls LLM with QA prompt, writes `qa_answer`, `retrieval_trace` |
-| `followup_node` | `nodes/followup_node.py` | If clarification pending: increments turn, routes to extraction. If calc done: calls LLM with calc context |
-| `general_node` | `nodes/general_node.py` | Calls fast LLM for greeting or polite out-of-scope decline |
-| `response_node` | `nodes/response_node.py` | Assembles `PipelineResponse` from all state traces, writes to `final_response` |
-
-### Trace Builders (`backend/pipeline/helpers.py`)
-
-Three pure functions that convert domain model outputs into canvas-friendly trace objects:
-- `build_extraction_trace(ExtractionResponse) → ExtractionTrace`
-- `build_interpretation_trace(TaxComputationPlan) → InterpretationTrace`
-- `build_calculation_trace(TaxCalculationResult) → CalculationTrace`
-
-### How the Router Calls the Graph (`backend/pipeline/router.py`)
-
-```python
-initial_state = _build_initial_state(request)          # dict with all state fields initialised
-final_state   = await tax_sathi_graph.ainvoke(initial_state)
-result        = PipelineResponse.model_validate(final_state["final_response"])
-# Then: Supabase session persistence (best-effort)
-return result
 ```
 
 ---
 
 ## 6. Tax Calculation Sub-Pipeline (Stages 1–4)
-
-When intent is `tax_calculation`, the graph runs these four nodes in sequence:
 
 ### Stage 1: Extraction
 
@@ -348,54 +326,45 @@ When intent is `tax_calculation`, the graph runs these four nodes in sequence:
 extract_tax_data(user_message, conversation_history)
 → ExtractionResponse
     status: "complete" | "needs_clarification"
-    extracted_data: TaxpayerData       (if complete)
-    partial_data: TaxpayerData         (if needs_clarification — best effort so far)
+    extracted_data: TaxpayerData
+    partial_data: TaxpayerData
     questions: list[ClarificationQuestion]
-    message: str                       (conversational text to show user)
+    message: str
 ```
 
-- If `needs_clarification` AND `turn < max_clarification_turns`: graph routes to `response_node` with questions
-- If `turn >= max_clarification_turns` AND partial data exists: force-completes extraction
-- Conversation history from all prior turns is passed to the LLM so answers accumulate across turns
+Extractor prompt now includes explicit rules for detecting:
+- **AOP**: keywords "partnership", "firm", "we/our business", "hamare firm" → `taxpayer_type = "aop"`
+- **Company**: keywords "Pvt Ltd", "private limited", "limited company" → `taxpayer_type = "company"`
+- For AOP/company: asks for NTN, turnover, and (for companies) small-company status.
 
 ### Stage 2: Retrieval (2-pass LLM)
 
 ```
-retrieve_relevant_sections(taxpayer_data)
-→ RetrievalResult
-    sections: list[RetrievedSection]   (≤7 markdown sections from FBR doc)
-    reasoning: str
-    passes_used: int (1 or 2)
+retrieve_relevant_sections(taxpayer_data) → RetrievalResult
 ```
 
-Pass 1: LLM sees tree titles + query → selects node IDs  
-Pass 2: scans content for cross-referenced sections → LLM fetches any missing definitions  
-Fallback: heuristic node IDs based on which income fields are populated
+`build_retrieval_query()` now appends type-specific search terms:
+- AOP → adds `"AOP Association of Persons Section 92 Section 93 Section 94 minimum tax Section 113"`
+- Company → adds `"company corporate tax Section 113 Fourth Schedule corporate rate 29 percent small company"`
+
+Tree-reasoning prompt has explicit node-selection rules for AOP (Sections 92–94, AOP slabs) and company (Fourth Schedule, corporate rates).
 
 ### Stage 3: Interpretation
 
 ```
-interpret_tax_situation(taxpayer_data, retrieval_result)
-→ TaxComputationPlan
-    income_classifications: list[IncomeClassification]
-        # head, tax_regime (NORMAL/FINAL/SEPARATE/EXEMPT), section, schedule, reasoning
-    exemptions, deductions, tax_credits, withholding_classifications
-    minimum_tax_applicable: bool
-    super_tax_applicable: bool
-    overall_reasoning: str
-    caveats: list[str]
+interpret_tax_situation(taxpayer_data, retrieval_result) → TaxComputationPlan
 ```
+
+Prompt contains a dedicated **MINIMUM TAX AND SUPER TAX** block:
+- **Section 113 (Minimum Tax)**: set `minimum_tax_applicable=true` whenever `business_income` is present; rate = 1.25% of turnover; AOP threshold PKR 100M.
+- **Section 4C (Super Tax)**: set `super_tax_applicable=true` when total income > PKR 150M; tiered rates 1%–10%; LLM must name the applicable tier in `overall_reasoning`.
+- **Company**: flat 29% rate (20% for small companies); individual slabs must NOT be applied.
 
 ### Stage 4: Calculation (pure arithmetic, zero LLM calls)
 
-```
-calculate_tax(plan) → TaxCalculationResult
-```
-
-1. Compute tax per income source by regime
-2. Sum income, subtract deductions, re-run slab on combined NORMAL income
-3. Apply tax credits, check minimum tax & super tax
-4. Subtract adjustable withholding → net payable or refund
+After Steps 6 and 7, safeguards log warnings and append caveats if:
+- `minimum_tax_applicable=True` but `minimum_tax_amount` is 0 or None
+- `super_tax_applicable=True` but `super_tax_amount` is 0 or None
 
 ---
 
@@ -403,12 +372,10 @@ calculate_tax(plan) → TaxCalculationResult
 
 Handles questions like "What does Section 149 say?" without requiring personal income data.
 
-1. Uses user's natural language question as the retrieval query (not TaxpayerData)
-2. Runs the same tree-index LLM reasoning (Pass 1 only) to select ≤7 FBR sections
-3. Sends retrieved section content + question to LLM with `FBR_QA_SYSTEM_PROMPT`
-4. LLM answers citing specific section numbers, constrained to retrieved content only
-
-The retriever model (`RULE_RETRIEVER_LLM_MODEL`) is reused for both the tree-reasoning and the answer generation in this node.
+1. Uses user's natural language question as the retrieval query
+2. Runs tree-index LLM reasoning (Pass 1 only)
+3. Sends retrieved sections + question to LLM with `FBR_QA_SYSTEM_PROMPT`
+4. LLM answers citing specific section numbers
 
 ---
 
@@ -419,9 +386,9 @@ The retriever model (`RULE_RETRIEVER_LLM_MODEL`) is reused for both the tree-rea
 ```python
 class PipelineRequest(BaseModel):
     message: str
-    conversation_history: list[ChatMessage] | None = None  # [{role, content}]
+    conversation_history: list[ChatMessage] | None = None
     session_id: str | None = None
-    profile_context: str | None = None    # formatted profile block when "Use Profile" ON
+    profile_context: str | None = None
 ```
 
 ### Response: `PipelineResponse`
@@ -430,21 +397,19 @@ class PipelineRequest(BaseModel):
 class PipelineResponse(BaseModel):
     stage: Literal["clarification_needed", "extraction_complete"]
     assistant_message: str
-    questions: list[ClarificationQuestion] | None   # only if clarification_needed
+    questions: list[ClarificationQuestion] | None
     canvas: CanvasData
-    taxpayer_data: TaxpayerData | None              # only if extraction_complete (tax calc path)
+    taxpayer_data: TaxpayerData | None
     retrieved_sections: list[RetrievedSection] | None
     session_id: str | None
     turn_number: int
 ```
 
-> **Note:** `stage="extraction_complete"` is returned for all "final answer" responses — tax calculations, FBR Q&A, follow-ups, and general greetings. The frontend does not need to know which LangGraph path was taken.
-
 ### Canvas Data
 
 ```python
 class CanvasData(BaseModel):
-    steps: list[ProcessingStep]           # progress indicators (step name, status, summary)
+    steps: list[ProcessingStep]
     extraction: ExtractionTrace | None
     retrieval: RetrievalTrace | None
     interpretation: InterpretationTrace | None
@@ -452,19 +417,17 @@ class CanvasData(BaseModel):
     raw_taxpayer_data: dict | None
 ```
 
-Canvas shape varies by path:
-- Tax calc: all 5 sections populated
-- FBR Q&A: only steps (2) + retrieval
-- General/greeting: only steps (1)
-
 ---
 
 ## 9. All API Endpoints
 
 | Method | Path | Auth | Description |
 |---|---|---|---|
-| POST | `/api/v1/auth/signup` | — | Register → token |
-| POST | `/api/v1/auth/login` | — | Login → token |
+| POST | `/api/v1/auth/signup` | — | Register with email + password (optional CNIC) → token |
+| POST | `/api/v1/auth/login` | — | Login with email + password → token |
+| POST | `/api/v1/auth/cnic-login` | — | Login with CNIC + password → token |
+| GET | `/api/v1/auth/google/login` | — | Redirect to Google consent screen |
+| GET | `/api/v1/auth/google/callback` | — | Google sends code here → upsert user → redirect to frontend with `?token=&is_new=1` |
 | GET | `/api/v1/auth/me` | JWT | Current user from DB |
 | GET | `/api/v1/profile/` | JWT | Fetch identity profile |
 | PUT | `/api/v1/profile/` | JWT | Update profile fields |
@@ -480,7 +443,19 @@ Canvas shape varies by path:
 | POST | `/api/v1/tax-calculator` | JWT | Debug: run Module 4 standalone |
 | GET | `/health` | — | `{"status": "ok"}` |
 
-Auth flow: JWT stored in browser `localStorage` as `ts_token`, sent as `Authorization: Bearer <token>`. 7-day expiry, bcrypt passwords.
+### Auth Flow Summary
+
+**Email/Password:** JWT stored in `localStorage` as `ts_token`, sent as `Authorization: Bearer <token>`. 7-day expiry, bcrypt passwords.
+
+**Google OAuth:**
+1. Browser → `GET /api/v1/auth/google/login` → redirect to Google
+2. User approves → Google → `GET /api/v1/auth/google/callback?code=...`
+3. Backend exchanges code for access_token → fetches email+name from Google
+4. Upserts user in Supabase (`auth_provider='google'`, `password_hash=''`)
+5. Mints JWT → redirects to `{GOOGLE_FRONTEND_REDIRECT}?token={jwt}&is_new=1` (new users only get `is_new=1`)
+6. Frontend boot phase detects `?token=`, stores to `localStorage`, cleans URL, boots app or setup
+
+**CNIC Login:** `POST /api/v1/auth/cnic-login` — looks up user by `cnic` field, verifies bcrypt password, returns same `AuthResponse` shape. CNIC must match format `XXXXX-XXXXXXX-X` (validated by Pydantic `@field_validator`).
 
 ---
 
@@ -490,9 +465,11 @@ Auth flow: JWT stored in browser `localStorage` as `ts_token`, sent as `Authoriz
 -- users
 id            UUID PRIMARY KEY DEFAULT uuid_generate_v4()
 email         TEXT UNIQUE NOT NULL
-password_hash TEXT NOT NULL
+password_hash TEXT NOT NULL          -- empty string for Google OAuth users
 full_name     TEXT
-phone TEXT, cnic TEXT, ntn TEXT, city TEXT, province TEXT, tax_year TEXT
+phone TEXT, ntn TEXT, city TEXT, province TEXT, tax_year TEXT
+cnic          TEXT UNIQUE            -- optional; used for CNIC login
+auth_provider TEXT DEFAULT 'email'  -- 'email' | 'google'
 created_at    TIMESTAMPTZ DEFAULT now()
 
 -- sessions
@@ -511,6 +488,12 @@ canvas_data JSONB    -- full CanvasData JSON (for session restore)
 created_at  TIMESTAMPTZ DEFAULT now()
 ```
 
+Migration SQL (run in Supabase SQL editor for existing DBs):
+```sql
+ALTER TABLE users ADD COLUMN IF NOT EXISTS auth_provider TEXT DEFAULT 'email';
+ALTER TABLE users ADD COLUMN IF NOT EXISTS cnic TEXT UNIQUE;
+```
+
 Income data, deductions, preferences are stored in **browser `localStorage`** — not in the DB. Only identity fields are in DB.
 
 ---
@@ -519,41 +502,34 @@ Income data, deductions, preferences are stored in **browser `localStorage`** �
 
 ### No Build Step
 
-`index.html` loads React 18, Babel Standalone, and all `.jsx` files via `<script type="text/babel" src="...">`. Babel transpiles in the browser at runtime. No npm, no webpack, no Vite.
+`index.html` loads React 18, Babel Standalone, and all `.jsx` files via `<script type="text/babel" src="...?v=N">`. Babel transpiles in the browser at runtime. Cache is busted by incrementing `?v=N` in `index.html` after any JS change.
 
 ### App State Machine (`frontend/src/app.jsx`)
 
 ```
-"boot"  → Check localStorage token → GET /me
-           ├─ valid   → load sessions → "app"
-           └─ invalid → "auth"
+"boot"  → Check localStorage for ts_token
+           Also check URL ?token= param (Google OAuth callback)
+             └─ if found: store to localStorage, clean URL
+           → Check ?is_new=1 param (new Google user)
+           → GET /me
+           ├─ valid + is_new=1  → "setup"
+           ├─ valid             → load sessions → "app"
+           └─ invalid           → "auth"
 
-"auth"  → AuthScreen (login/signup with animated sliding pill tab)
-           ├─ existing user → "app"
-           └─ new user      → "setup"
+"auth"  → AuthScreen (login/signup + Google button + CNIC mini-form)
+           ├─ existing user     → "app"
+           └─ new user          → "setup"
 
 "setup" → ProfileSetup (4-step wizard: identity, income, deductions, review)
-           └─ complete → "app"
+           └─ complete          → "app"
 
 "app"   → Full workspace (Sidebar + Workspace + Canvas + Modals)
 ```
 
-### Key State in App Root
-
-```javascript
-bootState        // "boot" | "auth" | "setup" | "app"
-user             // { name, email, initials, filerStatus, ntn }
-profile          // Full profile (from localStorage + DB merge)
-sessions         // list of SessionSummary (sidebar)
-currentSessionId // active session UUID
-messages         // [{id, role, content, canvas}] — current session
-activeCanvas     // canvas object from last assistant message
-streaming        // bool — waiting for pipeline response
-streamLabel      // "Extracting tax information…" etc.
-pendingQuestions // list[ClarificationQuestion] | null
-activeNav        // "chat" | "calendar" | "profile"
-modal            // null | "profile" | "calendar"
-```
+New users are routed to "setup" from ALL auth paths:
+- Email signup → `onAuth(res, { isSignup: true })` → `!res.hasProfile` → setup
+- Google new user → `is_new=1` in URL → boot phase → setup
+- CNIC login on new device → `!loadLocal("profile_extended")` → `forceSetup: true` → setup
 
 ### Frontend API Client (`frontend/src/api.jsx`)
 
@@ -561,33 +537,54 @@ All calls go through `window.API`:
 
 ```javascript
 window.API = {
+  // Auth
   login(email, password),
   signup(email, password, name),
+  googleLogin(),           // redirects browser to /api/v1/auth/google/login
+  cnicLogin(cnic, password),
   logout(),
   getCurrentUser(),
+
+  // Profile
   getProfile(), saveProfile(profile), updateProfile(patch),
+  formatProfileContext(profile),   // → string for profile_context field
+
+  // Sessions
   getSessions(), createSession(title), getSession(id),
   deleteSession(id), updateSessionTitle(id, title),
+
+  // Chat
   sendMessage(sessionId, message, conversationHistory, profileContext),
-  formatProfileContext(profile),   // → string for profile_context field
+
+  // Utilities
   saveLocal(key, value), loadLocal(key),
+  getToken(),
   FBR_CATEGORIES, EMPTY_PROFILE,
 };
 ```
 
-### Profile Context Injection
+### Voice Input (`frontend/src/workspace.jsx`)
 
-When "Use Profile" is ON, `formatProfileContext(profile)` builds a structured text block (filer status, income types, deductions) that is sent as `profile_context`. The extractor prepends it to the user message so the LLM sees known facts without asking about them.
+- Mic button added to the prompt toolbar (hidden in browsers without `SpeechRecognition` support, e.g. Firefox).
+- Uses `window.SpeechRecognition || window.webkitSpeechRecognition`.
+- `lang = "en-US"`, `interimResults = false`, `maxAlternatives = 1`.
+- While active: button shows `.voice-active` CSS class (pulsing red indicator from `app.css`).
+- On result: transcript is set as the prompt input value.
+- On error: silently logged, UI does not crash.
 
-### Canvas Panel (`frontend/src/output.jsx`)
+### Canvas Export (`frontend/src/output.jsx`)
 
-Renders `CanvasData` as 5 stagger-animated collapsible sections on the right:
+- **Copy button** in canvas header performs real clipboard copy.
+- Serialises `CanvasData` into human-readable plain text (extraction fields, FBR sections, tax calculation summary).
+- Uses `navigator.clipboard.writeText()` with `document.execCommand('copy')` fallback for non-HTTPS.
+- Button label changes to "Copied!" for 2 seconds, then reverts. No new CSS classes.
 
-1. **01 Processing Pipeline** — step-by-step status (✓/✗/●/—) with timing
-2. **02 Tax Data Extracted** — extracted fields grid, missing fields, assumptions, confidence %
-3. **03 FBR Rules Retrieved** — `SectionCard` per section (title, relevance, expandable content)
-4. **04 Tax Rules Interpreted** — income classifications, deduction decisions, withholding treatment
-5. **05 Tax Calculation** — full breakdown table: income by head, deductions, credits, net payable/refund
+### Auth Screen (`frontend/src/auth.jsx`)
+
+- **Email/Password**: standard login + signup tabs with sliding pill indicator.
+- **Password visibility toggle**: eye/eyeOff icon button inside all password fields (main form + CNIC form). `tabIndex={-1}` to not interrupt keyboard navigation.
+- **Google button**: calls `window.API.googleLogin()` — browser redirect, no popup.
+- **CNIC / NADRA button**: toggles inline mini-form with CNIC field + password field. Client-side format validation (`XXXXX-XXXXXXX-X`) before API call. Error shown inline.
 
 ### CSS & Design System (`frontend/app.css`)
 
@@ -602,7 +599,9 @@ Renders `CanvasData` as 5 stagger-animated collapsible sections on the right:
 --line: #e4dfd3        /* borders */
 ```
 
-Dark mode: `[data-theme="dark"]` on `<html>`. Theme, density, layout are controlled by the TweaksPanel and persisted in `localStorage`.
+`.voice-active` — pulsing red ring animation used for the active mic button state.
+
+Dark mode: `[data-theme="dark"]` on `<html>`. Theme, density, layout controlled by TweaksPanel, persisted in `localStorage`.
 
 ---
 
@@ -620,14 +619,9 @@ Dark mode: `[data-theme="dark"]` on `<html>`. Theme, density, layout are control
 
 ### 2-Pass Retrieval
 
-**Pass 1:** LLM sees flattened tree (titles only) + query → responds with `{"node_ids": [...], "reasoning": "..."}`  
-**Pass 2:** Scans fetched content for cross-referenced section numbers → LLM fills any missing definitions  
+**Pass 1:** LLM sees flattened tree (titles only) + query → responds with `{"node_ids": [...], "reasoning": "..."}`
+**Pass 2:** Scans fetched content for cross-referenced section numbers → LLM fills any missing definitions
 **Fallback:** Heuristic node IDs keyed by which income fields are populated
-
-### Dual Use
-
-- **Tax calculation path:** query is built from `TaxpayerData` via `build_retrieval_query()`
-- **FBR Q&A path:** query is the user's raw natural language question (in `fbr_qa_node.py`)
 
 ---
 
@@ -645,8 +639,13 @@ Dark mode: `[data-theme="dark"]` on `<html>`. Theme, density, layout are control
 ### Income Heads
 `salary`, `business`, `property`, `capital_gains`, `other_sources`
 
+### Taxpayer Types
+- `individual` — slab-based (salary or non-salaried slabs)
+- `aop` — same slab table as non-salaried individuals; minimum tax applies when turnover > PKR 100M; partner shares taxed in partner's own return
+- `company` — flat 29% (20% for small companies: paid-up capital < PKR 25M, turnover < PKR 250M); Section 113 minimum tax applies
+
 ### Key Sections
-Sec 149 (salary withholding), Sec 155 (property withholding), Sec 113 (minimum tax), Sec 4C (super tax), Sec 61 (donations), Sec 60 (zakat), Second Schedule (exemptions), Eighth Schedule (capital gains on securities)
+Sec 12 (salary), Sec 18 (business), Sec 15 (property), Sec 37/38 (capital gains), Sec 92–94 (AOP), Sec 113 (minimum tax), Sec 4C (super tax), Sec 61 (donations), Sec 60 (zakat), Second Schedule (exemptions), Fourth Schedule (companies), Eighth Schedule (capital gains on securities)
 
 ---
 
@@ -665,11 +664,11 @@ python -m uvicorn backend.main:app --reload --host 0.0.0.0 --port 8000
 
 ```bash
 cd frontend
-python -m http.server 5173
-# Open http://localhost:5173
+python -m http.server 3000
+# Open http://localhost:3000
 ```
 
-No build step. CORS allows `localhost:5173`, `localhost:3000`, `127.0.0.1:5173`.
+No build step. CORS origins are configured via `CORS_ALLOWED_ORIGINS` in `.env`.
 
 ---
 
@@ -679,18 +678,13 @@ No build step. CORS allows `localhost:5173`, `localhost:3000`, `127.0.0.1:5173`.
 
 ```python
 async def my_node(state: TaxSathiState) -> dict:
-    # Read from state
     data = state.get("some_field")
-    # Do work
     result = await some_async_call(data)
-    # Return only the fields this node updates
     return {
         "some_output_field": result,
         "current_node": "my_node",
     }
 ```
-
-Nodes return partial state dicts; LangGraph merges them into the shared state.
 
 ### Module Config Pattern
 
@@ -723,46 +717,58 @@ raw = response.choices[0].message.content
 
 ### Pydantic v2
 
-All models use `.model_dump(mode="json")` for serialisation and `.model_validate(dict)` for deserialisation from state. Validators use `@field_validator` / `@model_validator`.
+All models use `.model_dump(mode="json")` for serialisation and `.model_validate(dict)` for deserialisation. Validators use `@field_validator` / `@model_validator`.
 
 ### Frontend JSX
 
-All components register on `window`:
 ```javascript
 window.AuthScreen = AuthScreen;
 window.Workspace  = Workspace;
-// ...
+// app.jsx reads from window — no ES module imports (no build step)
 ```
-`app.jsx` reads them from `window` — no ES module imports (no build step).
 
 ---
 
 ## 16. Key Behaviours & Edge Cases
 
-**Clarification turn limit:** After `PIPELINE_MAX_CLARIFICATION_TURNS` (default 5), the graph forces extraction from `partial_data` and continues. If no partial data, it returns a final clarification request.
+**Clarification turn limit:** After `PIPELINE_MAX_CLARIFICATION_TURNS` (default 5), forces extraction from `partial_data`.
 
-**Profile context:** `profile_context` from the request is prepended to the extraction message as a `[User Profile Context]` block. The extractor LLM treats it as known facts and avoids re-asking those questions.
+**Profile context:** `profile_context` from the request is prepended to the extraction message as a `[User Profile Context]` block.
 
-**Session persistence:** `pipeline/router.py` saves user + assistant messages to Supabase after every `/pipeline/chat` call. `canvas_data` is stored as JSONB on the assistant message row. Session title is auto-set from the first 50 chars of the first user message.
+**Session persistence:** `pipeline/router.py` saves user + assistant messages to Supabase after every `/pipeline/chat` call.
 
-**FBR Q&A vs tax calculation routing:** The router distinguishes "I earn PKR 5M salary" (→ `tax_calculation`) from "What does Section 149 say?" (→ `fbr_policy_qa`) using a fast LLM call on every request.
+**FBR Q&A vs tax calculation routing:** Router LLM distinguishes income statements from policy questions on every request.
 
-**State isolation:** No LangGraph checkpointing. Each `/pipeline/chat` call creates a completely fresh state. Conversation continuity comes from `conversation_history` in the request body (frontend passes all prior turns).
+**State isolation:** No LangGraph checkpointing. Each `/pipeline/chat` call creates a completely fresh state.
 
-**Canvas backward compatibility:** `PipelineResponse` and `CanvasData` schemas are unchanged from the pre-LangGraph version. The frontend renders identically regardless of which internal graph path was taken.
+**Google OAuth users:** `password_hash` is stored as empty string. `auth_provider='google'`. CNIC login is not available to them unless they set a CNIC+password via profile update.
 
----
+**Minimum tax safeguard:** If `minimum_tax_applicable=True` but the calculator cannot compute it (turnover missing), a warning is logged and a caveat string is appended to the result.
 
-## 17. What Is Not Done Yet / Known Gaps
-
-1. **Social auth** — Google/NADRA buttons exist but `window.API.socialAuth()` is a stub
-2. **Voice input** — mic button is wired to a no-op
-3. **Export/copy** — "Copy" button in canvas calls `onExport('copy')` but clipboard write may be a stub
-4. **CORS in production** — currently hardcoded to `localhost:5173`; needs dynamic origin config before deployment
-5. **`.env` in repo** — real credentials committed; must be rotated before any public deployment
-6. **Minimum tax & super tax edge cases** — fields exist in all models but the interpreter LLM may not always classify them correctly for complex AOP/company scenarios
-7. **AOP / Company taxpayers** — models support them but prompts and FBR retrieval are primarily optimised for individual filers
+**Super tax safeguard:** Same pattern — if `super_tax_applicable=True` but `super_tax_slabs` are absent from the rate table, a caveat is appended.
 
 ---
 
-*Last updated: 2026-04-24. Reflects the LangGraph-restructured codebase after project cleanup.*
+## 17. Implementation Status
+
+All 7 originally listed gaps have been implemented:
+
+| # | Feature | Status | Key Files |
+|---|---|---|---|
+| 1A | Google OAuth login | ✓ Done | `backend/auth/router.py`, `frontend/src/auth.jsx`, `frontend/src/app.jsx` |
+| 1B | CNIC + Password login | ✓ Done | `backend/auth/router.py`, `backend/auth/models.py`, `frontend/src/auth.jsx` |
+| 2 | Voice input (Web Speech API) | ✓ Done | `frontend/src/workspace.jsx` |
+| 3 | Export / clipboard copy | ✓ Done | `frontend/src/output.jsx` |
+| 4 | CORS for production | ✓ Done | `backend/config.py`, `backend/main.py`, `.env` |
+| 5 | `.env` security + schema file | ✓ Done | `.gitignore`, `.env.example`, `supabase_schema.sql` |
+| 6 | Minimum tax & super tax edge cases | ✓ Done | `backend/tax_interpreter/prompts/system_prompt.py`, `backend/tax_calculator/calculator.py` |
+| 7 | AOP / Company taxpayer support | ✓ Done | `backend/tax_extractor/prompts/system_prompt.py`, `backend/rule_retriever/prompts/tree_reasoning.py`, `backend/rule_retriever/query_builder.py` |
+
+Additional improvements made alongside the gaps:
+- Password visibility toggle (eye/eyeOff) on all auth form password fields
+- New Google users and CNIC users on new devices are routed to ProfileSetup before the main app
+- Browser cache busting via `?v=N` query string on all script tags in `index.html`
+
+---
+
+*Last updated: 2026-05-06. Reflects all 7 gap implementations and subsequent auth UX improvements.*

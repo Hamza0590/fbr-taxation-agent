@@ -194,6 +194,19 @@ def calculate_tax(plan: TaxComputationPlan) -> TaxCalculationResult:
             f"Rs. {min_tax_amount:,.2f}"
         )
 
+    # ── STEP 6 safeguard — minimum tax flagged but not calculated ────────────
+    if plan.minimum_tax_applicable and (min_tax_amount is None or min_tax_amount == 0):
+        logger.warning(
+            "Minimum tax flagged as applicable but could not be calculated — "
+            "turnover data may be missing (minimum_tax_turnover=%s)",
+            plan.minimum_tax_turnover,
+        )
+        # append to caveats list after build so we don't mutate plan.caveats in place
+        plan.caveats.append(
+            "Minimum tax flagged as applicable but could not be calculated — "
+            "turnover data may be missing. Verify Section 113 liability separately."
+        )
+
     # ── STEP 7: Super tax ─────────────────────────────────────────────────────
     super_tax_amount: Optional[float] = None
     if plan.super_tax_applicable and rates.super_tax_slabs is not None:
@@ -201,6 +214,17 @@ def calculate_tax(plan: TaxComputationPlan) -> TaxCalculationResult:
         super_tax_amount = super_result["total_tax"]
         notes.append(
             f"STEP 7 — Super tax (s.4C) on Rs. {total_taxable:,}: Rs. {super_tax_amount:,.2f}"
+        )
+
+    # ── STEP 7 safeguard — super tax flagged but not calculated ──────────────
+    if plan.super_tax_applicable and (super_tax_amount is None or super_tax_amount == 0):
+        logger.warning(
+            "Super tax flagged as applicable but could not be calculated — "
+            "super_tax_slabs may be missing from the rate table."
+        )
+        plan.caveats.append(
+            "Super tax (Section 4C) flagged as applicable but could not be calculated — "
+            "verify super tax liability separately."
         )
 
     # ── STEP 8: Final liability ───────────────────────────────────────────────

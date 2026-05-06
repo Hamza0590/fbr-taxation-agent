@@ -120,8 +120,49 @@ const API = (() => {
     };
   };
 
-  const socialAuth = async (provider) => {
-    throw new Error("Social auth is not yet supported. Please use email and password.");
+  const googleLogin = () => {
+    window.location.href = BASE_URL + "/api/v1/auth/google/login";
+  };
+
+  const cnicLogin = async (cnic, password) => {
+    const data = await request("/api/v1/auth/cnic-login", {
+      method: "POST",
+      body: JSON.stringify({ cnic, password }),
+    });
+    setToken(data.token);
+    const profile = await getProfile().catch(() => null);
+    return {
+      token: data.token,
+      user: { email: data.email, name: data.full_name, id: data.user_id },
+      profile,
+      hasProfile: !!profile,
+    };
+  };
+
+  const forgotPassword = async (email) => {
+    const res = await fetch(`${BASE_URL}/api/v1/auth/forgot-password`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ email }),
+    });
+    if (!res.ok) {
+      const err = await res.json().catch(() => ({}));
+      throw new Error(err.detail || "Request failed");
+    }
+    return res.json();
+  };
+
+  const resetPassword = async (token, newPassword) => {
+    const res = await fetch(`${BASE_URL}/api/v1/auth/reset-password`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ token, new_password: newPassword }),
+    });
+    if (!res.ok) {
+      const err = await res.json().catch(() => ({}));
+      throw new Error(err.detail || "Reset failed");
+    }
+    return res.json();
   };
 
   const logout = async () => {
@@ -279,7 +320,8 @@ const API = (() => {
   return {
     EMPTY_PROFILE,
     FBR_CATEGORIES,
-    login, signup, socialAuth, logout, getCurrentUser,
+    login, signup, googleLogin, cnicLogin, forgotPassword, resetPassword, logout, getCurrentUser,
+    saveLocal, loadLocal,
     getProfile, saveProfile, updateProfile,
     getSessions, createSession, getSession, deleteSession, updateSessionTitle,
     sendMessage, formatProfileContext,

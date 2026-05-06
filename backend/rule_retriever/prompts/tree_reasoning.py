@@ -39,7 +39,21 @@ Identify which sections of the ordinance are RELEVANT to this specific taxpayer'
 
 8. **For non-filers:** Select withholding tax sections as non-filers face higher withholding rates on almost everything.
 
-9. Respond with ONLY the JSON object. No markdown, no backticks, no explanation outside the JSON.
+9. **For AOP (Association of Persons) taxpayers:** You MUST prioritise nodes covering:
+   - Section 92, 93, 94 (AOP taxation rules and rates)
+   - Section 113 (minimum tax — applicable when AOP turnover exceeds PKR 100M)
+   - Division I — Non-Salaried Individual/AOP Slabs from the First Schedule
+   - Any relevant provisions on AOP registration, NTN requirements, and partner-level taxation.
+
+10. **For company taxpayers:** You MUST prioritise nodes covering:
+    - Fourth Schedule (corporate taxation rules)
+    - Corporate rate schedule (flat 29%, or 20% for small companies)
+    - Section 113 (minimum tax — 1.25% of turnover)
+    - Section 4C (super tax) if total income is large
+    - Small company definition (paid-up capital < PKR 25M, turnover < PKR 250M)
+    Do NOT select individual slab sections — corporate tax is flat-rate, not slab-based.
+
+11. Respond with ONLY the JSON object. No markdown, no backticks, no explanation outside the JSON.
 
 ## Tree Structure
 {tree_structure}

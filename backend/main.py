@@ -1,7 +1,7 @@
 import logging
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from .config import get_backend_settings
+from .config import get_backend_settings, get_cors_settings
 from .pipeline.router import router as pipeline_router
 from .tax_extractor.router import router as extractor_router
 from .rule_retriever.router import router as retriever_router
@@ -26,10 +26,12 @@ def create_app() -> FastAPI:
         debug=settings.debug,
     )
 
-    # CORS — allow Vite dev server (5173) and common local ports
+    # CORS — origins are configured via CORS_ALLOWED_ORIGINS in .env
+    cors = get_cors_settings()
+    origins = [o.strip() for o in cors.allowed_origins.split(",") if o.strip()]
     app.add_middleware(
         CORSMiddleware,
-        allow_origins=["http://localhost:5173", "http://localhost:3000", "http://127.0.0.1:5173"],
+        allow_origins=origins,
         allow_credentials=True,
         allow_methods=["*"],
         allow_headers=["*"],
