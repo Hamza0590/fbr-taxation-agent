@@ -10,6 +10,7 @@ from .tax_calculator.router import router as calculator_router
 from .auth.router import router as auth_router
 from .profile.router import router as profile_router
 from .sessions.router import router as sessions_router
+from .image_extractor.router import router as image_extractor_router
 
 
 def create_app() -> FastAPI:
@@ -50,6 +51,7 @@ def create_app() -> FastAPI:
     app.include_router(retriever_router)
     app.include_router(interpreter_router)
     app.include_router(calculator_router)
+    app.include_router(image_extractor_router)
 
     @app.get("/health")
     async def health():

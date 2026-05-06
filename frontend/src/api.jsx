@@ -257,7 +257,7 @@ const API = (() => {
   };
 
   // ─── Send message ──────────────────────────────────────────────────────────
-  const sendMessage = async (sessionId, message, conversationHistory = [], profileContext = null) => {
+  const sendMessage = async (sessionId, message, conversationHistory = [], profileContext = null, imageContext = null) => {
     return request("/api/v1/pipeline/chat", {
       method: "POST",
       body: JSON.stringify({
@@ -265,8 +265,36 @@ const API = (() => {
         message,
         conversation_history: conversationHistory,
         profile_context: profileContext || undefined,
+        ...(imageContext ? { image_context: imageContext } : {}),
       }),
     });
+  };
+
+  // ─── Image context extraction ──────────────────────────────────────────────
+  const extractImageContext = async (file) => {
+    const formData = new FormData();
+    formData.append("file", file);
+
+    const token = getToken();
+    const res = await fetch(`${BASE_URL}/api/v1/image-extractor/extract`, {
+      method: "POST",
+      headers: {
+        ...(token ? { Authorization: `Bearer ${token}` } : {}),
+        // Do NOT set Content-Type — browser sets it with boundary for multipart
+      },
+      body: formData,
+    });
+
+    if (!res.ok) {
+      const err = await res.json().catch(() => ({}));
+      throw new Error(err.detail || "Image extraction failed");
+    }
+
+    const data = await res.json();
+    if (!data.success) {
+      throw new Error(data.error || "Could not extract information from image");
+    }
+    return data.raw_text; // empty string means no financial data found
   };
 
   // ─── Format profile as context string for the extractor ────────────────────
@@ -324,7 +352,7 @@ const API = (() => {
     saveLocal, loadLocal,
     getProfile, saveProfile, updateProfile,
     getSessions, createSession, getSession, deleteSession, updateSessionTitle,
-    sendMessage, formatProfileContext,
+    sendMessage, extractImageContext, formatProfileContext,
     getCalendar,
     exportPDF, shareAnswer,
     getToken,

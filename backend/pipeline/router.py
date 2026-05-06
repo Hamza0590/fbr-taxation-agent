@@ -21,6 +21,7 @@ def _build_initial_state(request: PipelineRequest) -> dict:
         "conversation_history": history,
         "session_id": request.session_id,
         "profile_context": request.profile_context,
+        "image_context": request.image_context,
         # Router defaults (will be overwritten by router_node)
         "intent": "general_greeting",
         "router_reasoning": "",

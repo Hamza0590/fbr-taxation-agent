@@ -43,6 +43,7 @@ def _fallback_response(reason: str) -> ExtractionResponse:
 async def extract_tax_data(
     user_message: str,
     conversation_history: list[dict] | None = None,
+    image_context: str | None = None,
 ) -> ExtractionResponse:
     """
     Takes a user message (and optional conversation history for multi-turn),
@@ -56,7 +57,18 @@ async def extract_tax_data(
     if conversation_history:
         messages.extend(conversation_history)
 
-    messages.append({"role": "user", "content": user_message})
+    final_message = user_message
+    if image_context:
+        final_message = (
+            f"{user_message}\n\n"
+            f"[Document Image Context]\n"
+            f"The user has uploaded a financial document. The following information was automatically extracted from the image. "
+            f"Use this as additional input alongside the user's message:\n\n"
+            f"{image_context}\n"
+            f"[End Document Image Context]"
+        )
+
+    messages.append({"role": "user", "content": final_message})
 
     logger.info("Sending extraction request. User message: %s", user_message)
 

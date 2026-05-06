@@ -7,6 +7,7 @@ class TaxSathiState(TypedDict, total=False):
     conversation_history: list[dict]
     session_id: Optional[str]
     profile_context: Optional[str]
+    image_context: Optional[str]           # Plain-text financial summary from uploaded image, if any
 
     # ── Router ─────────────────────────────────────────────────────────────────
     intent: Literal[

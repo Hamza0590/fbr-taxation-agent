@@ -46,6 +46,7 @@ class PipelineRequest(BaseModel):
     conversation_history: Optional[list[ChatMessage]] = None
     session_id: Optional[str] = None
     profile_context: Optional[str] = None  # Formatted profile snapshot when "Use Profile" is on
+    image_context: Optional[str] = None    # Plain-text financial summary extracted from an uploaded image
 
 
 # === Processing Trace Models (for the frontend canvas) ===

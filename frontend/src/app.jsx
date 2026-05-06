@@ -113,7 +113,8 @@ const App = () => {
 
   // ── Send message ──────────────────────────────────────────────────────────
   // profileToUse: the profile object if "Use Profile" is on, or null
-  const onSendMessage = async (text, profileToUse = null) => {
+  // imageContext: plain-text extracted from an uploaded image, or null
+  const onSendMessage = async (text, profileToUse = null, imageContext = null) => {
     let sessionId = currentSessionId;
 
     // Create session lazily on first message
@@ -146,7 +147,7 @@ const App = () => {
     try {
       const conversationHistory = messages.map(m => ({ role: m.role, content: m.content }));
       const profileContext = profileToUse ? window.API.formatProfileContext(profileToUse) : null;
-      const res = await window.API.sendMessage(sessionId, text, conversationHistory, profileContext);
+      const res = await window.API.sendMessage(sessionId, text, conversationHistory, profileContext, imageContext);
 
       const assistantMsg = {
         id: "tmp-a-" + Date.now(),

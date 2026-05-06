@@ -25,7 +25,7 @@ class GoogleOAuthSettings(BaseSettings):
     client_id: str = ""
     client_secret: str = ""
     redirect_uri: str = "http://localhost:8000/api/v1/auth/google/callback"
-    frontend_redirect: str = "http://localhost:5173"
+    frontend_redirect: str = "http://localhost:3000"
 
     model_config = {
         "env_prefix": "GOOGLE_",

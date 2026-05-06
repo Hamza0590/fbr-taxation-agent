@@ -63,8 +63,10 @@ const Workspace = ({ user, profile, messages, onSendMessage, streaming, streamLa
   const [structuredOpen, setStructuredOpen] = React.useState(false);
   const [structured, setStructured] = React.useState(null);
   const [voiceActive, setVoiceActive] = React.useState(false);
+  const [attachedImage, setAttachedImage] = React.useState(null);
   const messagesEndRef = React.useRef(null);
   const recognitionRef = React.useRef(null);
+  const fileInputRef = React.useRef(null);
 
   const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
   const speechSupported = !!SpeechRecognition;
@@ -100,12 +102,41 @@ const Workspace = ({ user, profile, messages, onSendMessage, streaming, streamLa
     }
   }, [messages, streaming, pendingQuestions]);
 
+  const onFileSelected = (e) => {
+    const file = e.target.files && e.target.files[0];
+    if (!file) return;
+    e.target.value = "";
+    const allowed = ["image/jpeg", "image/png", "image/webp"];
+    if (!allowed.includes(file.type)) {
+      setAttachedImage({ file: null, previewUrl: null, extractedContext: null, extracting: false, error: "Unsupported file type. Please upload a JPEG, PNG, or WebP image." });
+      return;
+    }
+    if (file.size > 10 * 1024 * 1024) {
+      setAttachedImage({ file: null, previewUrl: null, extractedContext: null, extracting: false, error: "File too large. Maximum size is 10MB." });
+      return;
+    }
+    const previewUrl = URL.createObjectURL(file);
+    setAttachedImage({ file, previewUrl, extractedContext: null, extracting: true, error: null });
+    window.API.extractImageContext(file).then((rawText) => {
+      setAttachedImage(prev => prev ? { ...prev, extractedContext: rawText, extracting: false } : null);
+    }).catch((err) => {
+      setAttachedImage(prev => prev ? { ...prev, error: err.message || "Extraction failed", extracting: false } : null);
+    });
+  };
+
+  const clearAttachment = () => {
+    if (attachedImage && attachedImage.previewUrl) URL.revokeObjectURL(attachedImage.previewUrl);
+    setAttachedImage(null);
+  };
+
   const submit = (text) => {
     const finalText = (text || prompt).trim();
     if (!finalText || streaming) return;
-    // Pass profile when "Use Profile" is toggled on
-    onSendMessage(finalText, useProfile ? profile : null);
+    if (attachedImage && attachedImage.extracting) return;
+    const imageContext = (attachedImage && attachedImage.extractedContext) || null;
+    onSendMessage(finalText, useProfile ? profile : null, imageContext);
     setPrompt("");
+    if (attachedImage) clearAttachment();
   };
 
   const onKey = (e) => {
@@ -188,6 +219,47 @@ const Workspace = ({ user, profile, messages, onSendMessage, streaming, streamLa
 
           {/* Input */}
           <div className="prompt-card" style={{flexShrink:0}}>
+            <input
+              ref={fileInputRef}
+              type="file"
+              accept="image/jpeg,image/png,image/webp"
+              style={{display:"none"}}
+              onChange={onFileSelected}
+            />
+            {/* Image attachment preview */}
+            {attachedImage && (
+              <div style={{display:"flex", alignItems:"center", gap:10, padding:"6px 10px 2px", flexWrap:"wrap"}}>
+                {attachedImage.previewUrl && (
+                  <img
+                    src={attachedImage.previewUrl}
+                    alt="attachment"
+                    style={{width:48, height:48, objectFit:"cover", borderRadius:6, border:"1px solid var(--line)"}}
+                  />
+                )}
+                <div style={{flex:1, minWidth:0}}>
+                  {attachedImage.extracting && (
+                    <span style={{fontSize:11, color:"var(--ink-4)"}}>Extracting document…</span>
+                  )}
+                  {!attachedImage.extracting && attachedImage.extractedContext !== null && attachedImage.extractedContext !== "" && (
+                    <span style={{fontSize:11, color:"var(--forest)"}}>&#x2713; Document ready</span>
+                  )}
+                  {!attachedImage.extracting && attachedImage.extractedContext === "" && !attachedImage.error && (
+                    <span style={{fontSize:11, color:"var(--amber)"}}>No financial data found in image</span>
+                  )}
+                  {attachedImage.error && (
+                    <span style={{fontSize:11, color:"var(--rose)"}}>{attachedImage.error}</span>
+                  )}
+                </div>
+                <button
+                  className="tool-btn"
+                  onClick={clearAttachment}
+                  style={{padding:"4px 6px"}}
+                  title="Remove attachment"
+                >
+                  <Icon name="x" size={12}/>
+                </button>
+              </div>
+            )}
             <textarea
               className="prompt-input"
               value={prompt}
@@ -220,6 +292,14 @@ const Workspace = ({ user, profile, messages, onSendMessage, streaming, streamLa
                   <Icon name="x" size={12}/>
                 </button>
               )}
+              <button
+                className="tool-btn"
+                onClick={() => fileInputRef.current && fileInputRef.current.click()}
+                title="Attach a financial document image"
+                disabled={streaming}
+              >
+                <Icon name="paperclip" size={14}/>
+              </button>
               {speechSupported && (
                 <button
                   className={`tool-btn${voiceActive ? " voice-active" : ""}`}
@@ -230,7 +310,12 @@ const Workspace = ({ user, profile, messages, onSendMessage, streaming, streamLa
                   <Icon name="mic" size={14}/>
                 </button>
               )}
-              <button className="send-btn" onClick={() => submit()} disabled={!prompt.trim() || streaming}>
+              <button
+                className="send-btn"
+                onClick={() => submit()}
+                disabled={!prompt.trim() || streaming || (attachedImage && attachedImage.extracting)}
+                title={attachedImage && attachedImage.extracting ? "Waiting for document extraction…" : undefined}
+              >
                 Ask <Icon name="send" size={12}/>
               </button>
             </div>

@@ -33,6 +33,7 @@ async def extraction_node(state: TaxSathiState) -> dict:
         extraction_result = await extract_tax_data(
             user_message=extraction_message,
             conversation_history=conversation_history or None,
+            image_context=state.get("image_context"),
         )
     except Exception as exc:
         logger.exception("extract_tax_data failed")
